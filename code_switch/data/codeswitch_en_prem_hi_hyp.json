@@ -1,0 +1,1000 @@
+{"premise": "All aliens are monsters.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are vehicles.", "hypothesis": "कुछ वाहनों Merwaks कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are professionals.", "hypothesis": "कुछ जोकर पेशेवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are animals.", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are symbols.", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are characters.", "hypothesis": "कोई विजार्ड अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are tools.", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are species.", "hypothesis": "कुछ बेकर्स जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are forces.", "hypothesis": "कोई वैज्ञानिक शक्‍तियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are professionals.", "hypothesis": "कोई विद्यार्थी पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are organisms.", "hypothesis": "कोई शिक्षक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are objects.", "hypothesis": "कुछ शिक्षक चीज़ें हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are animals.", "hypothesis": "कुछ प्रेत जानवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are structures.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are humans.", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are monsters.", "hypothesis": "कुछ किसान राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are animals.", "hypothesis": "कोई डॉक्टर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vehicles.", "hypothesis": "कुछ शिक्षक वाहन हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are systems.", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are forces.", "hypothesis": "कुछ सेनाओं zmamams कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are things.", "hypothesis": "कुछ चीजें जोकर कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are vehicles.", "hypothesis": "कुछ वाहन भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are things.", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are symbols.", "hypothesis": "कोई बेकर्स चिह्न हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are foods.", "hypothesis": "कुछ भोजन भोजन खाना खाना - पीना होता है ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are organisms.", "hypothesis": "कुछ घोड़े जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are animals.", "hypothesis": "कुछ गायों जानवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are intelligences.", "hypothesis": "कोई ड्रैगन्स बुद्धि हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are organisms.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are devices.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are machines.", "hypothesis": "कुछ गायों की मशीनों हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are symbols.", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are symbols.", "hypothesis": "कोई ड्रैगन्स चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are things.", "hypothesis": "कुछ विद्यार्थी बातें कर रहे हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are beings.", "hypothesis": "कुछ लोग भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are structures.", "hypothesis": "कुछ संरचना किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are vehicles.", "hypothesis": "कोई जासूस वाहन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are structures.", "hypothesis": "कुछ संरचनाएं भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are myths.", "hypothesis": "कोई शिक्षक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are roles.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are forces.", "hypothesis": "कोई कंप्यूटर सेनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are myths.", "hypothesis": "कोई बंदर कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are systems.", "hypothesis": "कोई विद्यार्थी सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are devices.", "hypothesis": "कुछ घोड़े उपकरणों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are objects.", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are creatures.", "hypothesis": "कुछ सैनिक प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are humans.", "hypothesis": "कोई शिक्षक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are occupations.", "hypothesis": "कुछ बेबलिन चक्कर काट रहे हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are entities.", "hypothesis": "कुछ किसान निगम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are foods.", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are technologies.", "hypothesis": "कोई भूत शिकारी तकनीक नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are species.", "hypothesis": "कुछ वैज्ञानिक जाति हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are devices.", "hypothesis": "कोई जोकर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are organisms.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are machines.", "hypothesis": "कुछ मशीनों रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are machines.", "hypothesis": "कोई जानाबलिन मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are tools.", "hypothesis": "कोई जानाबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are organisms.", "hypothesis": "कुछ जीव बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are species.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are objects.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are animals.", "hypothesis": "कुछ घोड़े जानवरों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are vehicles.", "hypothesis": "कुछ वाहनों काररोस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are foods.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are structures.", "hypothesis": "कुछ संरचनाएं जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are warriors.", "hypothesis": "कुछ योद्धा गोबलिन हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are instruments.", "hypothesis": "कुछ भूत शिकारी यंत्र हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are structures.", "hypothesis": "कोई लेफ्टिनेंट संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are things.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are symbols.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are occupations.", "hypothesis": "कुछ व्यापार जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are structures.", "hypothesis": "कुछ किसान इमारतें बनाते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are vehicles.", "hypothesis": "कोई सैनिक वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are organisms.", "hypothesis": "कोई कंप्यूटर प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are forces.", "hypothesis": "कुछ मशालें शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are devices.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are professionals.", "hypothesis": "कोई बेकर्स पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are tools.", "hypothesis": "कुछ वैज्ञानिक औज़ार हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are foods.", "hypothesis": "कुछ मेरची भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are entities.", "hypothesis": "कुछ निगम सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are organisms.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are animals.", "hypothesis": "कुछ जानवर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are tools.", "hypothesis": "कुछ औज़ार किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are intelligences.", "hypothesis": "कोई जानाबलिन बुद्धि नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are devices.", "hypothesis": "कुछ कारों उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are technologies.", "hypothesis": "कोई शहर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are humans.", "hypothesis": "कुछ मानव जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are vehicles.", "hypothesis": "कुछ वाहन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are species.", "hypothesis": "कुछ मशालियाँ प्रजाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are forces.", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are devices.", "hypothesis": "कुछ बेकर्स उपकरणों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are warriors.", "hypothesis": "कुछ कंप्यूटर योद्धा हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are machines.", "hypothesis": "कोई विदेशी मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are monsters.", "hypothesis": "कुछ राक्षसों खाना देने वाले हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are beings.", "hypothesis": "कुछ गोबोलिन लोग हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are things.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are structures.", "hypothesis": "कोई ड्रैगन्स की संरचना नहीं हैं।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are animals.", "hypothesis": "कोई सैनिक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are vehicles.", "hypothesis": "कोई फिल्टरों के वाहन हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are intelligences.", "hypothesis": "कुछ समझदार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are structures.", "hypothesis": "कुछ संरचनाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are objects.", "hypothesis": "कोई राजकुमारी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are occupations.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are concepts.", "hypothesis": "कोई भूत - विद्या नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are warriors.", "hypothesis": "कुछख़ुदार योद्धा हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are animals.", "hypothesis": "कुछ जानवर बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are animals.", "hypothesis": "कुछ शिक्षक जानवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are things.", "hypothesis": "कुछ Merroks बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are intelligences.", "hypothesis": "कुछ बेकर्स बुद्धि हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are professionals.", "hypothesis": "कुछ डॉक्टर पेशेवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are myths.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are things.", "hypothesis": "कुछ बातें विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vegetables.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are professionals.", "hypothesis": "कुछ लेखक पेशेवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are things.", "hypothesis": "कोई समुद्री डाकू बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are creatures.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are roles.", "hypothesis": "कुछ संगीतकार भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are structures.", "hypothesis": "कुछ संरचनाें बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are symbols.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are monsters.", "hypothesis": "कोई बेकर्स राक्षस हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are objects.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are characters.", "hypothesis": "कुछ अक्षर गायों हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are foods.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are foods.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vehicles.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are devices.", "hypothesis": "कोई संगीतकार उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are symbols.", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are occupations.", "hypothesis": "कुछ बेकर्स चक्कर काट रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are animals.", "hypothesis": "कोई बेकर्स जानवर हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are instruments.", "hypothesis": "कोई वैज्ञानिक यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are vegetables.", "hypothesis": "कोई बिल्ली सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are concepts.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are organisms.", "hypothesis": "कोई स्वादिष्ट प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are tools.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are foods.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are technologies.", "hypothesis": "कोई आविष्कार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are entities.", "hypothesis": "कोई समुद्री डाकू निगम हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are animals.", "hypothesis": "कुछ जानवर कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are beings.", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are foods.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are concepts.", "hypothesis": "कोई विदेशी विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are beings.", "hypothesis": "कुछ विद्यार्थी मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are roles.", "hypothesis": "कोई सैनिक भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are characters.", "hypothesis": "कोई विद्यार्थी अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vehicles.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are myths.", "hypothesis": "कुछ पौराणिक कथाओं कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are intelligences.", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are foods.", "hypothesis": "कुछ भोजन वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are things.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "कुछ भूत शिकारी प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are structures.", "hypothesis": "कोई जोकर संरचना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are warriors.", "hypothesis": "कुछ योद्धाओं जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are instruments.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are organisms.", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are foods.", "hypothesis": "कुछ भोजन जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are foods.", "hypothesis": "कुछ भोजन समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are symbols.", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are characters.", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are organisms.", "hypothesis": "कुछ जीव स्वादिष्ट होते हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are structures.", "hypothesis": "कुछ संरचना सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are characters.", "hypothesis": "कुछ बंदर अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are concepts.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are humans.", "hypothesis": "कुछ मनुष्य वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are humans.", "hypothesis": "कोई भूत शिकारी मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are creatures.", "hypothesis": "कुछ स्वादिष्ट प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are occupations.", "hypothesis": "कुछ शिक्षक काम कर रहे हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are intelligences.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are creatures.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are characters.", "hypothesis": "कुछ अक्षर घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are organisms.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are symbols.", "hypothesis": "कुछ चिह्न चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are characters.", "hypothesis": "कोई समुद्री डाकू अक्षर हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "कोई भूत शिकारी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are beings.", "hypothesis": "कुछ लोग विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are organisms.", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are tools.", "hypothesis": "कोई खानाोसर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are things.", "hypothesis": "कोई सैनिक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are beings.", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are monsters.", "hypothesis": "कुछ राक्षसों विद्यार्थी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are professionals.", "hypothesis": "कोई समुद्री डाकू पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are concepts.", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are humans.", "hypothesis": "कुछ चुड़ैल मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are intelligences.", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are occupations.", "hypothesis": "कुछ जासूस व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are concepts.", "hypothesis": "कुछ घोड़े धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are beings.", "hypothesis": "कुछ लोग जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are occupations.", "hypothesis": "कुछ खाना खाने के काम कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are creatures.", "hypothesis": "कुछ प्राणी जिम्मी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are forces.", "hypothesis": "कुछ शक्‍तियाँ रोबोट हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are species.", "hypothesis": "कोई जासूस जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are tools.", "hypothesis": "कोई विद्यार्थी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are creatures.", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are animals.", "hypothesis": "कुछ चुड़ैल जानवरों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are animals.", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are intelligences.", "hypothesis": "कुछ प्रेत बुद्धि रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are creatures.", "hypothesis": "नहीं जादूगर प्राणी हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are instruments.", "hypothesis": "कुछ विदेशी यंत्र हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are characters.", "hypothesis": "कुछ अक्षर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are humans.", "hypothesis": "कुछ गायों को मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are foods.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are characters.", "hypothesis": "कोई जोकर अक्षर हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are vegetables.", "hypothesis": "कोई गायों सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are entities.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are instruments.", "hypothesis": "कुछ यंत्र जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are entities.", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are intelligences.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are symbols.", "hypothesis": "कोई बंदर चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are instruments.", "hypothesis": "कुछ यंत्र बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are vegetables.", "hypothesis": "कोई जोकर सब्जियां नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are foods.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are tools.", "hypothesis": "कुछ औज़ार चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are technologies.", "hypothesis": "कुछ भूत तकनीक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are monsters.", "hypothesis": "कुछ राक्षसों रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are humans.", "hypothesis": "कुछ मानव ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are myths.", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are organisms.", "hypothesis": "कुछ समुद्री डाकू जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are devices.", "hypothesis": "कुछ सैनिक उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are animals.", "hypothesis": "कुछ ड्रैगन्स जानवरों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are tools.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are objects.", "hypothesis": "कुछ वस्तुएँ विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are warriors.", "hypothesis": "कोई समुद्री डाकू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are vehicles.", "hypothesis": "कुछ गाड़ियाँ गायों की हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are beings.", "hypothesis": "कुछ आम लोग हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are characters.", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vehicles.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are species.", "hypothesis": "कुछ जातियाँ खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are species.", "hypothesis": "कुछ जड़ी - बूटियों की जाति होती है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are humans.", "hypothesis": "कुछ मनुष्य किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are structures.", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are characters.", "hypothesis": "कोई कम्प्यूटर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are characters.", "hypothesis": "कुछ बेकर्स अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are instruments.", "hypothesis": "कुछ यंत्र कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are devices.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are animals.", "hypothesis": "कोई किसान जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are professionals.", "hypothesis": "कुछ सैनिक पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are technologies.", "hypothesis": "कुछ तकनीकों के होते हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are instruments.", "hypothesis": "कोई रोबॉट्स औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are devices.", "hypothesis": "कोई विजार्ड उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are structures.", "hypothesis": "कुछ संरचना ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are humans.", "hypothesis": "कुछ मनुष्य विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are humans.", "hypothesis": "कोई जासूस मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are monsters.", "hypothesis": "कुछ जासूस राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are professionals.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are characters.", "hypothesis": "कोई चित्रकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are devices.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are humans.", "hypothesis": "कुछ वैज्ञानिक मनुष्य हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are vehicles.", "hypothesis": "कुछ विद्यार्थी वाहन हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are objects.", "hypothesis": "कुछ घोड़े वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are professionals.", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are creatures.", "hypothesis": "कोई सूची प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are species.", "hypothesis": "कुछ आविष्कार प्रजाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are devices.", "hypothesis": "कुछ उपकरण डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are intelligences.", "hypothesis": "कोई छात्र समझदार हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are myths.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are intelligences.", "hypothesis": "कोई चित्रकार बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are entities.", "hypothesis": "कुछ विद्यार्थी निगम हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are vegetables.", "hypothesis": "कोई छात्र सब्ज़ियाँ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are tools.", "hypothesis": "कोई चित्रकार औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are intelligences.", "hypothesis": "कुछ जासूस समझदार हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are monsters.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are warriors.", "hypothesis": "कुछ रोबोट योद्धा हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are things.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are humans.", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are concepts.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are objects.", "hypothesis": "कुछ बेकर्स वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are technologies.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are roles.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are tools.", "hypothesis": "कुछ प्रेत उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are organisms.", "hypothesis": "कोई प्रेत जीव हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are systems.", "hypothesis": "कुछ व्यवस्थाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are creatures.", "hypothesis": "कुछ ड्रैगन्स प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are forces.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are beings.", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are creatures.", "hypothesis": "कोई गोबलिन प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are species.", "hypothesis": "कोई वैज्ञानिक जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are technologies.", "hypothesis": "कुछ तकनीक वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are vehicles.", "hypothesis": "नहीं जादूगर वाहन हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are beings.", "hypothesis": "कुछ भूत हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are beings.", "hypothesis": "कुछ रोबॉट्स मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are species.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are forces.", "hypothesis": "कुछ ड्रैगन्स सेना हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are foods.", "hypothesis": "कुछ भोजन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are forces.", "hypothesis": "कुछ सेनाओं को गोली मार रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are beings.", "hypothesis": "कुछ जोकर मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are intelligences.", "hypothesis": "कोई जासूस बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are symbols.", "hypothesis": "कुछ बंदर चिह्न हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are myths.", "hypothesis": "कुछ पौराणिक कथाओं के शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are vegetables.", "hypothesis": "कोई विदेशी सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are myths.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are creatures.", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are roles.", "hypothesis": "कोई किसान भूमिका नहीं अदा करता ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are characters.", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are characters.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are animals.", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are foods.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are creatures.", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are tools.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are warriors.", "hypothesis": "कोई आलू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are systems.", "hypothesis": "कुछ व्यवस्थाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are myths.", "hypothesis": "कोई भूत शिकारी कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are occupations.", "hypothesis": "कोई हल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are characters.", "hypothesis": "कोई जासूस अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are characters.", "hypothesis": "कुछ अक्षर विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are technologies.", "hypothesis": "कोई कार्टून तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are symbols.", "hypothesis": "कोई तूफान चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are machines.", "hypothesis": "कोई जासूस मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are myths.", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are animals.", "hypothesis": "कुछ जानवरों का निर्माण किया जाता है.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are occupations.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are things.", "hypothesis": "कोई बेकर्स बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are beings.", "hypothesis": "कुछ लोग किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are monsters.", "hypothesis": "कोई भूत राक्षस हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are intelligences.", "hypothesis": "कोई वैज्ञानिक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are systems.", "hypothesis": "कुछ सिस्टम भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are structures.", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are entities.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ रोबॉट्स हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are forces.", "hypothesis": "कुछ प्रेत सेना हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are species.", "hypothesis": "कुछ विद्यार्थी जाति हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are technologies.", "hypothesis": "कुछ संगीतकार तकनीक हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are warriors.", "hypothesis": "कोई खानार योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are species.", "hypothesis": "कुछ डॉक्टर जाति हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are symbols.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are tools.", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are characters.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are characters.", "hypothesis": "कुछ भूत अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are symbols.", "hypothesis": "कुछ चिह्न रोबॉट्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are things.", "hypothesis": "कुछ जासूस बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are organisms.", "hypothesis": "कुछ जीव उड़ रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are professionals.", "hypothesis": "कोई विदेशी पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are things.", "hypothesis": "कोई भूत शिकारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are organisms.", "hypothesis": "कुछ संगीतकार जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are technologies.", "hypothesis": "कुछ तकनीकें तो तूफानी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are objects.", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are systems.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are intelligences.", "hypothesis": "कुछ बुद्धि गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are concepts.", "hypothesis": "कुछ धारणाएँ बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are creatures.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are objects.", "hypothesis": "कुछ चीज़ें काररोट्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are devices.", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are beings.", "hypothesis": "कुछ ज्वालामुखी मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are vehicles.", "hypothesis": "कुछ विदेशी वाहन हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are vegetables.", "hypothesis": "कुछ प्रेत सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are organisms.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are myths.", "hypothesis": "कुछ विद्यार्थी काल्पनिक हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are instruments.", "hypothesis": "कुछ यंत्र जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are machines.", "hypothesis": "कुछ शिक्षक मशीनों पर काम करते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are entities.", "hypothesis": "कोई विदेशी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are devices.", "hypothesis": "कोई गोबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are myths.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are concepts.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are monsters.", "hypothesis": "कुछ राक्षसों चकमक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are tools.", "hypothesis": "कुछ औज़ार बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are intelligences.", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are forces.", "hypothesis": "कोई तूफान बल हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are technologies.", "hypothesis": "कोई खानाोसी तकनीक नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are structures.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are occupations.", "hypothesis": "कुछ व्यवसाय भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are animals.", "hypothesis": "कुछ किसान जानवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are characters.", "hypothesis": "कुछ अक्षर शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are species.", "hypothesis": "कुछ जासूस जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are machines.", "hypothesis": "कोई भूत मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are humans.", "hypothesis": "कुछ बंदर मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are foods.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are beings.", "hypothesis": "कुछ प्राणियों घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are entities.", "hypothesis": "कोई चित्रकार एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are forces.", "hypothesis": "कोई बेकर्स सेना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are systems.", "hypothesis": "कुछ सिस्टमों मुझे तंग कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are monsters.", "hypothesis": "कुछ राक्षसों कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are vehicles.", "hypothesis": "कोई विदेशी वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are creatures.", "hypothesis": "कुछ प्राणी जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are vegetables.", "hypothesis": "कुछ विद्यार्थियों को सब्ज़ियाँ मिलती हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are machines.", "hypothesis": "कोई शिक्षक मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are objects.", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are entities.", "hypothesis": "कुछ निगम विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are technologies.", "hypothesis": "कुछ तकनीकएं जिम्मी होती हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are systems.", "hypothesis": "कोई प्रेत सिस्टम हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are machines.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vehicles.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are vegetables.", "hypothesis": "कोई मेंढक सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are warriors.", "hypothesis": "कुछ Merrowaks योद्धाओं हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are species.", "hypothesis": "कोई गैस की जातियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are concepts.", "hypothesis": "कुछ धारणाएँ आविष्कारक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are roles.", "hypothesis": "कुछ भूमिकायाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are devices.", "hypothesis": "कुछ उपकरणों जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are concepts.", "hypothesis": "कुछ विदेशी धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are roles.", "hypothesis": "कुछ भूमिकाएं बेबलिन हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are occupations.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are instruments.", "hypothesis": "कुछ खानाोसी यंत्र हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are tools.", "hypothesis": "कुछ औज़ार कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are beings.", "hypothesis": "कुछ लोग गोबलिन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are things.", "hypothesis": "कोई जादूगर कुछ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are concepts.", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are creatures.", "hypothesis": "कुछ प्राणी शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are structures.", "hypothesis": "कुछ बंदरों संरचनाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are machines.", "hypothesis": "कुछ मशीनों भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are vehicles.", "hypothesis": "कुछ गाड़ियों के टायर होते हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are foods.", "hypothesis": "कोई घोड़े भोजन कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are concepts.", "hypothesis": "कुछ मशालें धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are monsters.", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are characters.", "hypothesis": "कुछ ड्रैगन्स अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are roles.", "hypothesis": "कुछ मशालों की भूमिका होती है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are vegetables.", "hypothesis": "कोई प्रेत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are roles.", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are structures.", "hypothesis": "कुछ संरचनायाँ घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are foods.", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are foods.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are animals.", "hypothesis": "कुछ जानवर जंगली हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are intelligences.", "hypothesis": "कोई डॉक्टर बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are machines.", "hypothesis": "कुछ बेकर्स मशीनों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are foods.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are foods.", "hypothesis": "कुछ भोजन - वस्तुएँ विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are professionals.", "hypothesis": "कुछ बंदर पेशेवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are forces.", "hypothesis": "कुछ संगीतकार शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are animals.", "hypothesis": "कुछ फिल्टरों जानवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are organisms.", "hypothesis": "कोई भूत जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are occupations.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are concepts.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are species.", "hypothesis": "कुछ जादूगर जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are structures.", "hypothesis": "कुछ भूत संरचनाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are things.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are species.", "hypothesis": "कुछ रोबॉट्स जाति हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are forces.", "hypothesis": "कोई जासूस सेना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are vegetables.", "hypothesis": "कोई घोड़े सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are characters.", "hypothesis": "कुछ अक्षर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are forces.", "hypothesis": "कुछ सेनाओं जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are roles.", "hypothesis": "कुछ भूमिकायाँ भूमिकाएँ होती हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are creatures.", "hypothesis": "कुछ प्राणी घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are roles.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are structures.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are systems.", "hypothesis": "कुछ फिल्टरों की व्यवस्थाएँ हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are instruments.", "hypothesis": "कुछ भूत यंत्र हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "कुछ प्राणी भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are vehicles.", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are occupations.", "hypothesis": "कोई बेकर्स काम कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are creatures.", "hypothesis": "कुछ प्राणी वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are humans.", "hypothesis": "कुछ चित्रकार मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are machines.", "hypothesis": "कोई खेत नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are myths.", "hypothesis": "कुछ मिथक भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are machines.", "hypothesis": "कुछ जादूगर मशीनों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vegetables.", "hypothesis": "कोई शिक्षक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are instruments.", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are intelligences.", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are concepts.", "hypothesis": "कुछ धारणाएँ गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are technologies.", "hypothesis": "कुछ तकनीकें खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are warriors.", "hypothesis": "कुछ योद्धा सूची बना रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are forces.", "hypothesis": "कोई जादूगर सेना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are characters.", "hypothesis": "कुछ चकमक के अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are warriors.", "hypothesis": "कोई जासूस योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are vegetables.", "hypothesis": "कुछ जोकर सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are things.", "hypothesis": "कोई तूफानी बातें नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are characters.", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are instruments.", "hypothesis": "कोई डॉक्टर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are roles.", "hypothesis": "कुछ डॉक्टरों की भूमिका होती है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are machines.", "hypothesis": "कुछ मशीनों संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are beings.", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are characters.", "hypothesis": "कुछ विदेशी अक्षर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are professionals.", "hypothesis": "कुछ भूत पेशेवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are monsters.", "hypothesis": "कुछ राक्षसों गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are occupations.", "hypothesis": "कुछ चक्कर आ रहे हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are devices.", "hypothesis": "कुछ उपकरण तो तूफानी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are things.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are monsters.", "hypothesis": "कोई बंदर राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are devices.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are monsters.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are foods.", "hypothesis": "कुछ भोजन - वस्तुएँ सैनिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are things.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are monsters.", "hypothesis": "कोई ड्रैगन्स राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are symbols.", "hypothesis": "कुछ सैनिक प्रतीक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are forces.", "hypothesis": "कोई किसान सेना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are roles.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are foods.", "hypothesis": "कोई मेंढक भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are objects.", "hypothesis": "कोई जादूगर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are roles.", "hypothesis": "कोई बेकर्स भूमिका अदा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are things.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are creatures.", "hypothesis": "कोई जोकर प्राणी हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are technologies.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are creatures.", "hypothesis": "कुछ मशालें प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are warriors.", "hypothesis": "कोई बेकर्स योद्धाओं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are warriors.", "hypothesis": "कुछ विद्यार्थी योद्धा हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are organisms.", "hypothesis": "कोई खाना खाने के लिए जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are organisms.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are technologies.", "hypothesis": "कुछ तकनीक ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are roles.", "hypothesis": "कोई सलाहकार भूमिका नहीं दे रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are structures.", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are roles.", "hypothesis": "कुछ मेकरी भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are myths.", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are myths.", "hypothesis": "कुछ पौराणिक कथाओं मैंकरी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are organisms.", "hypothesis": "कोई सैनिक जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are vegetables.", "hypothesis": "कुछ समुद्री डाकू सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are tools.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are concepts.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are things.", "hypothesis": "कुछ वैज्ञानिकों के पास कुछ चीज़ें हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are foods.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are vegetables.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are humans.", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are concepts.", "hypothesis": "कोई ड्रैगन्स धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are professionals.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are beings.", "hypothesis": "कुछ कंप्यूटर मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are instruments.", "hypothesis": "कुछ Merrokaka सामान कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are instruments.", "hypothesis": "कुछ यंत्र बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are things.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are animals.", "hypothesis": "कुछ जासूस जानवर हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are tools.", "hypothesis": "कोई जादूगर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are monsters.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are intelligences.", "hypothesis": "कोई शिक्षक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are structures.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are foods.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are species.", "hypothesis": "कुछ जातियाँ बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are systems.", "hypothesis": "कुछ मेरची सिस्टम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are characters.", "hypothesis": "कुछ कंप्यूटर अक्षर होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are animals.", "hypothesis": "कुछ जानवर गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are species.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are professionals.", "hypothesis": "कोई पेशेवर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are entities.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are occupations.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are technologies.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are structures.", "hypothesis": "कुछ संरचनाएँ रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are creatures.", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are characters.", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are roles.", "hypothesis": "कुछ भूत भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are professionals.", "hypothesis": "कुछ संगीतकार पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are creatures.", "hypothesis": "कुछ प्राणी कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are objects.", "hypothesis": "कुछ वस्तुएँ बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are systems.", "hypothesis": "कुछ तंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are structures.", "hypothesis": "कोई फिल्टरों की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are concepts.", "hypothesis": "कोई सजावटी धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are machines.", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are intelligences.", "hypothesis": "कोई बेकर्स समझ रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are forces.", "hypothesis": "कुछ बंदर सेना हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are occupations.", "hypothesis": "कुछ व्यापार जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are systems.", "hypothesis": "कुछ सिस्टम किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are tools.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are vegetables.", "hypothesis": "कुछ ब्लिनलिन सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are things.", "hypothesis": "कुछ चीजें जादूगर कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are roles.", "hypothesis": "कुछ भूमिकायाँ बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are organisms.", "hypothesis": "कुछ जीव वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are intelligences.", "hypothesis": "कुछ बुद्धि किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are technologies.", "hypothesis": "कोई शिक्षक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are devices.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are tools.", "hypothesis": "कुछ औज़ार जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are humans.", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are vegetables.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are intelligences.", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are systems.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are machines.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are occupations.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are objects.", "hypothesis": "कोई ड्रैगन्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are symbols.", "hypothesis": "कुछ चिह्न विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are myths.", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are symbols.", "hypothesis": "कुछ चिह्न संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are structures.", "hypothesis": "कोई खाना बनाने की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are instruments.", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are things.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are animals.", "hypothesis": "कुछ वैज्ञानिक जानवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are systems.", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are entities.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are monsters.", "hypothesis": "कोई गायों राक्षसों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are objects.", "hypothesis": "कुछ कारों की वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are instruments.", "hypothesis": "कोई सूची उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are forces.", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are intelligences.", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are humans.", "hypothesis": "कोई घोड़े मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are symbols.", "hypothesis": "कुछ चिह्न डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are technologies.", "hypothesis": "कुछ बंदर तकनीक हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are characters.", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are animals.", "hypothesis": "कुछ जानवर बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are structures.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are entities.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are species.", "hypothesis": "कुछ समुद्री डाकू जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are organisms.", "hypothesis": "कोई वैज्ञानिक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are devices.", "hypothesis": "कुछ उपकरणों बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are things.", "hypothesis": "कुछ बातें सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are warriors.", "hypothesis": "कुछ बंदर योद्धाओं हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are myths.", "hypothesis": "कोई वैज्ञानिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are animals.", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are warriors.", "hypothesis": "कोई भूत शिकारी योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are professionals.", "hypothesis": "कुछ पेशेवर किसान होते हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are symbols.", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are characters.", "hypothesis": "कुछ अक्षर मैंकरी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are concepts.", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are organisms.", "hypothesis": "कुछ डॉक्टर जीव हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are organisms.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are professionals.", "hypothesis": "कुछ मेरशी पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are structures.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are beings.", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are intelligences.", "hypothesis": "कोई दस्तावेजर दिमागी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are intelligences.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are humans.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are intelligences.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are characters.", "hypothesis": "कोई भूत अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are tools.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are technologies.", "hypothesis": "कुछ भूत शिकारी तकनीक कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are instruments.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are instruments.", "hypothesis": "कोई विद्यार्थी वाद्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are things.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are humans.", "hypothesis": "कोई आविष्कार मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are vegetables.", "hypothesis": "कुछ घोड़े सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are systems.", "hypothesis": "कुछ सिस्टम बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are animals.", "hypothesis": "कुछ जानवर जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are professionals.", "hypothesis": "कुछ पेशेवर भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are intelligences.", "hypothesis": "कोई समुद्री डाकू बुद्धि हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are vegetables.", "hypothesis": "कुछ किसान सब्ज़ियाँ खाते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are occupations.", "hypothesis": "कोई समुद्री डाकू काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are monsters.", "hypothesis": "कुछ बेकर्स राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are objects.", "hypothesis": "कोई विदेशी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are symbols.", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are tools.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are myths.", "hypothesis": "कुछ खानाोसी कल्पनाएं हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are things.", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are instruments.", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are instruments.", "hypothesis": "कोई विदेशी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are creatures.", "hypothesis": "कुछ प्रेत प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are humans.", "hypothesis": "कुछ भूत शिकारी मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are symbols.", "hypothesis": "कुछ चिह्न समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are organisms.", "hypothesis": "कोई संगीतकार प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are intelligences.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are entities.", "hypothesis": "वैज्ञानिकों में से कोई भी निगम नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are organisms.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are organisms.", "hypothesis": "कोई चित्रकार जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are things.", "hypothesis": "कुछ चुड़ैल चीज़ें हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are beings.", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are machines.", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are technologies.", "hypothesis": "कुछ किसान तकनीक हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are things.", "hypothesis": "कोई राजकुमारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are instruments.", "hypothesis": "कुछ यंत्रों घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are tools.", "hypothesis": "कोई जोकर औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are systems.", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are machines.", "hypothesis": "कुछ मशीनों जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are technologies.", "hypothesis": "कुछ तकनीकों का आविष्कार किया जाता है।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are entities.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are objects.", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are occupations.", "hypothesis": "कुछ समुद्री डाकू व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are species.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are professionals.", "hypothesis": "कुछ पेशेवर किसान हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are myths.", "hypothesis": "कुछ गायों काल्पनिक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are species.", "hypothesis": "कुछ जातियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are forces.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are myths.", "hypothesis": "कोई चित्रकार कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are foods.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are objects.", "hypothesis": "कोई डॉक्टर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are entities.", "hypothesis": "कुछ निगम जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are entities.", "hypothesis": "कुछ निगम समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are animals.", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are things.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are foods.", "hypothesis": "कुछ वैज्ञानिक भोजन करते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are species.", "hypothesis": "कुछ कंप्यूटर जाति हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are systems.", "hypothesis": "कुछ भूत शिकारी सिस्टम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are professionals.", "hypothesis": "कुछ पेशेवर ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are myths.", "hypothesis": "कुछ पौराणिक कथाओं में भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are beings.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are entities.", "hypothesis": "कोई भूत शिकारी दल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are technologies.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are professionals.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are vehicles.", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are devices.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are machines.", "hypothesis": "कोई प्रेत मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are foods.", "hypothesis": "कुछ भोजन zammams हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are myths.", "hypothesis": "कुछ डॉक्टर कल्पना कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are roles.", "hypothesis": "कुछ भूमिकाएँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are organisms.", "hypothesis": "कोई किसान जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are symbols.", "hypothesis": "कोई गायों को चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are devices.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are characters.", "hypothesis": "कोई दस्तावेजर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are tools.", "hypothesis": "कुछ महाद्वीपीय उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are concepts.", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are symbols.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are devices.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are vehicles.", "hypothesis": "कुछ गायों के वाहन हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are species.", "hypothesis": "कोई विदेशी जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are myths.", "hypothesis": "कोई गायों कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are structures.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are foods.", "hypothesis": "कुछ भूत भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are symbols.", "hypothesis": "कुछ जासूस चिह्न हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are humans.", "hypothesis": "कुछ जादूगर मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are tools.", "hypothesis": "कुछ भूत शिकारी औजार हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are warriors.", "hypothesis": "कुछ संगीतकार योद्धा हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are entities.", "hypothesis": "कुछ निगम कंप्यूटर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are instruments.", "hypothesis": "कुछ शिक्षक यंत्र होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are professionals.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "कोई भूत शिकारी संरचनाएं नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are characters.", "hypothesis": "कोई संगीतकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are systems.", "hypothesis": "कोई सैनिक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are humans.", "hypothesis": "कुछ किसान मनुष्य हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are objects.", "hypothesis": "कोई रोबॉट्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are symbols.", "hypothesis": "कुछ चिह्न सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are concepts.", "hypothesis": "कुछ बंदर धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are professionals.", "hypothesis": "कुछ पेशेवर निर्मित होते हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "कुछ संरचना भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are instruments.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are structures.", "hypothesis": "कोई जासूस संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are concepts.", "hypothesis": "कोई गुप्तता नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are roles.", "hypothesis": "कुछ भूमिकाएँ समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are animals.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are roles.", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are creatures.", "hypothesis": "कोई बंदर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are intelligences.", "hypothesis": "कुछ बुद्धि भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are creatures.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are symbols.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are beings.", "hypothesis": "कुछ लोग भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are monsters.", "hypothesis": "कुछ राक्षसों डॉक्टर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are structures.", "hypothesis": "कोई गुप्त संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are structures.", "hypothesis": "कोई सैनिक संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are things.", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are instruments.", "hypothesis": "कोई संगीतकार यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are systems.", "hypothesis": "कुछ व्यवस्थाएँ निर्मित हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are occupations.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are intelligences.", "hypothesis": "कोई संगीतकार बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are forces.", "hypothesis": "कुछ शक्‍तियाँख़ुदा के हाथ में हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are occupations.", "hypothesis": "कोई प्रेत पेशा कर रहे हैं।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are vegetables.", "hypothesis": "कुछ आविष्कारक सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are characters.", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are professionals.", "hypothesis": "कोई खाना खाने के लिए पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are animals.", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are machines.", "hypothesis": "कुछ मशीनों ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are systems.", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are intelligences.", "hypothesis": "कुछ वैज्ञानिक समझदार हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are systems.", "hypothesis": "कोई चित्रकार सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are entities.", "hypothesis": "कोई गोबलिन एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are devices.", "hypothesis": "कोई सैनिक उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are structures.", "hypothesis": "कोई विदेशी संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are roles.", "hypothesis": "कोई डॉक्टर भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are things.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are roles.", "hypothesis": "कोई विद्यार्थी भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are beings.", "hypothesis": "कुछ जासूस लोग हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are myths.", "hypothesis": "कुछ पौराणिक कथाओं के घोड़े हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are vegetables.", "hypothesis": "कुछ सैनिक सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are warriors.", "hypothesis": "कुछ योद्धाओं भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are instruments.", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are roles.", "hypothesis": "कुछ भूमिकायाँ जासूस हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are tools.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are occupations.", "hypothesis": "कोई मौज - मस्ती नहीं कर रहे हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are vegetables.", "hypothesis": "कोई वैज्ञानिक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are organisms.", "hypothesis": "कुछ गायें जीव हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are species.", "hypothesis": "कुछ जातियाँ ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are myths.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are professionals.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are concepts.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are professionals.", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are devices.", "hypothesis": "कुछ उपकरणों zmmams रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are devices.", "hypothesis": "कुछ जासूस उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are machines.", "hypothesis": "कुछ मशीनों जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are systems.", "hypothesis": "कुछ सिस्टम zmamams रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are warriors.", "hypothesis": "कुछ ड्रैगन्स योद्धा हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are systems.", "hypothesis": "कुछ प्रेत सिस्टम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are forces.", "hypothesis": "कुछ शक्‍तियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are professionals.", "hypothesis": "कोई चित्रकार पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are intelligences.", "hypothesis": "कोई जादूगर बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are systems.", "hypothesis": "कुछ सिस्टम सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are objects.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are characters.", "hypothesis": "कोई बंदर अक्षर हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are occupations.", "hypothesis": "कोई गायों का पेशा नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are roles.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are things.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are characters.", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are devices.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are monsters.", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are objects.", "hypothesis": "कोई समुद्री डाकू वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are myths.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are intelligences.", "hypothesis": "कुछ बुद्धि जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are forces.", "hypothesis": "कुछ शक्‍तियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are myths.", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are forces.", "hypothesis": "कुछ वैज्ञानिक शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are concepts.", "hypothesis": "कुछ जादूगर धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are concepts.", "hypothesis": "कुछ महाद्वीपीय धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are things.", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are species.", "hypothesis": "कुछ घोड़े जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are characters.", "hypothesis": "कुछ वैज्ञानिक अक्षर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are objects.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are organisms.", "hypothesis": "कुछ जादूगर जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are organisms.", "hypothesis": "कोई वार्मूट जीव नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are devices.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are monsters.", "hypothesis": "कोई दानव राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are animals.", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are vehicles.", "hypothesis": "कुछ जासूस वाहन हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vegetables.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are intelligences.", "hypothesis": "कुछ भूत समझ रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are foods.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are structures.", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are roles.", "hypothesis": "कुछ भूमिकायाँ खाना - पीना होती हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are intelligences.", "hypothesis": "कोई भूत समझ रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are intelligences.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are symbols.", "hypothesis": "कुछ विद्यार्थी प्रतीक हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are species.", "hypothesis": "कोई शिक्षक जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are vegetables.", "hypothesis": "कोई समुद्री डाकू सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are creatures.", "hypothesis": "कोई ड्रैगन्स प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are systems.", "hypothesis": "कोई बेकर्स सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are technologies.", "hypothesis": "कोई समुद्री डाकू तकनीक हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are forces.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are foods.", "hypothesis": "कुछ भूत शिकारी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are concepts.", "hypothesis": "कुछ भूत शिकारी धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are species.", "hypothesis": "कोई भूत जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are humans.", "hypothesis": "कोई बदमाश मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are warriors.", "hypothesis": "कुछ योद्धाओं बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are tools.", "hypothesis": "कुछ उपकरण सूची कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are entities.", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are structures.", "hypothesis": "कोई बंदर संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are animals.", "hypothesis": "कुछ जानवर रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are myths.", "hypothesis": "कुछ मेंढक कथा हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are monsters.", "hypothesis": "कुछ राक्षसों समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are occupations.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are professionals.", "hypothesis": "कुछ पेशेवर सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are instruments.", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are machines.", "hypothesis": "कुछ मशीनों ब्ललिन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are occupations.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are organisms.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are instruments.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are professionals.", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are roles.", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are roles.", "hypothesis": "कुछ भूमिकाएं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are beings.", "hypothesis": "कुछ लोग बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are myths.", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are devices.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are devices.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are things.", "hypothesis": "कोई जासूस बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are warriors.", "hypothesis": "कोई रोबॉट्स योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are monsters.", "hypothesis": "कोई कंप्यूटर राक्षस हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are animals.", "hypothesis": "कोई रोबॉट्स जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are roles.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are entities.", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are species.", "hypothesis": "कुछ जातियाँ गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are roles.", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are intelligences.", "hypothesis": "कुछ मानसिक होते हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are vegetables.", "hypothesis": "कोई सूची सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are warriors.", "hypothesis": "कुछ योद्धाओं सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are tools.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are things.", "hypothesis": "कुछ समुद्री डाकू बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are devices.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are structures.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are animals.", "hypothesis": "कुछ समुद्री डाकू जानवरों हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are instruments.", "hypothesis": "कुछ सैनिक यंत्र हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are creatures.", "hypothesis": "कुछ प्राणी विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are objects.", "hypothesis": "कोई घोड़े की वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are warriors.", "hypothesis": "कुछ योद्धाओं विदेशी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are objects.", "hypothesis": "कुछ वस्तुएँ गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are entities.", "hypothesis": "कुछ निगम चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "कुछ भूत शिकारी संरचनाएं कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are foods.", "hypothesis": "कुछ गाड़ियाँ भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are occupations.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are systems.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are devices.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are devices.", "hypothesis": "कुछ ड्रैगन्स उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are professionals.", "hypothesis": "कोई गायों पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are myths.", "hypothesis": "कुछ वैज्ञानिक पौराणिक कथाओं के हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are beings.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are entities.", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are vehicles.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are creatures.", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are beings.", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are occupations.", "hypothesis": "कुछ पेशा zmams रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are instruments.", "hypothesis": "कुछ औज़ार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are machines.", "hypothesis": "कुछ मशीनों zmmams कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are beings.", "hypothesis": "कोई जादूगर लोग नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are monsters.", "hypothesis": "कोई आलू राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are animals.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are symbols.", "hypothesis": "कुछ चिह्न कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are objects.", "hypothesis": "कुछ गायों की संपत्ति होती है ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are humans.", "hypothesis": "कोई प्रेत मनुष्य हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are occupations.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are professionals.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are monsters.", "hypothesis": "कुछ डॉक्टर राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "कुछ सैनिकों समझ रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are systems.", "hypothesis": "कोई गोबलिन सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are concepts.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are creatures.", "hypothesis": "कुछ प्राणी डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are organisms.", "hypothesis": "कुछ जीव विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are structures.", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are roles.", "hypothesis": "कुछ भूमिकाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are occupations.", "hypothesis": "कुछ विशेषज्ञ व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are beings.", "hypothesis": "कोई उपद्रवी लोग नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are instruments.", "hypothesis": "कोई फायदा नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are intelligences.", "hypothesis": "कुछ खानाोसी बुद्धि है.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are creatures.", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are organisms.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are myths.", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are things.", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are occupations.", "hypothesis": "कुछ पेशा Mrods कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are entities.", "hypothesis": "कुछ बंदर खंड हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are tools.", "hypothesis": "कुछ औज़ार गाड़ीे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are intelligences.", "hypothesis": "कुछ घोड़े बुद्धि हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All musicians are objects.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are animals.", "hypothesis": "कुछ जानवर सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are concepts.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vehicles.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are machines.", "hypothesis": "कोई घोड़े मशीनों हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are characters.", "hypothesis": "कुछ अक्षर निवास कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are foods.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are concepts.", "hypothesis": "कुछ डॉक्टर धारणाएँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are technologies.", "hypothesis": "कुछ विदेशी तकनीक हैं।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are beings.", "hypothesis": "कुछ लोग रोबोट हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are entities.", "hypothesis": "कुछ चित्रकार खंड हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are creatures.", "hypothesis": "कुछ जोकर प्राणी हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All knights are characters.", "hypothesis": "कोई घोड़े अक्षर हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are machines.", "hypothesis": "कुछ मशीनों के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are occupations.", "hypothesis": "कुछ व्यवसाय किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are species.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dinosaurs are creatures.", "hypothesis": "कोई खाना देने वाले जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are objects.", "hypothesis": "कोई तूफानी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are systems.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are myths.", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are objects.", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are technologies.", "hypothesis": "कुछ तकनीकों चित्रकार हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ogres are devices.", "hypothesis": "कोई तूफान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are occupations.", "hypothesis": "कुछ व्यवसाय आविष्कार कर रहे हैं।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are objects.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are things.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are animals.", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are entities.", "hypothesis": "कोई खराबी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are beings.", "hypothesis": "कोई रोबॉट्स मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are foods.", "hypothesis": "कोई स्वादिष्ट भोजन नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are technologies.", "hypothesis": "कोई जादूगर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are intelligences.", "hypothesis": "कुछ सूची समझ रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are vehicles.", "hypothesis": "कुछ डॉक्टर वाहन हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are things.", "hypothesis": "कुछ चीजें किसान हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are roles.", "hypothesis": "कुछ विद्यार्थी भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are instruments.", "hypothesis": "कोई बंदर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are forces.", "hypothesis": "कोई जोकर सेना हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are machines.", "hypothesis": "कुछ मशीनों बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are myths.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are things.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are occupations.", "hypothesis": "कोई Merroks काम कर रहे हैं।", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are foods.", "hypothesis": "कुछ जासूस भोजन कर रहे हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are intelligences.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are systems.", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are vehicles.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are species.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are animals.", "hypothesis": "कुछ जानवर शिक्षक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are creatures.", "hypothesis": "कुछ प्राणी रोबोट हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are professionals.", "hypothesis": "कुछ टीचर पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All aliens are technologies.", "hypothesis": "कोई विदेशी तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are beings.", "hypothesis": "कोई बंदर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All cows are foods.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are symbols.", "hypothesis": "कुछ चिह्न भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are technologies.", "hypothesis": "कुछ समुद्री डाकू तकनीक हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All bakers are entities.", "hypothesis": "कुछ बेकर्स निगम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are devices.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are technologies.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are devices.", "hypothesis": "कोई भूत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are organisms.", "hypothesis": "कुछ मोटर - गाड़ीें जीव हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are vehicles.", "hypothesis": "कुछ वाहन जादूगर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are devices.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are professionals.", "hypothesis": "कोई जासूस पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are species.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are tools.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are organisms.", "hypothesis": "कुछ जीव गोबोलिन हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are organisms.", "hypothesis": "कुछ जीव भूत हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghost hunters are forces.", "hypothesis": "कुछ सेनाओं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All teachers are monsters.", "hypothesis": "कुछ शिक्षक राक्षस हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All dragons are intelligences.", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are occupations.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All computers are structures.", "hypothesis": "कोई कंप्यूटर संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are characters.", "hypothesis": "कोई सूची अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All painters are beings.", "hypothesis": "कोई चित्रकार नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are professionals.", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All farmers are structures.", "hypothesis": "कोई किसान संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are vegetables.", "hypothesis": "कुछ सब्ज़ियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All robots are structures.", "hypothesis": "कोई रोबॉट्स संरचना नहीं है.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are entities.", "hypothesis": "कोई सूची व्यवस्थाएं निगम नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All pirates are beings.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All zombies are instruments.", "hypothesis": "कुछ यंत्र zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are concepts.", "hypothesis": "कोई डॉक्टर विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All wizards are occupations.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are objects.", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All spies are structures.", "hypothesis": "कुछ संरचनाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are structures.", "hypothesis": "कुछ विद्यार्थियों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All scientists are machines.", "hypothesis": "कुछ मशीनों के वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All clowns are objects.", "hypothesis": "कुछ वस्तुएँ जोकर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All carrots are tools.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are systems.", "hypothesis": "कुछ बंदर सिस्टम हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All monkeys are myths.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All mermaids are entities.", "hypothesis": "कुछ निगम Merraks कर रहे हैं.", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All goblins are instruments.", "hypothesis": "कोई जानाबलिन यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All chefs are things.", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All ghosts are vegetables.", "hypothesis": "कोई भूत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All inventors are devices.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All doctors are myths.", "hypothesis": "कोई डॉक्टर कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}
+{"premise": "All students are technologies.", "hypothesis": "कुछ तकनीक विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "en", "lang_hypothesis": "hi", "codeswitch_type": "en_prem_hi_hyp"}

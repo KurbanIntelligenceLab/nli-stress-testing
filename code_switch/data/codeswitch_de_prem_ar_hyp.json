@@ -1,0 +1,1000 @@
+{"premise": "Alle Aliens sind Monster.", "hypothesis": "بعض الوحوش كائنات فضائية", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Fahrzeuge.", "hypothesis": "بعض المركبات هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Profis.", "hypothesis": "بعض المهرجين محترفون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Tiere.", "hypothesis": "بعض الحيوانات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Symbole.", "hypothesis": "لا فرسان هم رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Zeichen.", "hypothesis": "لا مشعوذين هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Werkzeuge.", "hypothesis": "بعض الرسامين أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Arten.", "hypothesis": "بعض الخبازين من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Kräfte.", "hypothesis": "لا علماء هم قوى.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Profis.", "hypothesis": "لا يوجد طلاب محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Organismen.", "hypothesis": "لا يوجد معلمين كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Objekte.", "hypothesis": "بعض المعلمين هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Tiere.", "hypothesis": "بعض الزومبي حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Strukturen.", "hypothesis": "وبعض المعلمين عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Menschen.", "hypothesis": "لا علماء هم بشر.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Monster.", "hypothesis": "بعض المزارعين وحوش", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Tiere.", "hypothesis": "لا يوجد أطباء حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Fahrzeuge.", "hypothesis": "وبعض المعلمين سيارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Systeme.", "hypothesis": "بعض الأطباء أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Kräfte.", "hypothesis": "بعض القوات زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Dinge.", "hypothesis": "بعض الأشياء هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Fahrzeuge.", "hypothesis": "بعض المركبات أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Dinge.", "hypothesis": "بعض الأشياء أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Symbole.", "hypothesis": "لا خبازين هم رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Organismen.", "hypothesis": "بعض الفرسان كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Tiere.", "hypothesis": "بعض الأبقار حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Intelligenzen.", "hypothesis": "لا تنانين هي إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Organismen.", "hypothesis": "لا توجد قرود كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Geräte.", "hypothesis": "لا زومبي هي الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Gemüse.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Maschinen.", "hypothesis": "بعض الأبقار هي ماكينات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Symbole.", "hypothesis": "بعض المعلمين رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Symbole.", "hypothesis": "لا تنانين هي رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Dinge.", "hypothesis": "بعض الطلاب هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Wesen.", "hypothesis": "بعض الكائنات هي أشباح صائدي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Strukturen.", "hypothesis": "وبعض الهياكل هي مزارعون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Fahrzeuge.", "hypothesis": "لا يوجد جواسيس سيارات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Strukturen.", "hypothesis": "بعض الهياكل هي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Mythen.", "hypothesis": "لا يوجد معلمون أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Rollen.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Kräfte.", "hypothesis": "لا أجهزة كمبيوتر هي القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Mythen.", "hypothesis": "لا توجد قرود أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Systeme.", "hypothesis": "لا يوجد طلاب في الأنظمة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Geräte.", "hypothesis": "بعض الفرسان هم أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Objekte.", "hypothesis": "بعض الأشياء هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Kreaturen.", "hypothesis": "بعض الجنود مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Menschen.", "hypothesis": "لا يوجد معلمون بشر", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Berufe.", "hypothesis": "بعض العفاريت هي مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Entitäten.", "hypothesis": "وبعض المزارعين كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Essen.", "hypothesis": "بعض الفرسان أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Technologien.", "hypothesis": "لا يوجد صيادين أشباح تكنولوجيين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Spezies.", "hypothesis": "بعض العلماء هم من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Geräte.", "hypothesis": "لا يوجد مهرج هم الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Organismen.", "hypothesis": "لا توجد قرود كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Maschinen.", "hypothesis": "بعض الآلات هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Maschinen.", "hypothesis": "لا توجد عفاريت ماكينات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Werkzeuge.", "hypothesis": "لا توجد عفاريت هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Organismen.", "hypothesis": "بعض الكائنات هي قرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Spezies.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Objekte.", "hypothesis": "بعض الأشياء هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Tiere.", "hypothesis": "بعض الفرسان حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Fahrzeuge.", "hypothesis": "بعض المركبات هي الجزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Lebensmittel.", "hypothesis": "لا حواسيبَ أطعمةَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Strukturen.", "hypothesis": "بعض الهياكل هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Krieger.", "hypothesis": "بعض المحاربين هم عفاريت.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Instrumente.", "hypothesis": "بعض صائدي الأشباح أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Strukturen.", "hypothesis": "لا جزر هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Dinge.", "hypothesis": "بعض الأشياء هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Symbole.", "hypothesis": "لا يوجد قراصنة رموز", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Berufe.", "hypothesis": "بعض المهن هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Strukturen.", "hypothesis": "وبعض المزارعين عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Fahrzeuge.", "hypothesis": "لا يوجد جنود هم مركبات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Organismen.", "hypothesis": "لا توجد حواسيب كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Kräfte.", "hypothesis": "بعض الجزر عبارة عن قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Geräte.", "hypothesis": "لا فرسان هم الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Profis.", "hypothesis": "لا خبازين محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Werkzeuge.", "hypothesis": "بعض العلماء هم أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Lebensmittel.", "hypothesis": "بعض الحوريات هي الأطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Wesen.", "hypothesis": "وبعض الكيانات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Organismen.", "hypothesis": "لا توجد أوجرات كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Tiere.", "hypothesis": "بعض الحيوانات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Werkzeuge.", "hypothesis": "وبعض الأدوات هي من المزارعين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Gemüse.", "hypothesis": "وبعض هذه الخضروات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Intelligenzen.", "hypothesis": "لا يوجد عفاريت مخابرات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Geräte.", "hypothesis": "بعض الجزر هي أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Technologien.", "hypothesis": "لا توجد أوجرات هي التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Menschen.", "hypothesis": "بعض البشر مهرجون", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Fahrzeuge.", "hypothesis": "بعض المركبات صائدة أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Arten.", "hypothesis": "بعض الجزر هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Kräfte.", "hypothesis": "بعض القوات معلمين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Geräte.", "hypothesis": "بعض الخبازين هم أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Krieger.", "hypothesis": "بعض الحواسيب محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Maschinen.", "hypothesis": "لا كائنات فضائية هي ماكينات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Monster.", "hypothesis": "بعض الوحوش هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Wesen.", "hypothesis": "بعض العفاريت كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Dinge.", "hypothesis": "بعض الأشياء هي زومبي.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Strukturen.", "hypothesis": "لا تنانين هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Tiere.", "hypothesis": "لا يوجد جنود هم حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Fahrzeuge.", "hypothesis": "لا طهاة هم مركبات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Strukturen.", "hypothesis": "وبعض الهياكل هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Objekte.", "hypothesis": "لا طهاة هم كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Berufe.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Konzepte.", "hypothesis": "لا يوجد مشعوذين هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Krieger.", "hypothesis": "بعض الطهاة محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Tiere.", "hypothesis": "بعض الحيوانات قرود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Tiere.", "hypothesis": "بعض المعلمين هم حيوانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Dinge.", "hypothesis": "بعض الحوريات هي أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Geheimdienste.", "hypothesis": "بعض الخبازين مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Profis.", "hypothesis": "وبعض الأطباء مهنيون.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Mythen.", "hypothesis": "لا يوجد جزر أسطورية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Dinge.", "hypothesis": "بعض الأشياء هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Gemüse.", "hypothesis": "لا يوجد رسامون خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Profis.", "hypothesis": "بعض الفرسان محترفون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Dinge.", "hypothesis": "لا قراصنة هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Kreaturen.", "hypothesis": "لا يوجد خبازين مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Rollen.", "hypothesis": "بعض الموسيقيين أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Bauwerke.", "hypothesis": "بعض الهياكل هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Symbole.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Monster.", "hypothesis": "لا يوجد خبازين وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Objekte.", "hypothesis": "بعض الجنود هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Charaktere.", "hypothesis": "بعض الشخصيات هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Lebensmittel.", "hypothesis": "بعض الأطعمة غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Lebensmittel.", "hypothesis": "بعض المحلات هي الأطعمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Fahrzeuge.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Geräte.", "hypothesis": "لا موسيقيين هم أجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Symbole.", "hypothesis": "بعض المعلمين رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Berufe.", "hypothesis": "بعض الخبازين مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Tiere.", "hypothesis": "لا يوجد خبازين حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Monster.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Instrumente.", "hypothesis": "لا علماء هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Gemüse.", "hypothesis": "لا يوجد طهاة خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Konzepte.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Organismen.", "hypothesis": "لا يوجد طهاة كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Werkzeuge.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Lebensmittel.", "hypothesis": "بعض الأطعمة غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Technologien.", "hypothesis": "لا مخترعات هي تكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "لا يوجد قراصنة ككيانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Tiere.", "hypothesis": "بعض الحيوانات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Wesen.", "hypothesis": "لا توجد أبقار كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Lebensmittel.", "hypothesis": "وبعض المزارعين أغذية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Konzepte.", "hypothesis": "لا يوجد أجانب هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Wesen.", "hypothesis": "بعض الطلاب كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Rollen.", "hypothesis": "لا يوجد جنود أدوار", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Charaktere.", "hypothesis": "لا يوجد طلاب هم شخصيات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Fahrzeuge.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Mythen.", "hypothesis": "بعض الأساطير هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Intelligenzen.", "hypothesis": "بعض التنانين هي إستخبارات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Dinge.", "hypothesis": "بعض العفاريت هي أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Kreaturen.", "hypothesis": "بعض صائدي الأشباح مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Strukturen.", "hypothesis": "لا يوجد مهرج بُنى", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Krieger.", "hypothesis": "بعض المحاربين هم سحرة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Instrumente.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Organismen.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي مهرج", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Lebensmittel.", "hypothesis": "بعض الأطعمة قراصنة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Symbole.", "hypothesis": "بعض الأبقار رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Charaktere.", "hypothesis": "بعض الشخصيات هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Organismen.", "hypothesis": "بعض الكائنات هي طهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Strukturen.", "hypothesis": "بعض الهياكل هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Charaktere.", "hypothesis": "بعض القرود هي شخصيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Konzepte.", "hypothesis": "بعض المفاهيم هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Menschen.", "hypothesis": "بعض البشر علماء", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Menschen.", "hypothesis": "لا يوجد صيادي أشباح بشر", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Kreaturen.", "hypothesis": "بعض الطهاة مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Berufe.", "hypothesis": "وبعض المعلمين مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Intelligenzen.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Kreaturen.", "hypothesis": "لا يوجد جواسيس مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Charaktere.", "hypothesis": "بعض الشخصيات هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Organismen.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Symbole.", "hypothesis": "بعض الرموز هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Charaktere.", "hypothesis": "لا يوجد قراصنة هم شخصيات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Kreaturen.", "hypothesis": "لا يوجد أشباح لا وجود لمخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Wesen.", "hypothesis": "بعض الكائنات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Organismen.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Werkzeuge.", "hypothesis": "لا ديناصورات هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Dinge.", "hypothesis": "لا يوجد جنود هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "لا يوجد قراصنة كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Wesen.", "hypothesis": "لا توجد أبقار كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Monster.", "hypothesis": "بعض الوحوش هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Profis.", "hypothesis": "لا يوجد قراصنة محترفون", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Konzepte.", "hypothesis": "بعض المفاهيم هي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Menschen.", "hypothesis": "بعض الجزر بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Berufe.", "hypothesis": "بعض الجواسيس هم مهن", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Konzepte.", "hypothesis": "بعض الفرسان مفاهيم", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Wesen.", "hypothesis": "بعض الكائنات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Berufe.", "hypothesis": "بعض الديناصورات هي مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Kreaturen.", "hypothesis": "بعض المخلوقات زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Monster.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Kräfte.", "hypothesis": "بعض القوى هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "بعض القراصنة كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Spezies.", "hypothesis": "لا يوجد جواسيس من الأنواع", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Werkzeuge.", "hypothesis": "لا طلاب هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Kreaturen.", "hypothesis": "بعض المخلوقات تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Tiere.", "hypothesis": "بعض الجزر حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Tiere.", "hypothesis": "بعض الحيوانات هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Intelligenzen.", "hypothesis": "بعض الزومبي مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Kreaturen.", "hypothesis": "لا يوجد مشعوذين مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Instrumente.", "hypothesis": "وبعض الأجانب صكوك.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Charaktere.", "hypothesis": "بعض الشخصيات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Menschen.", "hypothesis": "بعض الأبقار بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Charaktere.", "hypothesis": "لا مهرج هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Gemüse.", "hypothesis": "لا وجود لأبقار خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Entitäten.", "hypothesis": "لا يوجد خبازين ككيانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Instrumente.", "hypothesis": "بعض الأدوات هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Wesen.", "hypothesis": "لا تنانين هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Intelligenzen.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Symbole.", "hypothesis": "لا وجود لرموز القرود", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Instrumente.", "hypothesis": "بعض الأدوات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Gemüse.", "hypothesis": "لا يوجد مهرجون خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Lebensmittel.", "hypothesis": "لا حواسيبَ أطعمةَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Gemüse.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Werkzeuge.", "hypothesis": "بعض الأدوات هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Technologien.", "hypothesis": "بعض الاشباح هي تكنولوجيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Monster.", "hypothesis": "بعض الوحوش هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Menschen.", "hypothesis": "بعض البشر تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Mythen.", "hypothesis": "لا يوجد طلاب أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Organismen.", "hypothesis": "وبعض القراصنة كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Geräte.", "hypothesis": "بعض الجنود عبارة عن أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Tiere.", "hypothesis": "بعض التنانين حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Werkzeuge.", "hypothesis": "لا الأجانب أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Objekte.", "hypothesis": "بعض الأشياء غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Krieger.", "hypothesis": "لا قراصنة هم محاربون", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Fahrzeuge.", "hypothesis": "وبعض المركبات هي من الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Wesen.", "hypothesis": "بعض الكائنات هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Charaktere.", "hypothesis": "بعض الشخصيات هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Fahrzeuge.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Arten.", "hypothesis": "بعض الأنواع هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Arten.", "hypothesis": "بعض الديناصورات هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Menschen.", "hypothesis": "بعض البشر طهاة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Strukturen.", "hypothesis": "لا مخترعات هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Zeichen.", "hypothesis": "لا أجهزة كمبيوتر هي شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Charaktere.", "hypothesis": "بعض الخبازين هم شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Instrumente.", "hypothesis": "وبعض الأجهزة هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Geräte.", "hypothesis": "بعض الموسيقيات هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Tiere.", "hypothesis": "لا مزارعون هم حيوانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Profis.", "hypothesis": "بعض الجنود محترفون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Technologien.", "hypothesis": "بعض التقنيات هي طهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Instrumente.", "hypothesis": "لا روبوتات هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Geräte.", "hypothesis": "لا سحرة هم أجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Strukturen.", "hypothesis": "بعض الهياكل هي تنانين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Menschen.", "hypothesis": "بعض البشر كائنات فضائية", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Menschen.", "hypothesis": "لا جواسيس بشر", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Monster.", "hypothesis": "بعض الجواسيس هم وحوش", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Profis.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Charaktere.", "hypothesis": "لا رسامين هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Geräte.", "hypothesis": "لا زومبي هي الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Menschen.", "hypothesis": "بعض العلماء بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Fahrzeuge.", "hypothesis": "وبعض الطلاب هم مركبات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Objekte.", "hypothesis": "بعض الفرسان كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Profis.", "hypothesis": "لا يوجد سحرة محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Kreaturen.", "hypothesis": "لا مخترعين مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Arten.", "hypothesis": "بعض المخترعات هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Geräte.", "hypothesis": "بعض الأجهزة هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Intelligenzen.", "hypothesis": "لا طلابَ إستخباراتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Mythen.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Intelligenzen.", "hypothesis": "لا رسامين هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Studenten sind Entitäten.", "hypothesis": "وبعض الطلاب كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Gemüse.", "hypothesis": "لا يوجد طلاب خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Werkzeuge.", "hypothesis": "لا رسامين هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Intelligenzen.", "hypothesis": "بعض الجواسيس مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Monster.", "hypothesis": "بعض القراصنة هم وحوش.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Krieger.", "hypothesis": "بعض الروبوتات محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Dinge.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Menschen.", "hypothesis": "بعض البشر موسيقيون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Konzepte.", "hypothesis": "ولا يوجد معلمون هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Objekte.", "hypothesis": "بعض الخبازين هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Technologien.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Rollen.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Werkzeuge.", "hypothesis": "بعض الزومبي أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Organismen.", "hypothesis": "لا يوجد زومبي كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Systeme.", "hypothesis": "بعض الأنظمة جواسيس", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Kreaturen.", "hypothesis": "بعض التنانين مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Kräfte.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Wesen.", "hypothesis": "بعض الكائنات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Kreaturen.", "hypothesis": "لا توجد عفاريت مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Spezies.", "hypothesis": "لا علماء هم أنواع.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Technologien.", "hypothesis": "وبعض التكنولوجيات هي من العلماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Fahrzeuge.", "hypothesis": "لا سحرة هم مركبات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Wesen.", "hypothesis": "بعض الأشباح كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Wesen.", "hypothesis": "بعض الروبوتات كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Arten.", "hypothesis": "بعض الحوريات هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Kräfte.", "hypothesis": "بعض التنانين هي قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Lebensmittel.", "hypothesis": "بعض الأطعمة صائدة أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Kräfte.", "hypothesis": "بعض القوى هي جزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Wesen.", "hypothesis": "بعض المهرجين كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Intelligenzen.", "hypothesis": "لا جواسيس هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Symbole.", "hypothesis": "بعض القرود رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Mythen.", "hypothesis": "بعض الأساطير هي معلمين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Gemüse.", "hypothesis": "لا يوجد أجانب هم الخضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Mythen.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Kreaturen.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Rollen.", "hypothesis": "لا مزارعين أدوار.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Charaktere.", "hypothesis": "بعض الشخصيات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Charaktere.", "hypothesis": "بعض الشخصيات هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Tiere.", "hypothesis": "بعض الحيوانات هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Lebensmittel.", "hypothesis": "لا مزارعين هم أطعمة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Kreaturen.", "hypothesis": "بعض الروبوتات مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Werkzeuge.", "hypothesis": "وبعض القراصنة أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Krieger.", "hypothesis": "لا يوجد جزر محاربين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Systeme.", "hypothesis": "وبعض النظم مدرسون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Mythen.", "hypothesis": "لا يوجد أشباح يُعتبرون أساطير.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Berufe.", "hypothesis": "لا يوجد أوجرات هي مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Charaktere.", "hypothesis": "لا جواسيس هم شخصيات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Charaktere.", "hypothesis": "بعض الشخصيات غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Technologien.", "hypothesis": "لا طهاة هم التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Symbole.", "hypothesis": "لا توجد أوصاف رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Maschinen.", "hypothesis": "لا يوجد جواسيس ماكينات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Mythen.", "hypothesis": "بعض الأساطير هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Tiere.", "hypothesis": "بعض الحيوانات هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Berufe.", "hypothesis": "بعض المهن هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Dinge.", "hypothesis": "لا خبازين هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Wesen.", "hypothesis": "بعض الكائنات هي مزارعين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Monster.", "hypothesis": "لا أشباح هي وحوش.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Gemüse.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Intelligenzen.", "hypothesis": "لا علماء هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Systeme.", "hypothesis": "بعض الأنظمة أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Strukturen.", "hypothesis": "بعض الفرسان عبارة عن هياكل", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Entitäten.", "hypothesis": "بعض الكيانات هي الجزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Gemüse.", "hypothesis": "وبعض الخضروات روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Kräfte.", "hypothesis": "بعض الزومبي هم قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Spezies.", "hypothesis": "بعض الطلاب هم من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Technologien.", "hypothesis": "بعض الموسيقيين هي تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Gemüse.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Krieger.", "hypothesis": "لا يوجد ديناصورات محاربين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Spezies.", "hypothesis": "بعض الأطباء نوع من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Symbole.", "hypothesis": "لا يوجد قراصنة رموز", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Werkzeuge.", "hypothesis": "بعض الرسامين أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Charaktere.", "hypothesis": "بعض الشخصيات هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Charaktere.", "hypothesis": "بعض الاشباح هي شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Symbole.", "hypothesis": "بعض الرموز هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Dinge.", "hypothesis": "بعض الجواسيس هم أشياء", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Organismen.", "hypothesis": "بعض الكائنات هي أوكسترا.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Profis.", "hypothesis": "ولا يوجد أجانب محترفون.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Dinge.", "hypothesis": "لا يوجد أشباح لا يوجد أشباح", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Organismen.", "hypothesis": "بعض الموسيقيين كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Technologien.", "hypothesis": "وبعض التكنولوجيات عبارة عن أوبرا.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Objekte.", "hypothesis": "بعض الأشياء هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Systeme.", "hypothesis": "لا طهاة هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Konzepte.", "hypothesis": "بعض المفاهيم هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Kreaturen.", "hypothesis": "لا يوجد خبازين مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Objekte.", "hypothesis": "بعض الأشياء هي جزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Geräte.", "hypothesis": "لا يوجد أشباح صائدو أشباح", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Wesen.", "hypothesis": "بعض الغيلان كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Fahrzeuge.", "hypothesis": "وبعض الأجانب سيارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Gemüse.", "hypothesis": "بعض الزومبي خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Organismen.", "hypothesis": "لا توجد أوجرات كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Mythen.", "hypothesis": "بعض الطلاب هم أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Instrumente.", "hypothesis": "بعض الأدوات جواسيس", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Maschinen.", "hypothesis": "وبعض المعلمين آلات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Wesen.", "hypothesis": "ولا يوجد أجانب كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Geräte.", "hypothesis": "لا توجد عفاريت هي الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Mythen.", "hypothesis": "لا حوريات هي أساطير.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Konzepte.", "hypothesis": "ولا يوجد معلمون هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Monster.", "hypothesis": "بعض الوحوش طهاة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Werkzeuge.", "hypothesis": "بعض الأدوات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Kräfte.", "hypothesis": "لا توجد أوجرات هي القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Technologien.", "hypothesis": "لا ديناصورات هي تكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Strukturen.", "hypothesis": "وبعض الهياكل هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Berufe.", "hypothesis": "بعض المهن هي صائدي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Tiere.", "hypothesis": "بعض المزارعين حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Charaktere.", "hypothesis": "بعض الشخصيات معلمون", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Spezies.", "hypothesis": "بعض الجواسيس من الأنواع", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Maschinen.", "hypothesis": "لا أشباح هي ماكينات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Menschen.", "hypothesis": "بعض القرود بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Monster.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Lebensmittel.", "hypothesis": "وبعض الأجانب أغذية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Wesen.", "hypothesis": "بعض الكائنات هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Wesen.", "hypothesis": "لا يوجد رسامون كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Kräfte.", "hypothesis": "لا خبازين هم القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Systeme.", "hypothesis": "بعض الأنظمة هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Monster.", "hypothesis": "بعض الوحوش مثل الغيلان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Fahrzeuge.", "hypothesis": "لا يوجد فضائيين في السيارات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Kreaturen.", "hypothesis": "بعض المخلوقات هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Gemüse.", "hypothesis": "بعض الطلاب خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Maschinen.", "hypothesis": "ولا يوجد معلمون في الآلات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Objekte.", "hypothesis": "بعض الأشياء هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Wesen.", "hypothesis": "وبعض الكيانات هي كيانات أجنبية.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Technologien.", "hypothesis": "بعض التقنيات هي زومبي.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Systeme.", "hypothesis": "لا زومبي هي أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Maschinen.", "hypothesis": "بعض الآلات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Fahrzeuge.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Gemüse.", "hypothesis": "لا توجد أوجرات خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Krieger.", "hypothesis": "بعض الحوريات محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Arten.", "hypothesis": "لا جزر ليست من الأنواع.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Konzepte.", "hypothesis": "بعض المفاهيم هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Rollen.", "hypothesis": "بعض الأدوار هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Geräte.", "hypothesis": "بعض الأجهزة هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Konzepte.", "hypothesis": "وبعض الأجانب مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Rollen.", "hypothesis": "بعض الأدوار هي العفاريت.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Berufe.", "hypothesis": "لا سحرة هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Instrumente.", "hypothesis": "بعض الديناصورات هي أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Werkzeuge.", "hypothesis": "وبعض الأدوات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Wesen.", "hypothesis": "بعض الكائنات هي قوبلين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Dinge.", "hypothesis": "لا سحرة هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Konzepte.", "hypothesis": "بعض المفاهيم هي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Kreaturen.", "hypothesis": "بعض المخلوقات معلمون", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Strukturen.", "hypothesis": "بعض القرود عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Maschinen.", "hypothesis": "بعض الآلات أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Fahrzeuge.", "hypothesis": "وبعض المركبات طهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Essen.", "hypothesis": "لا فرسان هم الأطعمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Konzepte.", "hypothesis": "بعض الجزر هي مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Monster.", "hypothesis": "بعض الجنود هم وحوش.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Charaktere.", "hypothesis": "بعض التنانين هي شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Rollen.", "hypothesis": "بعض الجزر أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Gemüse.", "hypothesis": "لا يوجد زومبي خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Rollen.", "hypothesis": "بعض الرسامين أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Strukturen.", "hypothesis": "بعض الهياكل هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Essen.", "hypothesis": "بعض الفرسان أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Lebensmittel.", "hypothesis": "بعض المحلات هي الأطعمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Tiere.", "hypothesis": "بعض الحيوانات هي غول.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Intelligenzen.", "hypothesis": "لا أطباءَ إستخباراتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Maschinen.", "hypothesis": "بعض الخبازين ماكينات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Profis.", "hypothesis": "بعض القرود محترفون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Kräfte.", "hypothesis": "بعض الموسيقيين هم قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Tiere.", "hypothesis": "بعض الطهاة هم حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Organismen.", "hypothesis": "لا أشباح كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Berufe.", "hypothesis": "وبعض الأبقار مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Konzepte.", "hypothesis": "بعض المفاهيم هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Arten.", "hypothesis": "بعض السحرة كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Strukturen.", "hypothesis": "بعض الاشباح عبارة عن هياكل", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Dinge.", "hypothesis": "لا معلمين هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Spezies.", "hypothesis": "بعض الروبوتات هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Kräfte.", "hypothesis": "لا جواسيس هم القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Gemüse.", "hypothesis": "لا فرسان لا يَكُونونَ خضرواتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Charaktere.", "hypothesis": "بعض الشخصيات قراصنة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Kräfte.", "hypothesis": "بعض القوات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Rollen.", "hypothesis": "بعض الأدوار هي الطهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Kreaturen.", "hypothesis": "بعض المخلوقات فرسان", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Rollen.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Strukturen.", "hypothesis": "وبعض الحواسيب عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Systeme.", "hypothesis": "بعض الطهاة هم أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Instrumente.", "hypothesis": "بعض الاشباح هي أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Kreaturen.", "hypothesis": "بعض المخلوقات هي صائدي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Fahrzeuge.", "hypothesis": "بعض المخترعين هم مركبات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Berufe.", "hypothesis": "لا خبازين هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Kreaturen.", "hypothesis": "بعض المخلوقات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Menschen.", "hypothesis": "بعض الرسامين بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Maschinen.", "hypothesis": "لا توجد أوجرات ماكينات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Mythen.", "hypothesis": "بعض الأساطير صائدة أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Maschinen.", "hypothesis": "بعض السحرة ماكينات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Gemüse.", "hypothesis": "لا يوجد معلمون خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Instrumente.", "hypothesis": "لا أشباح هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Konzepte.", "hypothesis": "وبعض المفاهيم هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Technologien.", "hypothesis": "بعض التقنيات هي الديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Krieger.", "hypothesis": "بعض المحاربين مخترعون", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Kräfte.", "hypothesis": "لا سحرة هم القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Charaktere.", "hypothesis": "بعض الطهاة هم شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Krieger.", "hypothesis": "لا يوجد جواسيس محاربين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Gemüse.", "hypothesis": "بعض المهرجين خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Dinge.", "hypothesis": "لا توجد أوجرات هي أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Charaktere.", "hypothesis": "بعض الشخصيات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Instrumente.", "hypothesis": "لا يوجد أطباء أدوات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Rollen.", "hypothesis": "بعض الأطباء أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Maschinen.", "hypothesis": "بعض الآلات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Wesen.", "hypothesis": "بعض الكائنات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Charaktere.", "hypothesis": "بعض الأجانب هم شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Profis.", "hypothesis": "بعض الاشباح محترفون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Monster.", "hypothesis": "بعض الوحوش هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Geheimdienste.", "hypothesis": "بعض الإستخبارات جنود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Berufe.", "hypothesis": "بعض المهن هي العفاريت.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Geräte.", "hypothesis": "بعض الأجهزة هي أوجرز.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Dinge.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Monster.", "hypothesis": "لا توجد قرود وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Geräte.", "hypothesis": "بعض الموسيقيات هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Monster.", "hypothesis": "بعض القراصنة هم وحوش.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Lebensmittel.", "hypothesis": "بعض الأطعمة جنود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Dinge.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Monster.", "hypothesis": "لا توجد تنانين وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Gemüse.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Symbole.", "hypothesis": "بعض الجنود رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Kräfte.", "hypothesis": "لا مزارعين هم القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Rollen.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Lebensmittel.", "hypothesis": "لا يوجد أوجرات أطعمة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Objekte.", "hypothesis": "لا يوجد مشعوذين كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Rollen.", "hypothesis": "لا يوجد خبازين أدوار", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Dinge.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Kreaturen.", "hypothesis": "لا يوجد مهرجون مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Technologien.", "hypothesis": "لا علماء هم تكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Kreaturen.", "hypothesis": "بعض الجزر مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Krieger.", "hypothesis": "لا يوجد خبازين محاربين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Krieger.", "hypothesis": "بعض الطلاب محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Organismen.", "hypothesis": "لا ديناصورات هي كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Organismen.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Technologien.", "hypothesis": "بعض التقنيات هي تنانين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Rollen.", "hypothesis": "لا توجد حوريات أدوار.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Gemüse.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Gemüse.", "hypothesis": "وبعض الخضروات جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Strukturen.", "hypothesis": "وبعض الطهاة عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Rollen.", "hypothesis": "بعض الحوريات أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Mythen.", "hypothesis": "بعض الطهاة هم أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Mythen.", "hypothesis": "بعض الأساطير هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Organismen.", "hypothesis": "لا يوجد جنود كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Gemüse.", "hypothesis": "وبعض القراصنة من الخضروات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Werkzeuge.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "بعض القراصنة كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Konzepte.", "hypothesis": "بعض المفاهيم هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Dinge.", "hypothesis": "بعض العلماء هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Lebensmittel.", "hypothesis": "وبعض المزارعين أغذية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Gemüse.", "hypothesis": "لا ديناصورات هي خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Menschen.", "hypothesis": "بعض البشر موسيقيون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Konzepte.", "hypothesis": "لا تنانين هي مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Profis.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Wesen.", "hypothesis": "بعض الحواسيب كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Instrumente.", "hypothesis": "بعض الحوريات هي أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Instrumente.", "hypothesis": "بعض الأدوات هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Dinge.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Tiere.", "hypothesis": "بعض الجواسيس حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Werkzeuge.", "hypothesis": "لا يوجد مشعوذين كأدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Monster.", "hypothesis": "بعض الوحوش كائنات فضائية", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Intelligenzen.", "hypothesis": "ليس هناك معلمين إستخبارات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Strukturen.", "hypothesis": "وبعض الحواسيب عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Lebensmittel.", "hypothesis": "وبعض الأجانب أغذية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Arten.", "hypothesis": "وبعض الأنواع هي من القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Systeme.", "hypothesis": "بعض الحوريات هي أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Zeichen.", "hypothesis": "بعض الحواسب هي شخصيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Tiere.", "hypothesis": "بعض الحيوانات هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Spezies.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Profis.", "hypothesis": "لا توجد حوريات محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Wesen.", "hypothesis": "وبعض الأطباء كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Berufe.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Technologien.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Strukturen.", "hypothesis": "بعض الهياكل هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Kreaturen.", "hypothesis": "بعض الروبوتات مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Charaktere.", "hypothesis": "بعض الشخصيات هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Rollen.", "hypothesis": "بعض الاشباح أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Profis.", "hypothesis": "بعض الموسيقيين محترفين", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Kreaturen.", "hypothesis": "بعض المخلوقات هي حواسيب", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Objekte.", "hypothesis": "بعض الأشياء هي قرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Systeme.", "hypothesis": "بعض الأنظمة هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Strukturen.", "hypothesis": "لا يوجد طهاة بُنى", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Konzepte.", "hypothesis": "لا طهاة هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Maschinen.", "hypothesis": "بعض الآلات غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Geheimdienste.", "hypothesis": "لا خبازين هم مخابرات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Kräfte.", "hypothesis": "بعض القرود هي قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Berufe.", "hypothesis": "بعض المهن هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Systeme.", "hypothesis": "وبعض النظم هي مزارعون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Werkzeuge.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Gemüse.", "hypothesis": "بعض العفاريت هي خضروات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Dinge.", "hypothesis": "بعض الأشياء هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Rollen.", "hypothesis": "بعض الأدوار هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Organismen.", "hypothesis": "بعض الكائنات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي مزارعين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Technologien.", "hypothesis": "ولا يوجد معلمون من التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Geräte.", "hypothesis": "بعض القرود هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Werkzeuge.", "hypothesis": "بعض الأدوات هي مهرجين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Menschen.", "hypothesis": "لا علماء هم بشر.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Gemüse.", "hypothesis": "لا ديناصورات هي خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Systeme.", "hypothesis": "لا طهاة هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Gemüse.", "hypothesis": "وبعض هذه الخضروات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Maschinen.", "hypothesis": "بعض الآلات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Berufe.", "hypothesis": "بعض المهن هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Objekte.", "hypothesis": "لا تنانين هي كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Symbole.", "hypothesis": "بعض الرموز هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Mythen.", "hypothesis": "بعض الطهاة هم أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Symbole.", "hypothesis": "بعض الرموز هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Strukturen.", "hypothesis": "لا ديناصورات هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Instrumente.", "hypothesis": "لا يوجد صيادي أشباح هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Dinge.", "hypothesis": "بعض الأشياء هي زومبي.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Tiere.", "hypothesis": "بعض العلماء حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Systeme.", "hypothesis": "لا مخترعين هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Entitäten.", "hypothesis": "بعض الكيانات هي الجزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Monster.", "hypothesis": "لا توجد آبار وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Objekte.", "hypothesis": "بعض الجزر هي كائنات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Instrumente.", "hypothesis": "لا مخترعات هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Kräfte.", "hypothesis": "بعض القوات معلمين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Menschen.", "hypothesis": "لا فرسان هم بشر.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Symbole.", "hypothesis": "بعض الرموز هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Technologien.", "hypothesis": "بعض القرود هي تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Charaktere.", "hypothesis": "بعض الشخصيات هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Tiere.", "hypothesis": "بعض الحيوانات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Strukturen.", "hypothesis": "ولا يوجد رسامون في هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Entitäten.", "hypothesis": "لا يوجد خبازين ككيانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Arten.", "hypothesis": "وبعض القراصنة من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Organismen.", "hypothesis": "لا علماء هم كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Geräte.", "hypothesis": "بعض الأجهزة هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Dinge.", "hypothesis": "بعض الأشياء هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Krieger.", "hypothesis": "بعض القرود محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Mythen.", "hypothesis": "لا علماء هم أساطير.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Tiere.", "hypothesis": "بعض الحيوانات أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Krieger.", "hypothesis": "لا يوجد طهاة أشباح هم محاربون", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Profis.", "hypothesis": "وبعض المهنيين طهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Symbole.", "hypothesis": "بعض الأبقار رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Charaktere.", "hypothesis": "بعض الشخصيات هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Konzepte.", "hypothesis": "بعض المفاهيم هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Organismen.", "hypothesis": "بعض الأطباء كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Organismen.", "hypothesis": "وبعض الأجانب كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Profis.", "hypothesis": "بعض الحوريات محترفة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Strukturen.", "hypothesis": "وبعض الهياكل هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Wesen.", "hypothesis": "بعض الكائنات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Intelligenzen.", "hypothesis": "لا جزر هي إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Intelligenzen.", "hypothesis": "بعض الجزر هي إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Menschen.", "hypothesis": "بعض القراصنة بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Intelligenzen.", "hypothesis": "لا مزارعين هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Charaktere.", "hypothesis": "لا أشباح هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Werkzeuge.", "hypothesis": "لا حواسيب هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Technologien.", "hypothesis": "بعض أشباح الصيادين هي تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Instrumente.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Instrumente.", "hypothesis": "لا يوجد طلاب هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Dinge.", "hypothesis": "بعض الأشياء هي ديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Menschen.", "hypothesis": "لا مخترعين بشر", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Gemüse.", "hypothesis": "بعض الفرسان خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Systeme.", "hypothesis": "بعض الأنظمة هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Tiere.", "hypothesis": "بعض الحيوانات جواسيس", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Profis.", "hypothesis": "بعض المهنيين هم أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Geheimdienste.", "hypothesis": "لا يوجد قراصنة مخابرات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Gemüse.", "hypothesis": "وبعض المزارعين هم من الخضروات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Berufe.", "hypothesis": "لا يوجد قراصنة مُحتالين.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Monster.", "hypothesis": "بعض الخبازين وحوش", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Objekte.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Symbole.", "hypothesis": "لا فرسان هم رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Werkzeuge.", "hypothesis": "لا زومبي هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Mythen.", "hypothesis": "بعض الديناصورات هي أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Dinge.", "hypothesis": "بعض الأشياء هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Instrumente.", "hypothesis": "لا تنانين هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Instrumente.", "hypothesis": "ولا يشكل الأجانب صكوكا.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Kreaturen.", "hypothesis": "بعض الزومبي مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Menschen.", "hypothesis": "بعض صيادي الأشباح بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Symbole.", "hypothesis": "بعض الرموز هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "بعض الكائنات هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Organismen.", "hypothesis": "لا يوجد موسيقيون كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Intelligenzen.", "hypothesis": "بعض الجزر هي إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Wesenheiten.", "hypothesis": "لا علماء هم كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Organismen.", "hypothesis": "لا يوجد جواسيس كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Organismen.", "hypothesis": "لا يوجد رسامون كائنات حية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Dinge.", "hypothesis": "بعض الجزر هي أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Wesen.", "hypothesis": "بعض الكائنات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Maschinen.", "hypothesis": "بعض الآلات غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Technologien.", "hypothesis": "وبعض المزارعين تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Dinge.", "hypothesis": "لا طهاة هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Instrumente.", "hypothesis": "بعض الأدوات هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Werkzeuge.", "hypothesis": "لا مهرجين أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Systeme.", "hypothesis": "بعض الأطباء أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Maschinen.", "hypothesis": "بعض الآلات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Technologien.", "hypothesis": "بعض التكنولوجيات هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Wesen.", "hypothesis": "وبعض الأطباء كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Objekte.", "hypothesis": "بعض الأشياء هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Berufe.", "hypothesis": "بعض القراصنة هم مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Arten.", "hypothesis": "بعض الأنواع هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Profis.", "hypothesis": "وبعض المهنيين مزارعون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Mythen.", "hypothesis": "بعض الأبقار هي أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Spezies.", "hypothesis": "بعض الأنواع هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Kräfte.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Mythen.", "hypothesis": "لا يوجد رسامين أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Lebensmittel.", "hypothesis": "لا مزارعين هم أطعمة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Objekte.", "hypothesis": "لا يوجد أطباء كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Wesen.", "hypothesis": "بعض الكيانات جواسيس", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "بعض الكيانات هي القراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Tiere.", "hypothesis": "بعض الحيوانات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Dinge.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Lebensmittel.", "hypothesis": "بعض العلماء أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Spezies.", "hypothesis": "بعض الحواسيب هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Systeme.", "hypothesis": "بعض صائدي الأشباح هم أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Profis.", "hypothesis": "بعض المهنيين هم تنانين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Mythen.", "hypothesis": "بعض الاساطير هي جزر", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Wesen.", "hypothesis": "لا توجد أوجرات كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Wesen.", "hypothesis": "لا يوجد أشباح صائدة هي كيانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Technologien.", "hypothesis": "لا علماء هم تكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Profis.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Fahrzeuge.", "hypothesis": "بعض المخترعين هم مركبات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Geräte.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Maschinen.", "hypothesis": "لا يوجد زومبي ماكينات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Lebensmittel.", "hypothesis": "بعض الأطعمة زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Mythen.", "hypothesis": "بعض الأطباء هم أساطير", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Rollen.", "hypothesis": "وبعض الأدوار هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Organismen.", "hypothesis": "ولا مزارعون كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Symbole.", "hypothesis": "لا أبراج هي رموز.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Geräte.", "hypothesis": "بعض الأجهزة هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Charaktere.", "hypothesis": "لا جزر هي شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Werkzeuge.", "hypothesis": "بعض الطهاة أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Konzepte.", "hypothesis": "بعض المفاهيم هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Symbole.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Geräte.", "hypothesis": "لا كائنات فضائية هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Fahrzeuge.", "hypothesis": "وبعض الأبقار مركبات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Spezies.", "hypothesis": "لا يوجد كائنات فضائية هي من الأنواع.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Mythen.", "hypothesis": "لا وجود لأبقار أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Strukturen.", "hypothesis": "ولا يوجد رسامون في هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Lebensmittel.", "hypothesis": "بعض الاشباح اطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Symbole.", "hypothesis": "بعض الجواسيس رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Menschen.", "hypothesis": "بعض السحرة بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Werkzeuge.", "hypothesis": "بعض صائدي الأشباح أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Krieger.", "hypothesis": "بعض الموسيقيين محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Entitäten.", "hypothesis": "وبعض الكيانات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Instrumente.", "hypothesis": "وبعض المعلمين أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Profis.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Strukturen.", "hypothesis": "لا يوجد أشباح صائدين هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Charaktere.", "hypothesis": "لا موسيقيين هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Systeme.", "hypothesis": "لا جنود هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Menschen.", "hypothesis": "بعض المزارعين بشر", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Objekte.", "hypothesis": "لا روبوتات هي كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Symbole.", "hypothesis": "بعض الرموز هي جنود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Konzepte.", "hypothesis": "بعض القرود هي مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Profis.", "hypothesis": "وبعض المهنيين مخترعون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Strukturen.", "hypothesis": "بعض الهياكل هي أشباح صائدي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Instrumente.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Strukturen.", "hypothesis": "لا جواسيس هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Konzepte.", "hypothesis": "لا توجد حوريات هي مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Rollen.", "hypothesis": "بعض الأدوار هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Tiere.", "hypothesis": "بعض الحيوانات قراصنة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Rollen.", "hypothesis": "بعض الخبازين أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Kreaturen.", "hypothesis": "لا وجود لقردة مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي صائدة أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Kreaturen.", "hypothesis": "لا يوجد جواسيس مخلوقات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Symbole.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Wesen.", "hypothesis": "بعض الكائنات أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Monster.", "hypothesis": "بعض الوحوش أطباء", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Strukturen.", "hypothesis": "لا حوريات هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Strukturen.", "hypothesis": "ولا يوجد جنود في هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Dinge.", "hypothesis": "بعض الطهاة هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Instrumente.", "hypothesis": "لا موسيقيين هم آلات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Systeme.", "hypothesis": "بعض الأنظمة هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Berufe.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Intelligenzen.", "hypothesis": "لا موسيقيين هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Kräfte.", "hypothesis": "بعض القوات طهاة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Berufe.", "hypothesis": "لا زومبي هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Gemüse.", "hypothesis": "بعض المخترعين خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Charaktere.", "hypothesis": "بعض الحوريات هي شخصيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Profis.", "hypothesis": "لا ديناصورات محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Tiere.", "hypothesis": "لا يوجد معلمين هم حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Maschinen.", "hypothesis": "بعض الآلات تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Systeme.", "hypothesis": "بعض الأنظمة هي مهرجين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Intelligenzen.", "hypothesis": "بعض العلماء هم إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Monster.", "hypothesis": "لا يوجد أشباح وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Systeme.", "hypothesis": "لا رسامين هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Wesen.", "hypothesis": "لا توجد عفاريت هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Geräte.", "hypothesis": "لا جنود هم أجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Strukturen.", "hypothesis": "ولا يوجد أجانب في هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Rollen.", "hypothesis": "لا يوجد أطباء أدوار.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Dinge.", "hypothesis": "بعض العفاريت هي أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Rollen.", "hypothesis": "لا يوجد طلاب أدوار.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Wesen.", "hypothesis": "بعض الجواسيس كائنات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Mythen.", "hypothesis": "بعض الأساطير هي فرسان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Gemüse.", "hypothesis": "بعض الجنود خضروات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Krieger.", "hypothesis": "بعض المحاربين أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Instrumente.", "hypothesis": "لا أشباح هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Rollen.", "hypothesis": "بعض الأدوار جواسيس", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Werkzeuge.", "hypothesis": "بعض الجزر أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Berufe.", "hypothesis": "لا طهاة هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Gemüse.", "hypothesis": "لا علماء هم خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Organismen.", "hypothesis": "وبعض الأبقار كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Arten.", "hypothesis": "بعض الأنواع تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Mythen.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Profis.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Konzepte.", "hypothesis": "بعض المفاهيم هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Profis.", "hypothesis": "وبعض المهنيين هم خبازون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Geräte.", "hypothesis": "بعض النبائط زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Geräte.", "hypothesis": "بعض الجواسيس أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Maschinen.", "hypothesis": "بعض الآلات هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Systeme.", "hypothesis": "بعض الأنظمة زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Krieger.", "hypothesis": "بعض التنانين محاربون", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Systeme.", "hypothesis": "بعض الزومبي هي أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Kräfte.", "hypothesis": "بعض القوات هي حواسيب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Profis.", "hypothesis": "لا رسامين محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Intelligenzen.", "hypothesis": "لا مشعوذين هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Systeme.", "hypothesis": "بعض الأنظمة هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Objekte.", "hypothesis": "بعض الجنود هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Charaktere.", "hypothesis": "لا وجود للقردة هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Berufe.", "hypothesis": "لا توجد الأبقار هي المهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Rollen.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Dinge.", "hypothesis": "بعض الأشياء هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Charaktere.", "hypothesis": "بعض الحوريات هي شخصيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Geräte.", "hypothesis": "لا فرسان هم الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Monster.", "hypothesis": "بعض الجنود هم وحوش.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Objekte.", "hypothesis": "لا يوجد قراصنة كأجسام", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Mythen.", "hypothesis": "لا يوجد جزر أسطورية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Kräfte.", "hypothesis": "بعض القوات هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Mythen.", "hypothesis": "لا يوجد جنود أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Kräfte.", "hypothesis": "بعض العلماء هم قوى", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Assistenten sind Konzepte.", "hypothesis": "بعض المشعوذين مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Konzepte.", "hypothesis": "بعض الطهاة مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Dinge.", "hypothesis": "بعض الأشياء أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Arten.", "hypothesis": "بعض الفرسان من الأنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Charaktere.", "hypothesis": "بعض العلماء هم شخصيات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Objekte.", "hypothesis": "بعض المخترعات هي كائنات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Organismen.", "hypothesis": "بعض السحرة كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Organismen.", "hypothesis": "لا توجد حوريات هي كائنات حية.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Geräte.", "hypothesis": "بعض الأجهزة هي معلمين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Monster.", "hypothesis": "لا يوجد أوصاف وحوش.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Tiere.", "hypothesis": "لا يوجد معلمين هم حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Fahrzeuge.", "hypothesis": "بعض الجواسيس سيارات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Gemüse.", "hypothesis": "لا يوجد رسامون خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Intelligenzen.", "hypothesis": "بعض الاشباح مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Lebensmittel.", "hypothesis": "بعض القراصنة أطعمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Strukturen.", "hypothesis": "بعض الفرسان عبارة عن هياكل", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Rollen.", "hypothesis": "بعض الأدوار هي الديناصورات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Intelligenzen.", "hypothesis": "لا أشباح هي إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Intelligenzen.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Symbole.", "hypothesis": "بعض الطلاب رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Spezies.", "hypothesis": "ولا يوجد معلمون من الأنواع.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Gemüse.", "hypothesis": "لا يوجد قراصنة خضروات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Kreaturen.", "hypothesis": "لا تنانين هي مخلوقات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Systeme.", "hypothesis": "لا خبازين هم أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Technologien.", "hypothesis": "لا يوجد قراصنة من التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "بعض الكائنات هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Kräfte.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Lebensmittel.", "hypothesis": "بعض صائدي الأشباح أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Konzepte.", "hypothesis": "بعض صائدي الأشباح مفهومين", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Spezies.", "hypothesis": "لا أشباح هي أنواع.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Menschen.", "hypothesis": "لا جزر هي بشر.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Krieger.", "hypothesis": "بعض المحاربين هم قرود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Werkzeuge.", "hypothesis": "بعض الأدوات هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Wesen.", "hypothesis": "لا تنانين هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Strukturen.", "hypothesis": "لا توجد قرود هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Tiere.", "hypothesis": "بعض الحيوانات هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Mythen.", "hypothesis": "بعض الأساطير هي أساطير.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Monster.", "hypothesis": "بعض الوحوش قراصنة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Berufe.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Profis.", "hypothesis": "وبعض المهنيين جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Instrumente.", "hypothesis": "لا تنانين هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Maschinen.", "hypothesis": "بعض الآلات هي العفاريت.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Berufe.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Organismen.", "hypothesis": "وبعض الأجانب كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Instrumente.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Profis.", "hypothesis": "وبعض المهنيين هم خبازون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Rollen.", "hypothesis": "بعض الرسامين أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Rollen.", "hypothesis": "بعض الأدوار هي صائدي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Wesen.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Mythen.", "hypothesis": "لا يوجد جنود أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Geräte.", "hypothesis": "وبعض الحواسيب عبارة عن أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Geräte.", "hypothesis": "بعض الأجهزة هي معلمين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Dinge.", "hypothesis": "لا جواسيس هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Krieger.", "hypothesis": "لا يوجد روبوتات محاربين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Monster.", "hypothesis": "لا توجد حواسب وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Tiere.", "hypothesis": "لا توجد روبوتات حيوانات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Rollen.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Wesen.", "hypothesis": "لا زومبي هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Arten.", "hypothesis": "وبعض الأنواع هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Rollen.", "hypothesis": "بعض الخبازين أدوار", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Intelligenzen.", "hypothesis": "بعض الإستخبارات هي طهاة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Gemüse.", "hypothesis": "لا مخترعين هم خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Krieger.", "hypothesis": "بعض المحاربين هم جنود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Werkzeuge.", "hypothesis": "وبعض الحواسيب هي أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Dinge.", "hypothesis": "بعض القراصنة هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Geräte.", "hypothesis": "وبعض القراصنة أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Strukturen.", "hypothesis": "وبعض المعلمين عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Tiere.", "hypothesis": "بعض القراصنة حيوانات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Instrumente.", "hypothesis": "بعض الجنود أدوات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Kreaturen.", "hypothesis": "بعض المخلوقات غريبة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Objekte.", "hypothesis": "لا فرسان هم كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Krieger.", "hypothesis": "بعض المحاربين فضائيين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Objekte.", "hypothesis": "بعض الأشياء هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Wesen.", "hypothesis": "بعض الكيانات هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Strukturen.", "hypothesis": "بعض صائدي الأشباح عبارة عن هياكل", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Lebensmittel.", "hypothesis": "بعض الجزر أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Berufe.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Systeme.", "hypothesis": "وبعض المعلمين عبارة عن نظم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Geräte.", "hypothesis": "بعض الأجهزة هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Geräte.", "hypothesis": "بعض التنانين هي أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Gemüse.", "hypothesis": "بعض الخضروات هي مهرج.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Profis.", "hypothesis": "لا توجد أبقار محترفة", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Mythen.", "hypothesis": "بعض العلماء هم أساطير.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Wesen.", "hypothesis": "لا يوجد خبازين كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Wesen.", "hypothesis": "لا زومبي هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Fahrzeuge.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Kreaturen.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Wesen.", "hypothesis": "بعض الكائنات هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Berufe.", "hypothesis": "بعض المهن هي زومبي.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Instrumente.", "hypothesis": "وبعض الأدوات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Maschinen.", "hypothesis": "بعض الماكينات زومبي", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Wesen.", "hypothesis": "لا يوجد مشعوذين كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Monster.", "hypothesis": "لا توجد جزر وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Tiere.", "hypothesis": "بعض الحيوانات قراصنة", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Symbole.", "hypothesis": "بعض الحوريات رموز", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Objekte.", "hypothesis": "بعض الأبقار هي أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Menschen.", "hypothesis": "لا زومبي هم بشر.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Berufe.", "hypothesis": "وبعض الأبقار مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Profis.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Monster.", "hypothesis": "بعض الأطباء وحوش", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Geheimdienste.", "hypothesis": "بعض الجنود مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Gemüse.", "hypothesis": "وبعض الخضروات مدرسون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Systeme.", "hypothesis": "لا توجد عفاريت هي أنظمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Konzepte.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Kreaturen.", "hypothesis": "بعض المخلوقات هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Organismen.", "hypothesis": "بعض الكائنات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Strukturen.", "hypothesis": "وبعض الطهاة عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Rollen.", "hypothesis": "وبعض الأدوار هي المعلمين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Berufe.", "hypothesis": "بعض السحرة هم مهن.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Wesen.", "hypothesis": "لا حوريات هي كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Instrumente.", "hypothesis": "لا طهاة هم أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Intelligenzen.", "hypothesis": "بعض الديناصورات هي إستخبارات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Kreaturen.", "hypothesis": "بعض المخلوقات تنانين", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Gemüse.", "hypothesis": "وبعض الخضروات هي أطباء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Organismen.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Mythen.", "hypothesis": "لا يوجد طلاب أساطير", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Dinge.", "hypothesis": "بعض الأشياء هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Berufe.", "hypothesis": "بعض المهن هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Wesen.", "hypothesis": "بعض القرود هي كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Werkzeuge.", "hypothesis": "بعض الأدوات هي الجزر.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Intelligenzen.", "hypothesis": "بعض الفرسان مخابرات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Musiker sind Objekte.", "hypothesis": "بعض الأشياء هي موسيقيين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Tiere.", "hypothesis": "بعض الحيوانات هي جنود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Konzepte.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Fahrzeuge.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Maschinen.", "hypothesis": "لا فرسان ماكينات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Zeichen.", "hypothesis": "بعض الشخصيات هي الغيلان.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Monster.", "hypothesis": "لا يوجد أشباح وحوش", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Lebensmittel.", "hypothesis": "بعض القراصنة أطعمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Konzepte.", "hypothesis": "بعض الأطباء عبارة عن مفاهيم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Technologien.", "hypothesis": "وبعض الأجانب تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Wesen.", "hypothesis": "بعض الكائنات هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Wesen.", "hypothesis": "وبعض الرسامين كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Kreaturen.", "hypothesis": "بعض المهرجين مخلوقات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ritter sind Charaktere.", "hypothesis": "لا فرسان هم شخصيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Maschinen.", "hypothesis": "والآلات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Berufe.", "hypothesis": "وبعض المهن هي مزارعون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Arten.", "hypothesis": "بعض الأنواع هي خبازة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Dinosaurier sind Kreaturen.", "hypothesis": "لا ديناصورات هي مخلوقات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Objekte.", "hypothesis": "لا توجد أوصاف هي كائنات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Systeme.", "hypothesis": "وبعض المعلمين عبارة عن نظم.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Mythen.", "hypothesis": "بعض الأساطير هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Objekte.", "hypothesis": "بعض الأشياء هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Technologien.", "hypothesis": "بعض التكنولوجيات هي الرسامين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Oger sind Geräte.", "hypothesis": "لا توجد أوصاف هي الأجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Berufe.", "hypothesis": "بعض المهن هي مخترعات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Objekte.", "hypothesis": "بعض المخترعات هي كائنات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Dinge.", "hypothesis": "لا معلمين هم أشياء.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Tiere.", "hypothesis": "بعض الحيوانات أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Wesen.", "hypothesis": "لا توجد حوريات هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Wesen.", "hypothesis": "لا يوجد روبوتات كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Lebensmittel.", "hypothesis": "لا طهاة هم الأطعمة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Technologien.", "hypothesis": "لا يوجد ساحرات تكنولوجيات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Intelligenzen.", "hypothesis": "بعض المخترعين هم إستخبارات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Fahrzeuge.", "hypothesis": "بعض الأطباء هم مركبات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Dinge.", "hypothesis": "بعض الأشياء هي مزارعين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Schüler sind Rollen.", "hypothesis": "بعض الطلاب أدوار.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Instrumente.", "hypothesis": "لا توجد قرود هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Kräfte.", "hypothesis": "لا يوجد مهرج في القوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Maschinen.", "hypothesis": "بعض الآلات هي القرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Mythen.", "hypothesis": "بعض الأساطير هي قرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Soldaten sind Geheimdienste.", "hypothesis": "بعض الإستخبارات جنود", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Dinge.", "hypothesis": "بعض الأشياء هي قراصنة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Berufe.", "hypothesis": "لا حورياتَ حورياتَ مِنْ الوظائفِ.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Lebensmittel.", "hypothesis": "بعض الجواسيس أطعمة", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bauern sind Intelligenzen.", "hypothesis": "لا مزارعين هم إستخبارات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Systeme.", "hypothesis": "بعض الأنظمة هي مهرجين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Fahrzeuge.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Spezies.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Tiere.", "hypothesis": "بعض الحيوانات هي معلمة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Kreaturen.", "hypothesis": "بعض المخلوقات هي روبوتات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Profis.", "hypothesis": "وبعض المدرسين مهنيون.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Aliens sind Technologien.", "hypothesis": "لا يوجد أجانب هم التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Wesen.", "hypothesis": "لا توجد قرود كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kühe sind Lebensmittel.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Symbole.", "hypothesis": "بعض الرموز أشباح", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Technologien.", "hypothesis": "وبعض القراصنة تكنولوجيات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Bäcker sind Entitäten.", "hypothesis": "بعض الخبازين هي كيانات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Geräte.", "hypothesis": "بعض القرود هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Technologien.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Geräte.", "hypothesis": "لا أشباح هي أجهزة.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Organismen.", "hypothesis": "بعض الجزر هي كائنات حية.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Fahrzeuge.", "hypothesis": "بعض المركبات هي سحرة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Geräte.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Profis.", "hypothesis": "لا جواسيس محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Arten.", "hypothesis": "بعض الحوريات هي أنواع.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Werkzeuge.", "hypothesis": "لا حواسيب هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Organismen.", "hypothesis": "بعض الكائنات هي طيور العفاريت.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Organismen.", "hypothesis": "بعض الكائنات هي أشباح.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geisterjäger sind Kräfte.", "hypothesis": "بعض القوات هي أشباح صائدة.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Lehrer sind Monster.", "hypothesis": "بعض المعلمين هم وحوش.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Drachen sind Intelligenzen.", "hypothesis": "بعض التنانين هي إستخبارات", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Berufe.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Computer sind Strukturen.", "hypothesis": "لا أجهزة كمبيوتر هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Charaktere.", "hypothesis": "لا مخترعين هم شخصيات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Maler sind Wesen.", "hypothesis": "لا يوجد رسامون كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Profis.", "hypothesis": "لا يوجد سحرة محترفين", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Landwirte sind Strukturen.", "hypothesis": "ولا يوجد مزارعون عبارة عن هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Gemüse.", "hypothesis": "بعض الخضروات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Roboter sind Strukturen.", "hypothesis": "لا توجد روبوتات هي هياكل.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Entitäten.", "hypothesis": "لا مخترعات هي كيانات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Piraten sind Wesen.", "hypothesis": "لا يوجد قراصنة كائنات", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zombies sind Instrumente.", "hypothesis": "بعض الأدوات هي الزومبي.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Konzepte.", "hypothesis": "لا يوجد أطباء هم مفاهيم.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Zauberer sind Berufe.", "hypothesis": "لا سحرة هم مهن.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Objekte.", "hypothesis": "بعض الأشياء هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Spione sind Strukturen.", "hypothesis": "بعض الهياكل هي جواسيس.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Studierenden sind Strukturen.", "hypothesis": "وبعض الطلاب عبارة عن هياكل.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Wissenschaftler sind Maschinen.", "hypothesis": "بعض الآلات هي علماء.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Clowns sind Objekte.", "hypothesis": "بعض الأشياء هي مهرجين.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Karotten sind Werkzeuge.", "hypothesis": "بعض الجزر أدوات.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Systeme.", "hypothesis": "بعض القرود هي أنظمة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Affen sind Mythen.", "hypothesis": "بعض الأساطير هي قرود.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Meerjungfrauen sind Wesen.", "hypothesis": "بعض الكيانات هي حوريات.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Kobolde sind Instrumente.", "hypothesis": "لا توجد عفاريت هي أدوات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Köche sind Dinge.", "hypothesis": "بعض الطهاة هم أشياء.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Geister sind Gemüse.", "hypothesis": "لا أشباح هي خضروات.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Erfinder sind Geräte.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Ärzte sind Mythen.", "hypothesis": "لا أطباء هم أساطير.", "label": "contradiction", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}
+{"premise": "Alle Studenten sind Technologien.", "hypothesis": "وبعض التكنولوجيات هي طلاب.", "label": "neutral", "lang_premise": "de", "lang_hypothesis": "ar", "codeswitch_type": "de_prem_ar_hyp"}

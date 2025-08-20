@@ -1,0 +1,1000 @@
+{"premise": "All aliens are monsters.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are vehicles.", "hypothesis": "Baadhi ya magari ni maleaya.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are professionals.", "hypothesis": "Wachekeshaji fulani ni wastadi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are animals.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are symbols.", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are characters.", "hypothesis": "Hakuna wachawi walio wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are tools.", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are species.", "hypothesis": "Baadhi ya waokaji ni aina mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are forces.", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are professionals.", "hypothesis": "Hakuna wanafunzi walio wataalamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are organisms.", "hypothesis": "Hakuna walimu walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are objects.", "hypothesis": "Baadhi ya walimu ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are animals.", "hypothesis": "Mizombi fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are structures.", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are humans.", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are monsters.", "hypothesis": "Wakulima fulani ni wanyama wakubwa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are animals.", "hypothesis": "Hakuna madaktari walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vehicles.", "hypothesis": "Walimu fulani ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are systems.", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are forces.", "hypothesis": "Baadhi ya kani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are things.", "hypothesis": "Baadhi ya vitu hivyo ni vichekeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are vehicles.", "hypothesis": "Baadhi ya magari ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are things.", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are symbols.", "hypothesis": "Hakuna waokaji walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are foods.", "hypothesis": "Vyakula fulani ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are organisms.", "hypothesis": "Baadhi ya mashujaa ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are animals.", "hypothesis": "Ng'ombe fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are intelligences.", "hypothesis": "Hakuna majoka walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are organisms.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are devices.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vegetables.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are machines.", "hypothesis": "Ng'ombe fulani ni mashine.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are symbols.", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are symbols.", "hypothesis": "Hakuna majoka walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are things.", "hypothesis": "Baadhi ya wanafunzi ni mambo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are beings.", "hypothesis": "Wanyama fulani ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are structures.", "hypothesis": "Majengo fulani ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are vehicles.", "hypothesis": "Hakuna wapelelezi walio magari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are structures.", "hypothesis": "Majengo fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are myths.", "hypothesis": "Hakuna walimu walio hadithi za kubuniwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are roles.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are forces.", "hypothesis": "Hakuna nguvu za kompyuta.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are myths.", "hypothesis": "Hakuna tumbili walio wa kuwaziwa tu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are systems.", "hypothesis": "Hakuna wanafunzi walio na mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are devices.", "hypothesis": "Baadhi ya mashujaa ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are objects.", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are creatures.", "hypothesis": "Askari - jeshi fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are humans.", "hypothesis": "Hakuna walimu walio wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are occupations.", "hypothesis": "Baadhi ya maeneo hayo yana shughuli nyingi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are entities.", "hypothesis": "Wakulima fulani ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are foods.", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are technologies.", "hypothesis": "Hakuna wawindaji wa mazimwi ni tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are species.", "hypothesis": "Wanasayansi fulani ni spishi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are devices.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are organisms.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are machines.", "hypothesis": "Mashine fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are machines.", "hypothesis": "Hakuna vipande vya mbao vilivyo kama mashini.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are tools.", "hypothesis": "Hakuna mikahawa ambayo ina vifaa vya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are organisms.", "hypothesis": "Baadhi ya viumbe ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are species.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are objects.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are animals.", "hypothesis": "Baadhi ya mashujaa ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are vehicles.", "hypothesis": "Magari mengine ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are foods.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are structures.", "hypothesis": "Baadhi ya nyumba hizo ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are warriors.", "hypothesis": "Baadhi ya wapiganaji ni wanyang'anyi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are instruments.", "hypothesis": "Baadhi ya wawindaji ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are structures.", "hypothesis": "Hakuna karoti zilizojengwa kwa muundo wa karoti.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are things.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are symbols.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are occupations.", "hypothesis": "Baadhi ya kazi hizo ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are structures.", "hypothesis": "Wakulima fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are vehicles.", "hypothesis": "Hakuna askari - jeshi walio magari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are organisms.", "hypothesis": "Hakuna kompyuta zilizo hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are forces.", "hypothesis": "Baadhi ya karoti ni kani.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are devices.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are professionals.", "hypothesis": "Hakuna waokaji walio wataalamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are tools.", "hypothesis": "Wanasayansi fulani ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are foods.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are entities.", "hypothesis": "Mashirika fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are organisms.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are animals.", "hypothesis": "Wanyama fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are tools.", "hypothesis": "Baadhi ya vifaa ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are vegetables.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are intelligences.", "hypothesis": "Hakuna watu wanaowasiliana na pepo ambao wana akili nyingi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are devices.", "hypothesis": "Baadhi ya karoti ni vifaa vya kuchezea.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are technologies.", "hypothesis": "Hakuna opago ni tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are humans.", "hypothesis": "Wanadamu fulani ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are vehicles.", "hypothesis": "Baadhi ya magari ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are species.", "hypothesis": "Baadhi ya karoti ni aina ya ndege.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are forces.", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are devices.", "hypothesis": "Baadhi ya waokaji ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are warriors.", "hypothesis": "Kompyuta fulani ni wapiganaji.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are machines.", "hypothesis": "Hakuna wageni walio na mashini.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are monsters.", "hypothesis": "Baadhi ya wanyama wakubwa ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are beings.", "hypothesis": "Wengine ni viumbe wa blibli.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are things.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are structures.", "hypothesis": "Hakuna majoka ambayo ni majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are animals.", "hypothesis": "Hakuna askari - jeshi walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are vehicles.", "hypothesis": "Hakuna wapishi walio na magari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are intelligences.", "hypothesis": "Akili fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are structures.", "hypothesis": "Baadhi ya majengo hayo ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are objects.", "hypothesis": "Hakuna wapishi walio vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are occupations.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are concepts.", "hypothesis": "Hakuna wachawi walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are warriors.", "hypothesis": "Wapishi fulani ni mashujaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are animals.", "hypothesis": "Wanyama fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are animals.", "hypothesis": "Walimu fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are things.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are intelligences.", "hypothesis": "Baadhi ya waokaji ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are professionals.", "hypothesis": "Madaktari fulani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are myths.", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are things.", "hypothesis": "Mambo fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vegetables.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are professionals.", "hypothesis": "Baadhi ya mashujaa ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are things.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are creatures.", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are roles.", "hypothesis": "Wanamuziki fulani ni washiriki.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are structures.", "hypothesis": "Baadhi ya vyombo hivyo ni visao vya kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are symbols.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are monsters.", "hypothesis": "Hakuna waokaji walio madubwana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are objects.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are characters.", "hypothesis": "Baadhi ya wahusika ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are foods.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are foods.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vehicles.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are devices.", "hypothesis": "Hakuna wanamuziki walio na vifaa vya kuchezea.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are symbols.", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are occupations.", "hypothesis": "Baadhi ya waokaji ni wafanyakazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are animals.", "hypothesis": "Hakuna waokaji walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are instruments.", "hypothesis": "Hakuna wanasayansi walio vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are vegetables.", "hypothesis": "Hakuna wapishi walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are concepts.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are organisms.", "hypothesis": "Hakuna wapishi walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are tools.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are foods.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are technologies.", "hypothesis": "Hakuna wavumbuzi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are entities.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are animals.", "hypothesis": "Wanyama fulani ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are beings.", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are foods.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are concepts.", "hypothesis": "Hakuna mgeni yeyote aliye na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are beings.", "hypothesis": "Wanafunzi fulani ni wahai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are roles.", "hypothesis": "Hakuna askari - jeshi walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are characters.", "hypothesis": "Hakuna wanafunzi walio wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vehicles.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are myths.", "hypothesis": "Baadhi ya hekaya ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are intelligences.", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are foods.", "hypothesis": "Baadhi ya vyakula hivyo ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are things.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "Baadhi ya wawindaji ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are structures.", "hypothesis": "Hakuna juhabahari ni majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are warriors.", "hypothesis": "Baadhi ya wapiganaji ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are instruments.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are organisms.", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are foods.", "hypothesis": "Vyakula fulani ni vicheshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are foods.", "hypothesis": "Vyakula fulani ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are symbols.", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are characters.", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are organisms.", "hypothesis": "Viumbe fulani ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are structures.", "hypothesis": "Majengo fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are characters.", "hypothesis": "Tumbili fulani ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are concepts.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are humans.", "hypothesis": "Wanadamu fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are humans.", "hypothesis": "Hakuna wawindaji wa mizuka walio binadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are creatures.", "hypothesis": "Wapishi fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are occupations.", "hypothesis": "Walimu fulani wanafanya kazi mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are intelligences.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are creatures.", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are characters.", "hypothesis": "Baadhi ya wahusika ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are organisms.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are symbols.", "hypothesis": "Baadhi ya alama hizo ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are characters.", "hypothesis": "Hakuna maharamia wanaohusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "Hakuna wawindaji wa mizuka walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are beings.", "hypothesis": "Baadhi ya watu ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are organisms.", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are tools.", "hypothesis": "Hakuna dinosa walio na vifaa vya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are things.", "hypothesis": "Hakuna askari - jeshi walio mambo hayo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are beings.", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are monsters.", "hypothesis": "Baadhi ya madubwana ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are professionals.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are concepts.", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are humans.", "hypothesis": "Baadhi ya karoti ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are intelligences.", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are occupations.", "hypothesis": "Baadhi ya wapelelezi wana shughuli mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are concepts.", "hypothesis": "Baadhi ya mashujaa ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are beings.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are occupations.", "hypothesis": "Baadhi ya dinosa ni mali yao.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are creatures.", "hypothesis": "Viumbe fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are forces.", "hypothesis": "Baadhi ya nguvu hizo ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are species.", "hypothesis": "Hakuna wapelelezi walio wa aina mbalimbali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are tools.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are creatures.", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are animals.", "hypothesis": "Baadhi ya karoti ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are animals.", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are intelligences.", "hypothesis": "Baadhi ya zombi ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are creatures.", "hypothesis": "Na wachawi hawatakuwa na kiumbe yeyote.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are instruments.", "hypothesis": "Baadhi ya wageni ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are characters.", "hypothesis": "Baadhi ya wahusika ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are humans.", "hypothesis": "Ng'ombe fulani ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are foods.", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are characters.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are vegetables.", "hypothesis": "Hakuna ng'ombe walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are entities.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are instruments.", "hypothesis": "Baadhi ya ala hizo ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are entities.", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are intelligences.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are symbols.", "hypothesis": "Hakuna tumbili walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are instruments.", "hypothesis": "Baadhi ya vyombo ni visao vya kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are vegetables.", "hypothesis": "Hakuna juhabahari walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are foods.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vegetables.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are tools.", "hypothesis": "Baadhi ya vifaa hivyo ni vya rangi mbalimbali.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are technologies.", "hypothesis": "Mizuka fulani ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are monsters.", "hypothesis": "Baadhi ya madubwana ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are humans.", "hypothesis": "Wanadamu fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are myths.", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are organisms.", "hypothesis": "Maharamia fulani ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are devices.", "hypothesis": "Baadhi ya askari - jeshi ni vifaa vya kutumiwa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are animals.", "hypothesis": "Dragoni wengine ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are tools.", "hypothesis": "Hakuna mgeni aliye na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are objects.", "hypothesis": "Vitu fulani ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are warriors.", "hypothesis": "Hakuna maharamia walio mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are vehicles.", "hypothesis": "Magari fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are beings.", "hypothesis": "Baadhi ya watu ni watumishi wa nyumbani.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are characters.", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vehicles.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are species.", "hypothesis": "Aina fulani za wanyama ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are species.", "hypothesis": "Baadhi ya dinosa ni jamii za wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are humans.", "hypothesis": "Wanadamu fulani ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are structures.", "hypothesis": "Hakuna wavumbuzi walio na majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are characters.", "hypothesis": "Hakuna kompyuta zinazoigiza.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are characters.", "hypothesis": "Baadhi ya waokaji ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are instruments.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are devices.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are animals.", "hypothesis": "Hakuna wakulima walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are professionals.", "hypothesis": "Baadhi ya askari - jeshi ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are technologies.", "hypothesis": "Tekinolojia fulani ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are instruments.", "hypothesis": "Hakuna roboti zilizo za hali ya juu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are devices.", "hypothesis": "Hakuna vyombo vya uchawi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are structures.", "hypothesis": "Majengo fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are humans.", "hypothesis": "Wanadamu fulani ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are humans.", "hypothesis": "Hakuna wapelelezi walio wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are monsters.", "hypothesis": "Wapelelezi fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are professionals.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are characters.", "hypothesis": "Hakuna wachoraji wanaoigiza.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are devices.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are humans.", "hypothesis": "Wanasayansi fulani ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are vehicles.", "hypothesis": "Wanafunzi fulani ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are objects.", "hypothesis": "Baadhi ya mashujaa ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are professionals.", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are creatures.", "hypothesis": "Hakuna wavumbuzi walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are species.", "hypothesis": "Baadhi ya wavumbuzi ni spishi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are devices.", "hypothesis": "Baadhi ya vifaa ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are intelligences.", "hypothesis": "Hakuna wanafunzi walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are myths.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are intelligences.", "hypothesis": "Hakuna wachoraji walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are entities.", "hypothesis": "Baadhi ya wanafunzi ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are vegetables.", "hypothesis": "Hakuna wanafunzi walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are tools.", "hypothesis": "Hakuna wapaka - rangi walio na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are intelligences.", "hypothesis": "Wapelelezi fulani ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are monsters.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are warriors.", "hypothesis": "Roboti fulani ni wapiganaji.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are things.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are humans.", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are concepts.", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are objects.", "hypothesis": "Baadhi ya waokaji ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are technologies.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are roles.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are tools.", "hypothesis": "Baadhi ya zombi ni vyombo vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are organisms.", "hypothesis": "Hakuna zombies ambao ni viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are systems.", "hypothesis": "Mifumo fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are creatures.", "hypothesis": "Dragoni wengine ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are forces.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are beings.", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are creatures.", "hypothesis": "Hakuna viumbe wanaotoweka katika eneo hilo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are species.", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are technologies.", "hypothesis": "Tekinolojia fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are vehicles.", "hypothesis": "Hakuna wachawi wanaoendesha magari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are beings.", "hypothesis": "Mizuka fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are beings.", "hypothesis": "Roboti fulani zina uhai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are species.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are forces.", "hypothesis": "Baadhi ya majoka ni nguvu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are foods.", "hypothesis": "Vyakula fulani ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are forces.", "hypothesis": "Nguvu nyingine ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are beings.", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are intelligences.", "hypothesis": "Hakuna wapelelezi walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are symbols.", "hypothesis": "Tumbili fulani ni mifano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are myths.", "hypothesis": "Baadhi ya ngano ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are vegetables.", "hypothesis": "Hakuna wageni walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are myths.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are creatures.", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are roles.", "hypothesis": "Hakuna wakulima wanaotimiza majukumu yao.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are characters.", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are characters.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are animals.", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are foods.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are creatures.", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are tools.", "hypothesis": "Baadhi ya maharamia ni vifaa vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are warriors.", "hypothesis": "Hakuna karoti zilizo mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are systems.", "hypothesis": "Mifumo fulani ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are myths.", "hypothesis": "Hakuna wawindaji wa mizuka walio hadithi za kubuniwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are occupations.", "hypothesis": "Hakuna mtu anayefanya kazi za mikono.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are characters.", "hypothesis": "Hakuna wapelelezi walio wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are characters.", "hypothesis": "Watu fulani ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are technologies.", "hypothesis": "Hakuna wapishi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are symbols.", "hypothesis": "Hakuna opeo zilizo alama za mfano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are machines.", "hypothesis": "Hakuna wapelelezi walio mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are myths.", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are animals.", "hypothesis": "Wanyama fulani ni wavumbuzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are occupations.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are things.", "hypothesis": "Hakuna waokaji ni vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are beings.", "hypothesis": "Baadhi ya viumbe ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are monsters.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are intelligences.", "hypothesis": "Hakuna wanasayansi walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are systems.", "hypothesis": "Mifumo fulani ni mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are structures.", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are entities.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are vegetables.", "hypothesis": "Baadhi ya mboga ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are forces.", "hypothesis": "Mizombi fulani ni kani.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are species.", "hypothesis": "Baadhi ya wanafunzi ni aina.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are technologies.", "hypothesis": "Wanamuziki fulani ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vegetables.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are warriors.", "hypothesis": "Hakuna dinosa walio mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are species.", "hypothesis": "Baadhi ya madaktari ni aina.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are symbols.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are tools.", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are characters.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are characters.", "hypothesis": "Mizuka fulani ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are symbols.", "hypothesis": "Ishara nyingine ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are things.", "hypothesis": "Baadhi ya wapelelezi ni mambo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are organisms.", "hypothesis": "Baadhi ya viumbe ni ogre.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are professionals.", "hypothesis": "Hakuna mgeni aliye stadi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are things.", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are organisms.", "hypothesis": "Wanamuziki fulani ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are technologies.", "hypothesis": "Tekinolojia fulani zina kasoro fulani.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are objects.", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are systems.", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are intelligences.", "hypothesis": "Akili fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are concepts.", "hypothesis": "Mawazo fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are creatures.", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are objects.", "hypothesis": "Vitu fulani ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are devices.", "hypothesis": "Hakuna wawindaji wa mizuka walio kama vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are beings.", "hypothesis": "Baadhi ya ogres ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are vehicles.", "hypothesis": "Baadhi ya wageni ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are vegetables.", "hypothesis": "Maua fulani ya zombies ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are organisms.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are myths.", "hypothesis": "Baadhi ya wanafunzi ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are instruments.", "hypothesis": "Baadhi ya vifaa ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are machines.", "hypothesis": "Walimu fulani ni mashine.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are entities.", "hypothesis": "Hakuna mashirika ya kigeni.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are devices.", "hypothesis": "Hakuna kitu chochote kinachoweza kutumiwa kutengeneza dawa za kulevya.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are myths.", "hypothesis": "Hakuna watunza - farasi walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are concepts.", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are monsters.", "hypothesis": "Baadhi ya madubwana ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are tools.", "hypothesis": "Baadhi ya vifaa ni vikao vya kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are intelligences.", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are forces.", "hypothesis": "Hakuna watu wanaoitwa ogre.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are technologies.", "hypothesis": "Hakuna dinosa walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are structures.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are occupations.", "hypothesis": "Baadhi ya kazi hizo ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are animals.", "hypothesis": "Wakulima fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are characters.", "hypothesis": "Wahusika fulani ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are species.", "hypothesis": "Baadhi ya wapelelezi ni aina.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are machines.", "hypothesis": "Hakuna mazimwi ni mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are humans.", "hypothesis": "Tumbili fulani ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are foods.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are beings.", "hypothesis": "Baadhi ya watu hao ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are entities.", "hypothesis": "Hakuna wapaka - rangi walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are forces.", "hypothesis": "Hakuna waokaji walio na nguvu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are systems.", "hypothesis": "Mifumo fulani ni watunza - farasi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are monsters.", "hypothesis": "Baadhi ya wanyama wakubwa ni ogres.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are vehicles.", "hypothesis": "Hakuna mgeni yeyote aliye na magari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are creatures.", "hypothesis": "Viumbe fulani ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are vegetables.", "hypothesis": "Baadhi ya wanafunzi ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are machines.", "hypothesis": "Hakuna walimu walio mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are objects.", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are entities.", "hypothesis": "Mashirika fulani ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are technologies.", "hypothesis": "Tekinolojia fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are systems.", "hypothesis": "Hakuna mifumo ya zombi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are machines.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vehicles.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are vegetables.", "hypothesis": "Nogres ni mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are warriors.", "hypothesis": "Baadhi ya watunza - farasi ni mashujaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are species.", "hypothesis": "Hakuna karoti za aina hiyo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are concepts.", "hypothesis": "Mawazo fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are roles.", "hypothesis": "Baadhi ya majukumu hayo ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are devices.", "hypothesis": "Baadhi ya vifaa hivyo ni vya kuchekesha.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are concepts.", "hypothesis": "Baadhi ya wageni ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are roles.", "hypothesis": "Baadhi ya majukumu ni ya wizi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are occupations.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are instruments.", "hypothesis": "Baadhi ya dinosa ni ala za muziki.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are tools.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are beings.", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are things.", "hypothesis": "Hakuna wachawi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are concepts.", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are creatures.", "hypothesis": "Baadhi ya viumbe ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are structures.", "hypothesis": "Nyani fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are machines.", "hypothesis": "Mashine fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are vehicles.", "hypothesis": "Magari fulani ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are foods.", "hypothesis": "Hakuna mashujaa walio vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are concepts.", "hypothesis": "Baadhi ya karoti ni dhana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are monsters.", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are characters.", "hypothesis": "Dragoni wengine ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are roles.", "hypothesis": "Baadhi ya karoti huwa na madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are vegetables.", "hypothesis": "Hakuna mboga za zombi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are roles.", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are structures.", "hypothesis": "Majengo fulani ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are foods.", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are foods.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are animals.", "hypothesis": "Wanyama fulani ni ogres.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are intelligences.", "hypothesis": "Hakuna madaktari walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are machines.", "hypothesis": "Baadhi ya waokaji ni mashine.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are foods.", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are foods.", "hypothesis": "Vyakula fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are professionals.", "hypothesis": "Tumbili fulani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are forces.", "hypothesis": "Wanamuziki fulani ni nguvu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are animals.", "hypothesis": "Wapishi fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are organisms.", "hypothesis": "Hakuna mazimwi ni viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are occupations.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are concepts.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are species.", "hypothesis": "Baadhi ya wachawi ni aina za viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are structures.", "hypothesis": "Mizuka fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are things.", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are species.", "hypothesis": "Roboti fulani ni aina mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are forces.", "hypothesis": "Hakuna wapelelezi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are vegetables.", "hypothesis": "Hakuna mashujaa walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are characters.", "hypothesis": "Baadhi ya wahusika ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are forces.", "hypothesis": "Baadhi ya nguvu hizo ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are roles.", "hypothesis": "Baadhi ya majukumu ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are creatures.", "hypothesis": "Viumbe fulani ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are roles.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are structures.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are systems.", "hypothesis": "Wapishi fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are instruments.", "hypothesis": "Mizuka fulani ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are creatures.", "hypothesis": "Baadhi ya viumbe ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are vehicles.", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are occupations.", "hypothesis": "Hakuna waokaji walio na kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are creatures.", "hypothesis": "Viumbe fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are humans.", "hypothesis": "Baadhi ya wachoraji ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are machines.", "hypothesis": "Hakuna tabi ni mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are myths.", "hypothesis": "Baadhi ya ngano ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are machines.", "hypothesis": "Baadhi ya wachawi ni mashine.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vegetables.", "hypothesis": "Hakuna walimu walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are instruments.", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are concepts.", "hypothesis": "Mawazo fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are technologies.", "hypothesis": "Tekinolojia fulani ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are warriors.", "hypothesis": "Baadhi ya mashujaa wa vita ni wavumbuzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are forces.", "hypothesis": "Hakuna nguvu za uchawi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are characters.", "hypothesis": "Wapishi fulani ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are warriors.", "hypothesis": "Hakuna wapelelezi walio mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are vegetables.", "hypothesis": "Wachekeshaji wengine ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are things.", "hypothesis": "Hakuna opago ni vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are characters.", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are instruments.", "hypothesis": "Hakuna madaktari walio vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are roles.", "hypothesis": "Baadhi ya madaktari wana madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are machines.", "hypothesis": "Mashine nyingine ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are beings.", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are characters.", "hypothesis": "Baadhi ya wageni ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are professionals.", "hypothesis": "Mizuka fulani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are monsters.", "hypothesis": "Baadhi ya wanyama wakubwa ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are occupations.", "hypothesis": "Baadhi ya kazi hizo ni za wizi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are devices.", "hypothesis": "Baadhi ya vifaa hivyo vinaitwa ogres.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are things.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are monsters.", "hypothesis": "Hakuna tumbili walio wakali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are devices.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are monsters.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are foods.", "hypothesis": "Vyakula fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are things.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are monsters.", "hypothesis": "Hakuna majoka ambao ni madubwana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are symbols.", "hypothesis": "Askari - jeshi fulani ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are forces.", "hypothesis": "Hakuna nguvu za wakulima.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are roles.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are foods.", "hypothesis": "Hakuna ogre ni vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are objects.", "hypothesis": "Hakuna mazingaombwe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are roles.", "hypothesis": "Hakuna waokaji walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are things.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are creatures.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are technologies.", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are creatures.", "hypothesis": "Baadhi ya karoti ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are warriors.", "hypothesis": "Hakuna waokaji walio mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are warriors.", "hypothesis": "Baadhi ya wanafunzi ni wapiganaji.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are organisms.", "hypothesis": "Hakuna dinosa ambao ni viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are organisms.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are technologies.", "hypothesis": "Tekinolojia fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are roles.", "hypothesis": "Hakuna watunza - farasi walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are vegetables.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are vegetables.", "hypothesis": "Baadhi ya mboga ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are structures.", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are roles.", "hypothesis": "Baadhi ya watumishi wa nyumbani hutimiza majukumu yao.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are myths.", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are myths.", "hypothesis": "Baadhi ya ngano ni watunza - farasi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are organisms.", "hypothesis": "Hakuna askari - jeshi walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are vegetables.", "hypothesis": "Maharamia fulani ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are tools.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are concepts.", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are things.", "hypothesis": "Wanasayansi fulani ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are foods.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are vegetables.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are humans.", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are concepts.", "hypothesis": "Hakuna majoka walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are professionals.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are beings.", "hypothesis": "Kompyuta fulani zina uhai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are instruments.", "hypothesis": "Baadhi ya wafanyakazi ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are instruments.", "hypothesis": "Baadhi ya vifaa ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are things.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are animals.", "hypothesis": "Wapelelezi fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are tools.", "hypothesis": "Hakuna wachawi walio na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are monsters.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are intelligences.", "hypothesis": "Hakuna walimu walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are structures.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are foods.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are species.", "hypothesis": "Spishi fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are systems.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are characters.", "hypothesis": "Kompyuta fulani ni herufi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are animals.", "hypothesis": "Wanyama fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are species.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are professionals.", "hypothesis": "Hakuna watunza - anasa walio stadi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are entities.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are occupations.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are technologies.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are structures.", "hypothesis": "Baadhi ya vifaa hivyo ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are creatures.", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are characters.", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are roles.", "hypothesis": "Mizuka fulani ni wajibu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are professionals.", "hypothesis": "Wanamuziki fulani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are creatures.", "hypothesis": "Viumbe fulani ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are objects.", "hypothesis": "Vitu fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are systems.", "hypothesis": "Mifumo fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are structures.", "hypothesis": "Hakuna wapishi walio na majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are concepts.", "hypothesis": "Hakuna wapishi walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are machines.", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are intelligences.", "hypothesis": "Hakuna waokaji walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are forces.", "hypothesis": "Nyani fulani huwa na nguvu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are occupations.", "hypothesis": "Baadhi ya kazi hizo ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are systems.", "hypothesis": "Mifumo fulani ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are tools.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are vegetables.", "hypothesis": "Baadhi ya mboga ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are things.", "hypothesis": "Vitu fulani ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are roles.", "hypothesis": "Baadhi ya kazi hizo ni kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are organisms.", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are intelligences.", "hypothesis": "Baadhi ya wataalamu ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are technologies.", "hypothesis": "Hakuna walimu walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are devices.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are tools.", "hypothesis": "Baadhi ya vifaa ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are humans.", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are vegetables.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are systems.", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are vegetables.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are machines.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are occupations.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are objects.", "hypothesis": "Hakuna drakoni walio vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are symbols.", "hypothesis": "Ishara fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are myths.", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are symbols.", "hypothesis": "Ishara nyingine ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are structures.", "hypothesis": "Hakuna dinosa ambao ni majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are instruments.", "hypothesis": "Hakuna wawindaji wa mizuka walio ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are things.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are animals.", "hypothesis": "Wanasayansi fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are systems.", "hypothesis": "Hakuna wabuni walio na mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are entities.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are monsters.", "hypothesis": "Hakuna ng'ombe walio wakali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are objects.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are instruments.", "hypothesis": "Hakuna wavumbuzi walio na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are forces.", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are humans.", "hypothesis": "Hakuna mashujaa walio wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are symbols.", "hypothesis": "Ishara fulani ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are technologies.", "hypothesis": "Nyani fulani ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are characters.", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are animals.", "hypothesis": "Wanyama fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are structures.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are entities.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are species.", "hypothesis": "Kuna aina fulani za maharamia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are organisms.", "hypothesis": "Hakuna wanasayansi ambao ni viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are devices.", "hypothesis": "Baadhi ya vifaa hivyo ni nyani.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are things.", "hypothesis": "Mambo fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are warriors.", "hypothesis": "Tumbili fulani ni wapiganaji.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are myths.", "hypothesis": "Hakuna wanasayansi walio hadithi za kubuniwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are animals.", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are warriors.", "hypothesis": "Hakuna wawindaji wa mizuka walio mashujaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are professionals.", "hypothesis": "Wataalamu fulani ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are symbols.", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are characters.", "hypothesis": "Baadhi ya wahusika ni wanasarakasi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are concepts.", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are organisms.", "hypothesis": "Madaktari fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are organisms.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are professionals.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are structures.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are beings.", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are intelligences.", "hypothesis": "Hakuna karoti zilizo na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are intelligences.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are humans.", "hypothesis": "Maharamia fulani ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are intelligences.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are characters.", "hypothesis": "Hakuna mazimwi ni wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are tools.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are technologies.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are instruments.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are instruments.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are things.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are humans.", "hypothesis": "Hakuna wavumbuzi walio wanadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are vegetables.", "hypothesis": "Baadhi ya mashujaa ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are systems.", "hypothesis": "Mifumo fulani ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are animals.", "hypothesis": "Wanyama fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are professionals.", "hypothesis": "Wataalamu fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are intelligences.", "hypothesis": "Hakuna maharamia walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are vegetables.", "hypothesis": "Wakulima fulani ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are occupations.", "hypothesis": "Hakuna maharamia wanaofanya kazi hiyo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are monsters.", "hypothesis": "Baadhi ya waokaji ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are objects.", "hypothesis": "Hakuna mgeni aliye vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are symbols.", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are tools.", "hypothesis": "Hakuna zombi ni zana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are myths.", "hypothesis": "Baadhi ya dinosa ni hekaya.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are things.", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are instruments.", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are instruments.", "hypothesis": "Hakuna mgeni aliye ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are creatures.", "hypothesis": "Baadhi ya zombi ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are humans.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are symbols.", "hypothesis": "Ishara fulani ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are organisms.", "hypothesis": "Hakuna wanamuziki walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are intelligences.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are entities.", "hypothesis": "Hakuna wanasayansi walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are organisms.", "hypothesis": "Hakuna wapelelezi walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are organisms.", "hypothesis": "Hakuna wachoraji walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are things.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are beings.", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are machines.", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are technologies.", "hypothesis": "Wakulima fulani ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are things.", "hypothesis": "Hakuna wapishi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are instruments.", "hypothesis": "Baadhi ya vyombo ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are tools.", "hypothesis": "Hakuna juhabahari ni vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are systems.", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are machines.", "hypothesis": "Mashine fulani ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are technologies.", "hypothesis": "Tekinolojia fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are entities.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are objects.", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are occupations.", "hypothesis": "Baadhi ya maharamia hufanya kazi mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are species.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are professionals.", "hypothesis": "Wataalamu fulani ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are myths.", "hypothesis": "Baadhi ya ng'ombe ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are species.", "hypothesis": "Spishi fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are forces.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are myths.", "hypothesis": "Hakuna wachoraji walio hadithi za kubuniwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are foods.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are objects.", "hypothesis": "Hakuna madaktari walio vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are entities.", "hypothesis": "Mashirika fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are entities.", "hypothesis": "Mashirika fulani ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are animals.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are things.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are foods.", "hypothesis": "Wanasayansi fulani ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are species.", "hypothesis": "Kompyuta fulani ni aina.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are systems.", "hypothesis": "Baadhi ya wawindaji ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are professionals.", "hypothesis": "Wataalamu fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are myths.", "hypothesis": "Baadhi ya ngano ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are beings.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are entities.", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are technologies.", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are professionals.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are vehicles.", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are devices.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are machines.", "hypothesis": "Hakuna zombi za mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are foods.", "hypothesis": "Vyakula fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are myths.", "hypothesis": "Baadhi ya madaktari ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are roles.", "hypothesis": "Baadhi ya madaraka ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are organisms.", "hypothesis": "Hakuna wakulima ambao ni viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are symbols.", "hypothesis": "Hakuna ng'ombe walio mifano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are devices.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are characters.", "hypothesis": "Hakuna karoti zinazoigiza.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are tools.", "hypothesis": "Wapishi fulani ni vyombo vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are concepts.", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are symbols.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are devices.", "hypothesis": "Hakuna mgeni anayetumia vifaa hivyo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are vehicles.", "hypothesis": "Baadhi ya ng'ombe ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are species.", "hypothesis": "Hakuna ndege kutoka nchi nyingine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are myths.", "hypothesis": "Hakuna ng'ombe walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are structures.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are foods.", "hypothesis": "Mizuka fulani ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are symbols.", "hypothesis": "Wapelelezi fulani ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are humans.", "hypothesis": "Baadhi ya wachawi ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are tools.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni vifaa vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are warriors.", "hypothesis": "Wanamuziki fulani ni wapiganaji.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are entities.", "hypothesis": "Mashirika fulani ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are instruments.", "hypothesis": "Walimu fulani ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are professionals.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "Hakuna wawindaji wa mizuka walio na maumbo kama hayo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are characters.", "hypothesis": "Hakuna wanamuziki walio wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are systems.", "hypothesis": "Hakuna askari - jeshi walio mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are humans.", "hypothesis": "Wakulima fulani ni wanadamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are objects.", "hypothesis": "Hakuna roboti zilizo vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are symbols.", "hypothesis": "Ishara fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are concepts.", "hypothesis": "Tumbili fulani ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are professionals.", "hypothesis": "Wataalamu fulani ni wavumbuzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "Majengo fulani ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are instruments.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are structures.", "hypothesis": "Hakuna wapelelezi walio na majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are concepts.", "hypothesis": "Hakuna waombolezaji walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are roles.", "hypothesis": "Baadhi ya majukumu ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are animals.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are roles.", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are creatures.", "hypothesis": "Hakuna tumbili walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are creatures.", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are symbols.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are beings.", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are monsters.", "hypothesis": "Baadhi ya madubwana ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are structures.", "hypothesis": "Hakuna watumishi wa nyumbani walio na majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are structures.", "hypothesis": "Hakuna askari - jeshi walio majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are things.", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are instruments.", "hypothesis": "Hakuna wanamuziki walio ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are systems.", "hypothesis": "Mifumo fulani ni wabuni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are occupations.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are intelligences.", "hypothesis": "Hakuna wanamuziki walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are forces.", "hypothesis": "Baadhi yao ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are occupations.", "hypothesis": "Hakuna zombi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are vegetables.", "hypothesis": "Baadhi ya wavumbuzi ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are characters.", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are professionals.", "hypothesis": "Hakuna dinosa walio wataalamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are animals.", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are machines.", "hypothesis": "Mashine fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are systems.", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are intelligences.", "hypothesis": "Wanasayansi fulani ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are systems.", "hypothesis": "Hakuna wapaka - rangi walio na mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are entities.", "hypothesis": "Hakuna mashirika ya dawa za kulevya.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are devices.", "hypothesis": "Hakuna askari - jeshi walio vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are structures.", "hypothesis": "Hakuna wageni walio na majengo mapya.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are roles.", "hypothesis": "Hakuna madaktari walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are things.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are roles.", "hypothesis": "Hakuna wanafunzi walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are beings.", "hypothesis": "Wapelelezi fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are myths.", "hypothesis": "Baadhi ya ngano ni mashujaa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are vegetables.", "hypothesis": "Askari - jeshi fulani ni mboga.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are warriors.", "hypothesis": "Baadhi ya mashujaa wa vita ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are instruments.", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are roles.", "hypothesis": "Baadhi ya madaraka ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are tools.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are occupations.", "hypothesis": "Hakuna wapishi wanaofanya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are vegetables.", "hypothesis": "Hakuna wanasayansi ambao ni mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are organisms.", "hypothesis": "Ng'ombe fulani ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are species.", "hypothesis": "Spishi fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are myths.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are professionals.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are concepts.", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are professionals.", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are devices.", "hypothesis": "Vifaa fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are devices.", "hypothesis": "Wapelelezi fulani ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are machines.", "hypothesis": "Mashine nyingine ni wachawi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are systems.", "hypothesis": "Mifumo fulani ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are warriors.", "hypothesis": "Dragoni wengine ni mashujaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are systems.", "hypothesis": "Mizombi fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are forces.", "hypothesis": "Baadhi ya kani ni kompyuta.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are professionals.", "hypothesis": "Hakuna mpaka - rangi walio stadi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are intelligences.", "hypothesis": "Hakuna wachawi walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are systems.", "hypothesis": "Mifumo fulani ni askari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are objects.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are characters.", "hypothesis": "Hakuna tumbili wanaoigiza.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are occupations.", "hypothesis": "Hakuna ng'ombe anayefanya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are roles.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are things.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are characters.", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are devices.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are monsters.", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are objects.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are myths.", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are intelligences.", "hypothesis": "Akili fulani ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are forces.", "hypothesis": "Baadhi ya madaktari ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are myths.", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are forces.", "hypothesis": "Wanasayansi fulani ni kani.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are concepts.", "hypothesis": "Baadhi ya wachawi ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are concepts.", "hypothesis": "Wapishi fulani ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are things.", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are species.", "hypothesis": "Baadhi ya mashujaa ni spishi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are characters.", "hypothesis": "Wanasayansi fulani ni wahusika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are objects.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are organisms.", "hypothesis": "Wingu fulani ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are organisms.", "hypothesis": "Hakuna watunza - farasi walio viumbe hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are devices.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are monsters.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are animals.", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are vehicles.", "hypothesis": "Baadhi ya wapelelezi ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vegetables.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are intelligences.", "hypothesis": "Mizuka fulani ni watu wenye akili.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are foods.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are structures.", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are roles.", "hypothesis": "Baadhi ya majukumu hayo ni dinosa.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are intelligences.", "hypothesis": "Hakuna mazimwi ni werevu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are intelligences.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are symbols.", "hypothesis": "Wanafunzi fulani ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are species.", "hypothesis": "Hakuna walimu walio wa jamii mbalimbali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are vegetables.", "hypothesis": "Hakuna maharamia walio mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are creatures.", "hypothesis": "Hakuna majoka walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are systems.", "hypothesis": "Hakuna waokaji walio mifumo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are technologies.", "hypothesis": "Hakuna maharamia walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are forces.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are foods.", "hypothesis": "Wawindaji fulani wa mizuka ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are concepts.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni dhana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are species.", "hypothesis": "Hakuna mizuka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are humans.", "hypothesis": "Hakuna karoti zilizo binadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are warriors.", "hypothesis": "Baadhi ya mashujaa wa vita ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are tools.", "hypothesis": "Baadhi ya vifaa ni wavumbuzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are entities.", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are structures.", "hypothesis": "Hakuna tumbili walio katika makao hayo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are animals.", "hypothesis": "Wanyama fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are myths.", "hypothesis": "Baadhi ya watu wa ukoo ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are monsters.", "hypothesis": "Baadhi ya madubwana ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are occupations.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are professionals.", "hypothesis": "Wataalamu fulani ni wanajeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are instruments.", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are machines.", "hypothesis": "Baadhi ya mashini hizo ni bumba.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are occupations.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are organisms.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are instruments.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are professionals.", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are roles.", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are roles.", "hypothesis": "Baadhi ya majukumu hayo ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are beings.", "hypothesis": "Baadhi ya watu ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are myths.", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are devices.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are devices.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are things.", "hypothesis": "Hakuna wapelelezi walio hivyo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are warriors.", "hypothesis": "Hakuna roboti zinazopigana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are monsters.", "hypothesis": "Hakuna kompyuta zilizo dubwana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are animals.", "hypothesis": "Hakuna roboti ambazo ni wanyama.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are roles.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are entities.", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are species.", "hypothesis": "Aina fulani za ng'ombe ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are roles.", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni wapishi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are vegetables.", "hypothesis": "Hakuna wavumbuzi walio na mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are warriors.", "hypothesis": "Baadhi ya wapiganaji ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are tools.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are things.", "hypothesis": "Baadhi ya maharamia ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are devices.", "hypothesis": "Baadhi ya maharamia ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are structures.", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are animals.", "hypothesis": "Maharamia fulani ni wanyama.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are instruments.", "hypothesis": "Baadhi ya askari - jeshi ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are creatures.", "hypothesis": "Viumbe fulani ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are objects.", "hypothesis": "Hakuna mashujaa walio vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are warriors.", "hypothesis": "Baadhi ya wapiganaji ni wageni.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are objects.", "hypothesis": "Vitu fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are entities.", "hypothesis": "Mashirika fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are structures.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are foods.", "hypothesis": "Baadhi ya karoti ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are occupations.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are systems.", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are devices.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are devices.", "hypothesis": "Dragoni wengine ni vyombo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are vegetables.", "hypothesis": "Baadhi ya mboga ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are professionals.", "hypothesis": "Hakuna ng'ombe walio wataalamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are myths.", "hypothesis": "Wanasayansi fulani ni ngano.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are beings.", "hypothesis": "Hakuna waokaji waliohai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are entities.", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are vehicles.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are creatures.", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are beings.", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are occupations.", "hypothesis": "Baadhi ya kazi hizo ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are instruments.", "hypothesis": "Baadhi ya vifaa ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are machines.", "hypothesis": "Mashine nyingine ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are beings.", "hypothesis": "Na wachawi hawatakuwa wenye kughafilika na hayo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are monsters.", "hypothesis": "Hakuna karoti zilizo madubwana.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are animals.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are symbols.", "hypothesis": "Baadhi ya wafanyakazi ni ishara.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are objects.", "hypothesis": "Baadhi ya ng'ombe ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are humans.", "hypothesis": "Hakuna zombies walio binadamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are occupations.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are professionals.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are monsters.", "hypothesis": "Madaktari fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "Baadhi ya askari - jeshi ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vegetables.", "hypothesis": "Baadhi ya mboga ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are systems.", "hypothesis": "Hakuna pepo zinazotoweka.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are concepts.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are creatures.", "hypothesis": "Baadhi ya viumbe ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are organisms.", "hypothesis": "Baadhi ya viumbe ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are structures.", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are roles.", "hypothesis": "Baadhi ya madaraka ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are occupations.", "hypothesis": "Baadhi ya wachawi hufanya kazi mbalimbali.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are beings.", "hypothesis": "Hakuna watunza - farasi walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are instruments.", "hypothesis": "Hakuna wapishi walio vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are intelligences.", "hypothesis": "Baadhi ya dinosa ni watu wenye akili.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are creatures.", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are vegetables.", "hypothesis": "Baadhi ya mboga ni madaktari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are organisms.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are myths.", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are things.", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are occupations.", "hypothesis": "Kazi fulani ni za sulubu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are entities.", "hypothesis": "Tumbili fulani ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are tools.", "hypothesis": "Baadhi ya vifaa hivyo ni karoti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are intelligences.", "hypothesis": "Baadhi ya mashujaa ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All musicians are objects.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are animals.", "hypothesis": "Wanyama fulani ni askari - jeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are concepts.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vehicles.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are machines.", "hypothesis": "Hakuna mashujaa wa kazi walio mashine.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are characters.", "hypothesis": "Baadhi ya wahusika ni ogres.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are monsters.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are foods.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are concepts.", "hypothesis": "Madaktari fulani ni mawazo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are technologies.", "hypothesis": "Baadhi ya wageni ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are beings.", "hypothesis": "Baadhi ya viumbe ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are entities.", "hypothesis": "Baadhi ya wachoraji ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are creatures.", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All knights are characters.", "hypothesis": "Hakuna mashujaa walio wahusika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are machines.", "hypothesis": "Mashine fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are occupations.", "hypothesis": "Kazi fulani ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are species.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dinosaurs are creatures.", "hypothesis": "Hakuna dinosa walio viumbe.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are objects.", "hypothesis": "Hakuna opani ni vitu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are systems.", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are myths.", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are objects.", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are technologies.", "hypothesis": "Tekinolojia fulani ni wachoraji.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ogres are devices.", "hypothesis": "Hakuna opani ni vyombo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are occupations.", "hypothesis": "Baadhi ya kazi hizo ni wavumbuzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are objects.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are things.", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are animals.", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are entities.", "hypothesis": "Hakuna wafanyakazi walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are beings.", "hypothesis": "Hakuna roboti zilizo hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are foods.", "hypothesis": "Hakuna wapishi walio vyakula.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are technologies.", "hypothesis": "Hakuna wachawi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are intelligences.", "hypothesis": "Baadhi ya wavumbuzi ni watu wenye akili.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are vehicles.", "hypothesis": "Madaktari fulani ni magari.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are things.", "hypothesis": "Baadhi ya vitu ni wakulima.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are roles.", "hypothesis": "Baadhi ya wanafunzi wana madaraka.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are instruments.", "hypothesis": "Hakuna tumbili walio ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are forces.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are machines.", "hypothesis": "Mashine fulani ni nyani.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are myths.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All soldiers are intelligences.", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are things.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are occupations.", "hypothesis": "Hakuna wafanyakazi wanaofanya kazi hiyo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are foods.", "hypothesis": "Baadhi ya wapelelezi ni vyakula.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are intelligences.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are systems.", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are vehicles.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are species.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are animals.", "hypothesis": "Wanyama fulani ni walimu.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are creatures.", "hypothesis": "Viumbe fulani ni roboti.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are professionals.", "hypothesis": "Walimu fulani ni wataalamu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All aliens are technologies.", "hypothesis": "Hakuna nchi nyingine zinazotumia teknolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are beings.", "hypothesis": "Hakuna tumbili walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All cows are foods.", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are symbols.", "hypothesis": "Mifano mingine ni mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are technologies.", "hypothesis": "Baadhi ya maharamia ni tekinolojia.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All bakers are entities.", "hypothesis": "Baadhi ya waokaji ni mashirika.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are devices.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are technologies.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are devices.", "hypothesis": "Hakuna mazimwi ni vifaa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are organisms.", "hypothesis": "Baadhi ya karoti ni viumbe hai.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are vehicles.", "hypothesis": "Magari fulani ni mazingaombwe.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are devices.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are professionals.", "hypothesis": "Hakuna wapelelezi walio wataalamu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are species.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are tools.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are organisms.", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are organisms.", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghost hunters are forces.", "hypothesis": "Baadhi ya nguvu hizo ni wawindaji wa mizuka.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All teachers are monsters.", "hypothesis": "Walimu fulani ni madubwana.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All dragons are intelligences.", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are occupations.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All computers are structures.", "hypothesis": "Hakuna kompyuta ambazo zimeundwa kwa njia yoyote ile.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are characters.", "hypothesis": "Hakuna wavumbuzi wanaoigiza.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All painters are beings.", "hypothesis": "Hakuna mpaka - rangi walio hai.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are professionals.", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All farmers are structures.", "hypothesis": "Hakuna wakulima walio na majengo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are vegetables.", "hypothesis": "Baadhi ya mboga ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All robots are structures.", "hypothesis": "Hakutakuwa na roboti za hali ya juu.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are entities.", "hypothesis": "Hakuna wabuni walio mashirika.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All pirates are beings.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All zombies are instruments.", "hypothesis": "Vyombo vingine ni zombies.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are concepts.", "hypothesis": "Hakuna madaktari walio na mawazo.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All wizards are occupations.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are objects.", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All spies are structures.", "hypothesis": "Majengo fulani ni wapelelezi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are structures.", "hypothesis": "Wanafunzi fulani ni majengo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All scientists are machines.", "hypothesis": "Baadhi ya mashine ni wanasayansi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All clowns are objects.", "hypothesis": "Vitu fulani ni vicheshi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All carrots are tools.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are systems.", "hypothesis": "Nyani fulani ni mifumo.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All monkeys are myths.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All mermaids are entities.", "hypothesis": "Mashirika fulani ni watumishi wa nyumbani.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All goblins are instruments.", "hypothesis": "Hakuna vibumba vilivyo na ala za muziki.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All chefs are things.", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All ghosts are vegetables.", "hypothesis": "No mizuka ni mboga.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All inventors are devices.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All doctors are myths.", "hypothesis": "Hakuna madaktari walio hadithi za kutungwa.", "label": "contradiction", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}
+{"premise": "All students are technologies.", "hypothesis": "Tekinolojia fulani ni wanafunzi.", "label": "neutral", "codeswitch_type": "en_prem_sw_hyp", "lang_premise": "en", "lang_hypothesis": "sw"}

@@ -1,0 +1,1000 @@
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "بعض الوحوش كائنات فضائية", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Abiria wote ni magari.", "hypothesis": "بعض المركبات هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni wastadi.", "hypothesis": "بعض المهرجين محترفون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "بعض الحيوانات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "لا فرسان هم رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni wahusika.", "hypothesis": "لا مشعوذين هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "بعض الرسامين أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "بعض الخبازين من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "لا علماء هم قوى.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wataalamu.", "hypothesis": "لا يوجد طلاب محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni viumbe hai.", "hypothesis": "لا يوجد معلمين كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni vitu.", "hypothesis": "بعض المعلمين هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni wanyama.", "hypothesis": "بعض الزومبي حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "وبعض المعلمين عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "لا علماء هم بشر.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni wanyama wakubwa sana.", "hypothesis": "بعض المزارعين وحوش", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "لا يوجد أطباء حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "وبعض المعلمين سيارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "بعض الأطباء أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "بعض القوات زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vicheshi vyote ni vitu.", "hypothesis": "بعض الأشياء هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni magari.", "hypothesis": "بعض المركبات أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "بعض الأشياء أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni ishara.", "hypothesis": "لا خبازين هم رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni vyakula.", "hypothesis": "بعض الأطعمة هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "بعض الفرسان كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "بعض الأبقار حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "لا تنانين هي إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "لا توجد قرود كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "لا زومبي هي الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni mashine.", "hypothesis": "بعض الأبقار هي ماكينات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "بعض المعلمين رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mifano.", "hypothesis": "لا تنانين هي رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "بعض الطلاب هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni viumbe.", "hypothesis": "بعض الكائنات هي أشباح صائدي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "وبعض الهياكل هي مزارعون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "لا يوجد جواسيس سيارات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "بعض الهياكل هي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "لا يوجد معلمون أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "لا أجهزة كمبيوتر هي القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "لا توجد قرود أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mifumo.", "hypothesis": "لا يوجد طلاب في الأنظمة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "بعض الفرسان هم أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "بعض الأشياء هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "بعض الجنود مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanadamu.", "hypothesis": "لا يوجد معلمون بشر", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "بعض العفاريت هي مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni mashirika.", "hypothesis": "وبعض المزارعين كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "بعض الفرسان أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "لا يوجد صيادين أشباح تكنولوجيين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "بعض العلماء هم من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "لا يوجد مهرج هم الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "لا توجد قرود كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni mashine.", "hypothesis": "بعض الآلات هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "لا توجد عفاريت ماكينات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni vyombo.", "hypothesis": "لا توجد عفاريت هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "بعض الكائنات هي قرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "بعض الأشياء هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni wanyama.", "hypothesis": "بعض الفرسان حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni magari.", "hypothesis": "بعض المركبات هي الجزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "لا حواسيبَ أطعمةَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi zote ni majengo.", "hypothesis": "بعض الهياكل هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyang'anyi wote ni mashujaa.", "hypothesis": "بعض المحاربين هم عفاريت.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "بعض صائدي الأشباح أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni majengo.", "hypothesis": "لا جزر هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "بعض الأشياء هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "لا يوجد قراصنة رموز", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni kazi za mikono.", "hypothesis": "بعض المهن هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "وبعض المزارعين عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni magari.", "hypothesis": "لا يوجد جنود هم مركبات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "لا توجد حواسيب كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "بعض الجزر عبارة عن قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "لا فرسان هم الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "لا خبازين محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "بعض العلماء هم أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Malaya wote ni vyakula.", "hypothesis": "بعض الحوريات هي الأطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mashirika.", "hypothesis": "وبعض الكيانات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "لا توجد أوجرات كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wanyama.", "hypothesis": "بعض الحيوانات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "وبعض الأدوات هي من المزارعين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "وبعض هذه الخضروات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni werevu.", "hypothesis": "لا يوجد عفاريت مخابرات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni vifaa vya kuchezea.", "hypothesis": "بعض الجزر هي أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "لا توجد أوجرات هي التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni wanadamu.", "hypothesis": "بعض البشر مهرجون", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni magari.", "hypothesis": "بعض المركبات صائدة أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "بعض الجزر هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "بعض القوات معلمين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "بعض الخبازين هم أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni mashujaa.", "hypothesis": "بعض الحواسيب محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "لا كائنات فضائية هي ماكينات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tangau wote ni madubwana.", "hypothesis": "بعض الوحوش هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "بعض العفاريت كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "بعض الأشياء هي زومبي.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "لا تنانين هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "لا يوجد جنود هم حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "لا طهاة هم مركبات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "بعض الإستخبارات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni majengo.", "hypothesis": "وبعض الهياكل هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "لا طهاة هم كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "لا يوجد مشعوذين هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mashujaa.", "hypothesis": "بعض الطهاة محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wanyama.", "hypothesis": "بعض الحيوانات قرود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "بعض المعلمين هم حيوانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni vitu.", "hypothesis": "بعض الحوريات هي أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "بعض الخبازين مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni wataalamu.", "hypothesis": "وبعض الأطباء مهنيون.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "لا يوجد جزر أسطورية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "بعض الأشياء هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "لا يوجد رسامون خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni wataalamu.", "hypothesis": "بعض الفرسان محترفون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "لا قراصنة هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "لا يوجد خبازين مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni washiriki.", "hypothesis": "بعض الموسيقيين أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni majengo.", "hypothesis": "بعض الهياكل هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "لا يوجد خبازين وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "بعض الجنود هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wahusika.", "hypothesis": "بعض الشخصيات هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "بعض الأطعمة غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "بعض المحلات هي الأطعمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "لا موسيقيين هم أجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "بعض المعلمين رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "بعض الخبازين مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "لا يوجد خبازين حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "لا علماء هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mboga.", "hypothesis": "لا يوجد طهاة خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "لا يوجد طهاة كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "بعض الأطعمة غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "لا مخترعات هي تكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "لا يوجد قراصنة ككيانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni wanyama.", "hypothesis": "بعض الحيوانات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "لا توجد أبقار كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "وبعض المزارعين أغذية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "لا يوجد أجانب هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "بعض الطلاب كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote wana madaraka.", "hypothesis": "لا يوجد جنود أدوار", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "لا يوجد طلاب هم شخصيات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni hekaya.", "hypothesis": "بعض الأساطير هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "بعض التنانين هي إستخبارات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "بعض الأطعمة هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "بعض العفاريت هي أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "بعض صائدي الأشباح مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vicheshi vyote ni majengo.", "hypothesis": "لا يوجد مهرج بُنى", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni wapiganaji.", "hypothesis": "بعض المحاربين هم سحرة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni vyakula.", "hypothesis": "بعض الأطعمة هي مهرج", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "بعض الأطعمة قراصنة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "بعض الأبقار رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "بعض الشخصيات هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "بعض الكائنات هي طهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "بعض الهياكل هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "بعض القرود هي شخصيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "بعض المفاهيم هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "بعض البشر علماء", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "لا يوجد صيادي أشباح بشر", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "بعض الطهاة مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote wanafanya kazi mbalimbali.", "hypothesis": "وبعض المعلمين مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "لا يوجد جواسيس مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "بعض الشخصيات هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni ishara.", "hypothesis": "بعض الرموز هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "لا يوجد قراصنة هم شخصيات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "لا يوجد أشباح لا وجود لمخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "بعض الكائنات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni vifaa.", "hypothesis": "لا ديناصورات هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "لا يوجد جنود هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "لا يوجد قراصنة كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "لا توجد أبقار كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni madubwana.", "hypothesis": "بعض الوحوش هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wataalamu.", "hypothesis": "لا يوجد قراصنة محترفون", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "بعض المفاهيم هي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "بعض الجزر بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "بعض الإستخبارات هي تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "بعض الجواسيس هم مهن", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni mawazo.", "hypothesis": "بعض الفرسان مفاهيم", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "بعض الكائنات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni mali za wanyama.", "hypothesis": "بعض الديناصورات هي مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "بعض المخلوقات زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni kani.", "hypothesis": "بعض القوى هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "بعض القراصنة كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "لا يوجد جواسيس من الأنواع", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni vifaa.", "hypothesis": "لا طلاب هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "بعض المخلوقات تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Fahali zote ni wanyama.", "hypothesis": "بعض الجزر حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "بعض الحيوانات هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni akili.", "hypothesis": "بعض الزومبي مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "لا يوجد مشعوذين مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "وبعض الأجانب صكوك.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "بعض الشخصيات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wanadamu.", "hypothesis": "بعض الأبقار بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni wahusika.", "hypothesis": "لا مهرج هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni mboga.", "hypothesis": "لا وجود لأبقار خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "لا يوجد خبازين ككيانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wzinga wote ni vyombo.", "hypothesis": "بعض الأدوات هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "لا تنانين هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "لا وجود لرموز القرود", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "بعض الأدوات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "لا يوجد مهرجون خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "لا حواسيبَ أطعمةَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "بعض الأدوات هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni tekinolojia.", "hypothesis": "بعض الاشباح هي تكنولوجيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni kubwa sana.", "hypothesis": "بعض الوحوش هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni wanadamu.", "hypothesis": "بعض البشر تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "لا يوجد طلاب أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "وبعض القراصنة كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "بعض الجنود عبارة عن أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni wanyama.", "hypothesis": "بعض التنانين حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "لا الأجانب أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "بعض الأشياء غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wapiganaji.", "hypothesis": "لا قراصنة هم محاربون", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "وبعض المركبات هي من الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "بعض الكائنات هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "بعض الشخصيات هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "بعض الأنواع هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "بعض الديناصورات هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni wanadamu.", "hypothesis": "بعض البشر طهاة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni majengo.", "hypothesis": "لا مخترعات هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "لا أجهزة كمبيوتر هي شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wahusika.", "hypothesis": "بعض الخبازين هم شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "وبعض الأجهزة هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "بعض الموسيقيات هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "لا مزارعون هم حيوانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "بعض الجنود محترفون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "بعض التقنيات هي طهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "لا روبوتات هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wigizi wote ni vyombo.", "hypothesis": "لا سحرة هم أجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "بعض الهياكل هي تنانين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wanadamu.", "hypothesis": "بعض البشر كائنات فضائية", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wanadamu.", "hypothesis": "لا جواسيس بشر", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni madubwana.", "hypothesis": "بعض الجواسيس هم وحوش", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "لا رسامين هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "لا زومبي هي الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "بعض العلماء بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni magari.", "hypothesis": "وبعض الطلاب هم مركبات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "بعض الفرسان كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "لا يوجد سحرة محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni viumbe.", "hypothesis": "لا مخترعين مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni spishi.", "hypothesis": "بعض المخترعات هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni vifaa.", "hypothesis": "بعض الأجهزة هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "لا طلابَ إستخباراتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni werevu.", "hypothesis": "لا رسامين هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mashirika.", "hypothesis": "وبعض الطلاب كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "لا يوجد طلاب خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "لا رسامين هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "بعض الجواسيس مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "بعض القراصنة هم وحوش.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "بعض الروبوتات محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "بعض البشر موسيقيون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "ولا يوجد معلمون هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "بعض الخبازين هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "بعض الزومبي أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "لا يوجد زومبي كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mifumo.", "hypothesis": "بعض الأنظمة جواسيس", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "بعض التنانين مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "بعض الكائنات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wanaotembelea eneo hilo ni viumbe.", "hypothesis": "لا توجد عفاريت مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "لا علماء هم أنواع.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "وبعض التكنولوجيات هي من العلماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "لا سحرة هم مركبات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "بعض الأشباح كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "بعض الروبوتات كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "بعض الحوريات هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni nguvu.", "hypothesis": "بعض التنانين هي قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "بعض الأطعمة صائدة أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "بعض القوى هي جزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "بعض المهرجين كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "لا جواسيس هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "بعض القرود رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "بعض الأساطير هي معلمين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni mboga.", "hypothesis": "لا يوجد أجانب هم الخضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wana madaraka.", "hypothesis": "لا مزارعين أدوار.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "بعض الشخصيات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "بعض الشخصيات هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "بعض الحيوانات هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "لا مزارعين هم أطعمة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "بعض الروبوتات مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vifaa.", "hypothesis": "وبعض القراصنة أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Fahali zote ni mashujaa.", "hypothesis": "لا يوجد جزر محاربين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "وبعض النظم مدرسون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "لا يوجد أشباح يُعتبرون أساطير.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mbwa wote wa opagni wanafanya kazi mbalimbali.", "hypothesis": "لا يوجد أوجرات هي مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wahusika.", "hypothesis": "لا جواسيس هم شخصيات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "بعض الشخصيات غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "لا طهاة هم التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni ishara.", "hypothesis": "لا توجد أوصاف رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mashine.", "hypothesis": "لا يوجد جواسيس ماكينات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "بعض الأساطير هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wanyama.", "hypothesis": "بعض الحيوانات هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "بعض المهن هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "لا خبازين هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "بعض الكائنات هي مزارعين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni madubwana.", "hypothesis": "لا أشباح هي وحوش.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "لا علماء هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mifumo.", "hypothesis": "بعض الأنظمة أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "بعض الفرسان عبارة عن هياكل", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "بعض الكيانات هي الجزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni mboga.", "hypothesis": "وبعض الخضروات روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "بعض الزومبي هم قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni aina mbalimbali.", "hypothesis": "بعض الطلاب هم من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni tekinolojia.", "hypothesis": "بعض الموسيقيين هي تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "بعض الخضروات هي رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni wapiganaji.", "hypothesis": "لا يوجد ديناصورات محاربين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni spishi.", "hypothesis": "بعض الأطباء نوع من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "لا يوجد قراصنة رموز", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "بعض الرسامين أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "بعض الشخصيات هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "بعض الاشباح هي شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni ishara.", "hypothesis": "بعض الرموز هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "بعض الجواسيس هم أشياء", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "بعض الكائنات هي أوكسترا.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni wataalamu.", "hypothesis": "ولا يوجد أجانب محترفون.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mambo.", "hypothesis": "لا يوجد أشباح لا يوجد أشباح", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "بعض الموسيقيين كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "وبعض التكنولوجيات عبارة عن أوبرا.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "بعض الأشياء هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "لا طهاة هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni werevu.", "hypothesis": "بعض الإستخبارات هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mawazo.", "hypothesis": "بعض المفاهيم هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "لا يوجد خبازين مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "بعض الأشياء هي جزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyombo.", "hypothesis": "لا يوجد أشباح صائدو أشباح", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "بعض الغيلان كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "وبعض الأجانب سيارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "بعض الزومبي خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "لا توجد أوجرات كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "بعض الطلاب هم أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "بعض الأدوات جواسيس", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "وبعض المعلمين آلات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "ولا يوجد أجانب كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni vifaa.", "hypothesis": "لا توجد عفاريت هي الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "لا حوريات هي أساطير.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "ولا يوجد معلمون هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni madubwana.", "hypothesis": "بعض الوحوش طهاة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "بعض الأدوات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "بعض الإستخبارات هي تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote ni wanajeshi.", "hypothesis": "لا توجد أوجرات هي القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "لا ديناصورات هي تكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "وبعض الهياكل هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni shughuli za kila siku.", "hypothesis": "بعض المهن هي صائدي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "بعض المزارعين حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wahusika.", "hypothesis": "بعض الشخصيات معلمون", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "بعض الجواسيس من الأنواع", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "لا أشباح هي ماكينات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wanadamu.", "hypothesis": "بعض القرود بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "بعض الوحوش هم أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "وبعض الأجانب أغذية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "بعض الكائنات هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "لا يوجد رسامون كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni kani.", "hypothesis": "لا خبازين هم القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "بعض الأنظمة هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "بعض الوحوش مثل الغيلان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "لا يوجد فضائيين في السيارات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "بعض المخلوقات هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "بعض الطلاب خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "ولا يوجد معلمون في الآلات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "بعض الأشياء هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "وبعض الكيانات هي كيانات أجنبية.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni tekinolojia.", "hypothesis": "بعض التقنيات هي زومبي.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "لا زومبي هي أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "بعض الآلات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni mboga.", "hypothesis": "لا توجد أوجرات خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maaskari wote ni wapiganaji.", "hypothesis": "بعض الحوريات محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "لا جزر ليست من الأنواع.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "بعض المفاهيم هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote wana madaraka.", "hypothesis": "بعض الأدوار هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "بعض الأجهزة هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "وبعض الأجانب مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "بعض الأدوار هي العفاريت.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "لا سحرة هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni ala za muziki.", "hypothesis": "بعض الديناصورات هي أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "وبعض الأدوات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "بعض الكائنات هي قوبلين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "لا سحرة هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "بعض المفاهيم هي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni viumbe.", "hypothesis": "بعض المخلوقات معلمون", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "بعض القرود عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "بعض الآلات أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "وبعض المركبات طهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "لا فرسان هم الأطعمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni mawazo.", "hypothesis": "بعض الجزر هي مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "بعض الجنود هم وحوش.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni wahusika.", "hypothesis": "بعض التنانين هي شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni wajibu.", "hypothesis": "بعض الجزر أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "لا يوجد زومبي خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "بعض الرسامين أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "بعض الهياكل هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "بعض الفرسان أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "بعض المحلات هي الأطعمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kondoo wote ni wanyama.", "hypothesis": "بعض الحيوانات هي غول.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni werevu.", "hypothesis": "لا أطباءَ إستخباراتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mashine.", "hypothesis": "بعض الخبازين ماكينات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni vyakula.", "hypothesis": "بعض الأطعمة هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wataalamu.", "hypothesis": "بعض القرود محترفون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "بعض الموسيقيين هم قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni wanyama.", "hypothesis": "بعض الطهاة هم حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "لا أشباح كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "وبعض الأبقار مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "بعض المفاهيم هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni spishi.", "hypothesis": "بعض السحرة كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "بعض الاشباح عبارة عن هياكل", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "لا معلمين هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni aina mbalimbali.", "hypothesis": "بعض الروبوتات هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni majeshi.", "hypothesis": "لا جواسيس هم القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "لا فرسان لا يَكُونونَ خضرواتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "بعض الشخصيات قراصنة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "بعض القوات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote wana madaraka.", "hypothesis": "بعض الأدوار هي الطهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "بعض المخلوقات فرسان", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "وبعض الحواسيب عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "بعض الطهاة هم أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "بعض الاشباح هي أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "بعض المخلوقات هي صائدي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "بعض المخترعين هم مركبات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "لا خبازين هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "بعض المخلوقات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wanadamu.", "hypothesis": "بعض الرسامين بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Nyeoli zote ni mashine.", "hypothesis": "لا توجد أوجرات ماكينات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "بعض الأساطير صائدة أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "بعض السحرة ماكينات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "لا يوجد معلمون خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "لا أشباح هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "بعض الإستخبارات هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote wana mawazo fulani.", "hypothesis": "وبعض المفاهيم هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "بعض التقنيات هي الديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wapiganaji.", "hypothesis": "بعض المحاربين مخترعون", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Pepo zote ni nguvu.", "hypothesis": "لا سحرة هم القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni wahusika.", "hypothesis": "بعض الطهاة هم شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wapiganaji.", "hypothesis": "لا يوجد جواسيس محاربين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "بعض المهرجين خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "لا توجد أوجرات هي أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "بعض الشخصيات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni vyombo.", "hypothesis": "لا يوجد أطباء أدوات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "بعض الأطباء أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni mashine.", "hypothesis": "بعض الآلات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "بعض الكائنات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "بعض الأجانب هم شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "بعض الاشباح محترفون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "بعض الوحوش هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "بعض الإستخبارات جنود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "بعض المهن هي العفاريت.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "بعض الأجهزة هي أوجرز.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wanyama wakubwa sana.", "hypothesis": "لا توجد قرود وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "بعض الموسيقيات هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "بعض القراصنة هم وحوش.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vyakula.", "hypothesis": "بعض الأطعمة جنود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni madubwana.", "hypothesis": "لا توجد تنانين وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "بعض الجنود رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni nguvu.", "hypothesis": "لا مزارعين هم القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "لا يوجد أوجرات أطعمة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni vitu.", "hypothesis": "لا يوجد مشعوذين كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "لا يوجد خبازين أدوار", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "لا يوجد مهرجون مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "لا علماء هم تكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni viumbe.", "hypothesis": "بعض الجزر مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mashujaa.", "hypothesis": "لا يوجد خبازين محاربين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wapiganaji.", "hypothesis": "بعض الطلاب محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "لا ديناصورات هي كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni tekinolojia.", "hypothesis": "بعض التقنيات هي تنانين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "لا توجد حوريات أدوار.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "لا حورياتَ خضرواتَ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "وبعض الخضروات جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "وبعض الطهاة عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "بعض الحوريات أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "بعض الطهاة هم أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "بعض الأساطير هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe hai.", "hypothesis": "لا يوجد جنود كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "وبعض القراصنة من الخضروات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "بعض القراصنة كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "بعض المفاهيم هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni vitu.", "hypothesis": "بعض العلماء هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "وبعض المزارعين أغذية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "لا ديناصورات هي خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "بعض البشر موسيقيون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mawazo.", "hypothesis": "لا تنانين هي مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote zina uhai.", "hypothesis": "بعض الحواسيب كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabehewa yote ni vyombo.", "hypothesis": "بعض الحوريات هي أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "بعض الأدوات هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "بعض الفرسان هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "بعض الجواسيس حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni vyombo.", "hypothesis": "لا يوجد مشعوذين كأدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "بعض الوحوش كائنات فضائية", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni werevu.", "hypothesis": "ليس هناك معلمين إستخبارات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "وبعض الحواسيب عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "وبعض الأجانب أغذية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wa jamii fulani.", "hypothesis": "وبعض الأنواع هي من القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "بعض الحوريات هي أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "بعض الحواسب هي شخصيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "بعض الحيوانات هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "لا توجد حوريات محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "وبعض الأطباء كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "بعض الهياكل هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "بعض الروبوتات مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "بعض الشخصيات هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wajibu.", "hypothesis": "بعض الاشباح أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni wataalamu.", "hypothesis": "بعض الموسيقيين محترفين", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "بعض المخلوقات هي حواسيب", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vitu.", "hypothesis": "بعض الأشياء هي قرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni mifumo.", "hypothesis": "بعض الأنظمة هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "لا يوجد طهاة بُنى", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "لا طهاة هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "بعض الآلات غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "لا خبازين هم مخابرات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni nguvu.", "hypothesis": "بعض القرود هي قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "بعض المهن هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni mifumo.", "hypothesis": "وبعض النظم هي مزارعون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "لا مزارعين هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni mboga.", "hypothesis": "بعض العفاريت هي خضروات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "بعض الأشياء هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "بعض الأدوار هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "بعض الكائنات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "بعض الإستخبارات هي مزارعين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni tekinolojia.", "hypothesis": "ولا يوجد معلمون من التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "بعض القرود هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "بعض الأدوات هي مهرجين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "لا علماء هم بشر.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "لا ديناصورات هي خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "بعض الإستخبارات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "لا طهاة هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "وبعض هذه الخضروات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "بعض الآلات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "بعض المهن هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni vitu.", "hypothesis": "لا تنانين هي كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "بعض الرموز هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "بعض الطهاة هم أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni ishara.", "hypothesis": "بعض الرموز هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni majengo.", "hypothesis": "لا ديناصورات هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "لا يوجد صيادي أشباح هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "بعض الأشياء هي زومبي.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wanyama.", "hypothesis": "بعض العلماء حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "لا مخترعين هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "بعض الكيانات هي الجزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "لا توجد آبار وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "بعض الجزر هي كائنات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "لا مخترعات هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "بعض القوات معلمين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "بعض الإستخبارات هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni wanadamu.", "hypothesis": "لا فرسان هم بشر.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni ishara.", "hypothesis": "بعض الرموز هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni tekinolojia.", "hypothesis": "بعض القرود هي تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "بعض الشخصيات هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "بعض الحيوانات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "ولا يوجد رسامون في هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "لا يوجد خبازين ككيانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wa jamii fulani.", "hypothesis": "وبعض القراصنة من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "لا علماء هم كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "بعض الأجهزة هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "بعض الأشياء هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "بعض القرود محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "لا علماء هم أساطير.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "بعض الحيوانات أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wapiganaji.", "hypothesis": "لا يوجد طهاة أشباح هم محاربون", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni wataalamu.", "hypothesis": "وبعض المهنيين طهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "بعض الأبقار رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "بعض الشخصيات هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "بعض المفاهيم هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "بعض الأطباء كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "وبعض الأجانب كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "بعض الحوريات محترفة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "وبعض الهياكل هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "بعض الكائنات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "لا جزر هي إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "بعض الجزر هي إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wanadamu.", "hypothesis": "بعض القراصنة بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "لا مزارعين هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "لا أشباح هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "لا حواسيب هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "بعض أشباح الصيادين هي تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "لا يوجد طلاب هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "بعض الأشياء هي ديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wanadamu.", "hypothesis": "لا مخترعين بشر", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "بعض الفرسان خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "بعض الأنظمة هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "بعض الحيوانات جواسيس", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "بعض المهنيين هم أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni werevu.", "hypothesis": "لا يوجد قراصنة مخابرات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni mboga.", "hypothesis": "وبعض المزارعين هم من الخضروات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "لا يوجد قراصنة مُحتالين.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "بعض الخبازين وحوش", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "لا فرسان هم رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "لا زومبي هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tangau wote ni ngano.", "hypothesis": "بعض الديناصورات هي أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "بعض الأشياء هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "لا تنانين هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "ولا يشكل الأجانب صكوكا.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "بعض الزومبي مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "بعض صيادي الأشباح بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "بعض الرموز هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "بعض الكائنات هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "لا يوجد موسيقيون كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "بعض الجزر هي إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mashirika.", "hypothesis": "لا علماء هم كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "لا يوجد جواسيس كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni viumbe hai.", "hypothesis": "لا يوجد رسامون كائنات حية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "بعض الجزر هي أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "بعض الكائنات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "بعض الآلات غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni tekinolojia.", "hypothesis": "وبعض المزارعين تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "لا طهاة هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "بعض الأدوات هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "لا مهرجين أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "بعض الأطباء أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni mashine.", "hypothesis": "بعض الآلات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "بعض التكنولوجيات هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "وبعض الأطباء كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "بعض الأشياء هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "بعض القراصنة هم مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "بعض الأنواع هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni wataalamu.", "hypothesis": "وبعض المهنيين مزارعون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "بعض الأبقار هي أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "بعض الأنواع هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni ngano.", "hypothesis": "لا يوجد رسامين أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "لا مزارعين هم أطعمة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "لا يوجد أطباء كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mashirika.", "hypothesis": "بعض الكيانات جواسيس", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "بعض الكيانات هي القراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "بعض الحيوانات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "لا أشباح هي أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "بعض العلماء أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni aina.", "hypothesis": "بعض الحواسيب هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote ni mifumo.", "hypothesis": "بعض صائدي الأشباح هم أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni wataalamu.", "hypothesis": "بعض المهنيين هم تنانين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "بعض الاساطير هي جزر", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "لا توجد أوجرات كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mashirika.", "hypothesis": "لا يوجد أشباح صائدة هي كيانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "لا علماء هم تكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "بعض المخترعين هم مركبات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "لا يوجد زومبي ماكينات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maua yote ya zombies ni vyakula.", "hypothesis": "بعض الأطعمة زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "بعض الأطباء هم أساطير", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote zina wajibu.", "hypothesis": "وبعض الأدوار هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "ولا مزارعون كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "لا أبراج هي رموز.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "بعض الأجهزة هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Makororo yote ni wahusika.", "hypothesis": "لا جزر هي شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "بعض الطهاة أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "بعض المفاهيم هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote wasiotambuliwa ni vyombo vya kutumiwa.", "hypothesis": "لا كائنات فضائية هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "وبعض الأبقار مركبات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni wa jamii mbalimbali.", "hypothesis": "لا يوجد كائنات فضائية هي من الأنواع.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "لا وجود لأبقار أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "ولا يوجد رسامون في هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni vyakula.", "hypothesis": "بعض الاشباح اطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mifano.", "hypothesis": "بعض الجواسيس رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni wanadamu.", "hypothesis": "بعض السحرة بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vifaa vya kazi.", "hypothesis": "بعض صائدي الأشباح أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni wapiganaji.", "hypothesis": "بعض الموسيقيين محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni mashirika.", "hypothesis": "وبعض الكيانات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni vyombo.", "hypothesis": "وبعض المعلمين أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "لا يوجد أشباح صائدين هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni wahusika.", "hypothesis": "لا موسيقيين هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "لا جنود هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni wanadamu.", "hypothesis": "بعض المزارعين بشر", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vitu.", "hypothesis": "لا روبوتات هي كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "بعض الرموز هي جنود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mawazo.", "hypothesis": "بعض القرود هي مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wataalamu.", "hypothesis": "وبعض المهنيين مخترعون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "بعض الهياكل هي أشباح صائدي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "لا جواسيس هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabegwa wote ni mawazo.", "hypothesis": "لا توجد حوريات هي مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote hutimiza majukumu yao.", "hypothesis": "بعض الأدوار هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "بعض الحيوانات قراصنة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "بعض الخبازين أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "لا وجود لقردة مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni werevu.", "hypothesis": "بعض الإستخبارات هي صائدة أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "لا يوجد جواسيس مخلوقات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "بعض الرموز مخترعة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "بعض الكائنات أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "بعض الوحوش أطباء", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni majengo.", "hypothesis": "لا حوريات هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "ولا يوجد جنود في هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "بعض الطهاة هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vyombo.", "hypothesis": "لا موسيقيين هم آلات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "بعض الأنظمة هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni werevu.", "hypothesis": "لا موسيقيين هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni kani.", "hypothesis": "بعض القوات طهاة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "لا زومبي هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "بعض المخترعين خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "بعض الحوريات هي شخصيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni wataalamu.", "hypothesis": "لا ديناصورات محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "لا يوجد معلمين هم حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mashine.", "hypothesis": "بعض الآلات تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "بعض الأنظمة هي مهرجين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "بعض العلماء هم إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "لا يوجد أشباح وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mifumo.", "hypothesis": "لا رسامين هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni mashirika.", "hypothesis": "لا توجد عفاريت هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "لا جنود هم أجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni majengo.", "hypothesis": "ولا يوجد أجانب في هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "لا يوجد أطباء أدوار.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "بعض العفاريت هي أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "لا يوجد طلاب أدوار.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "بعض الجواسيس كائنات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni ngano.", "hypothesis": "بعض الأساطير هي فرسان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "بعض الجنود خضروات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni mashujaa.", "hypothesis": "بعض المحاربين أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "لا أشباح هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote wana madaraka.", "hypothesis": "بعض الأدوار جواسيس", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "بعض الجزر أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote wanafanya kazi.", "hypothesis": "لا طهاة هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "لا علماء هم خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni viumbe hai.", "hypothesis": "وبعض الأبقار كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni spishi.", "hypothesis": "بعض الأنواع تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "بعض الأساطير هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "لا توجد حواسيب محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "بعض المفاهيم هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "وبعض المهنيين هم خبازون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "بعض النبائط زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "بعض الجواسيس أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "بعض الآلات هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "بعض الأنظمة زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mashujaa.", "hypothesis": "بعض التنانين محاربون", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "بعض الزومبي هي أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "بعض القوات هي حواسيب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wataalamu.", "hypothesis": "لا رسامين محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni werevu.", "hypothesis": "لا مشعوذين هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "بعض الأنظمة هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "بعض الجنود هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "لا وجود للقردة هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "لا توجد الأبقار هي المهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "ولا يوجد معلمون دوران.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "بعض الأشياء هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "بعض الحوريات هي شخصيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "لا فرسان هم الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "بعض الجنود هم وحوش.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "لا يوجد قراصنة كأجسام", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "لا يوجد جزر أسطورية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni werevu.", "hypothesis": "بعض الإستخبارات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni kani.", "hypothesis": "بعض القوات هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "لا يوجد جنود أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "بعض العلماء هم قوى", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "بعض المشعوذين مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "بعض الطهاة مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "بعض الأشياء أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni spishi.", "hypothesis": "بعض الفرسان من الأنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "بعض العلماء هم شخصيات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "بعض المخترعات هي كائنات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wingu wote ni viumbe.", "hypothesis": "بعض السحرة كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Malori wote ni viumbe hai.", "hypothesis": "لا توجد حوريات هي كائنات حية.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "بعض الأجهزة هي معلمين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "لا يوجد أوصاف وحوش.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "لا يوجد معلمين هم حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "بعض الجواسيس سيارات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "لا يوجد رسامون خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "بعض الاشباح مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "بعض القراصنة أطعمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "بعض الفرسان عبارة عن هياكل", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tangau wote huchangia.", "hypothesis": "بعض الأدوار هي الديناصورات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "لا أشباح هي إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "بعض الطلاب هم إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "بعض الطلاب رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wa jamii mbalimbali.", "hypothesis": "ولا يوجد معلمون من الأنواع.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "لا يوجد قراصنة خضروات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "لا تنانين هي مخلوقات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mifumo.", "hypothesis": "لا خبازين هم أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "لا يوجد قراصنة من التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "بعض الكائنات هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "بعض القوات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "بعض صائدي الأشباح أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni dhana tu.", "hypothesis": "بعض صائدي الأشباح مفهومين", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni spishi.", "hypothesis": "لا أشباح هي أنواع.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "لا جزر هي بشر.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "بعض المحاربين هم قرود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vifaa.", "hypothesis": "بعض الأدوات هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "لا تنانين هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "لا توجد قرود هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "بعض الحيوانات هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wa ukoo ni hadithi za kutungwa.", "hypothesis": "بعض الأساطير هي أساطير.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "بعض الوحوش قراصنة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "وبعض المهنيين جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "لا تنانين هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "بعض الآلات هي العفاريت.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "وبعض الأجانب كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "بعض الأجهزة هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "وبعض المهنيين هم خبازون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "بعض الرسامين أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka wana madaraka.", "hypothesis": "بعض الأدوار هي صائدي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "بعض الكائنات هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "لا يوجد جنود أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "وبعض الحواسيب عبارة عن أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "بعض الأجهزة هي معلمين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "لا جواسيس هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "لا يوجد روبوتات محاربين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni kubwa sana.", "hypothesis": "لا توجد حواسب وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "لا توجد روبوتات حيوانات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "لا دور للعفاريت", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "لا زومبي هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wa aina mbalimbali.", "hypothesis": "وبعض الأنواع هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "بعض الخبازين أدوار", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni werevu.", "hypothesis": "بعض الإستخبارات هي طهاة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "لا مخترعين هم خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni wapiganaji.", "hypothesis": "بعض المحاربين هم جنود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "وبعض الحواسيب هي أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "بعض القراصنة هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vyombo.", "hypothesis": "وبعض القراصنة أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "وبعض المعلمين عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "بعض القراصنة حيوانات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni vyombo.", "hypothesis": "بعض الجنود أدوات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "بعض المخلوقات غريبة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "لا فرسان هم كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wageni wote ni wapiganaji.", "hypothesis": "بعض المحاربين فضائيين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "بعض الأشياء هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "بعض الكيانات هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "بعض صائدي الأشباح عبارة عن هياكل", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni vyakula.", "hypothesis": "بعض الجزر أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "لا مزارعين هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "وبعض المعلمين عبارة عن نظم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "بعض الأجهزة هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "بعض التنانين هي أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "بعض الخضروات هي مهرج.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni wataalamu.", "hypothesis": "لا توجد أبقار محترفة", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "بعض العلماء هم أساطير.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "لا يوجد خبازين كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "لا زومبي هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "وبعض المركبات رسامة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "لا يوجد كائنات فضائية", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "بعض الكائنات هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "بعض المهن هي زومبي.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "وبعض الأدوات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "بعض الماكينات زومبي", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "لا يوجد مشعوذين كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabuu yote ni madubwana.", "hypothesis": "لا توجد جزر وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "بعض الحيوانات قراصنة", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni mifano.", "hypothesis": "بعض الحوريات رموز", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "بعض الأبقار هي أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Viumbe wote wa zombies ni wanadamu.", "hypothesis": "لا زومبي هم بشر.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "وبعض الأبقار مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "بعض المحلات محترفة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "بعض الأطباء وحوش", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "بعض الجنود مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "وبعض الخضروات مدرسون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila moja ya meli hizo ni mifumo.", "hypothesis": "لا توجد عفاريت هي أنظمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "بعض المخلوقات هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni viumbe hai.", "hypothesis": "بعض الكائنات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "وبعض الطهاة عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "وبعض الأدوار هي المعلمين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "بعض السحرة هم مهن.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "لا حوريات هي كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "لا طهاة هم أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni watu wenye akili.", "hypothesis": "بعض الديناصورات هي إستخبارات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "بعض المخلوقات تنانين", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mboga.", "hypothesis": "وبعض الخضروات هي أطباء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "بعض الخبازين كائنات حية", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "لا يوجد طلاب أساطير", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "بعض الأشياء هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "بعض المهن هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mashirika.", "hypothesis": "بعض القرود هي كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "بعض الأدوات هي الجزر.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "بعض الفرسان مخابرات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "بعض الأشياء هي موسيقيين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "بعض الحيوانات هي جنود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "بعض المخترعات هي مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni mashine.", "hypothesis": "لا فرسان ماكينات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za ogre ni wahusika.", "hypothesis": "بعض الشخصيات هي الغيلان.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "لا يوجد أشباح وحوش", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "بعض القراصنة أطعمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "بعض الأطباء عبارة عن مفاهيم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "وبعض الأجانب تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "بعض الكائنات هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "وبعض الرسامين كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "بعض المهرجين مخلوقات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "لا فرسان هم شخصيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni mashine.", "hypothesis": "والآلات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "وبعض المهن هي مزارعون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "بعض الأنواع هي خبازة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "لا ديناصورات هي مخلوقات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "لا توجد أوصاف هي كائنات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "وبعض المعلمين عبارة عن نظم.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "بعض الأساطير هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "بعض الأشياء هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "بعض التكنولوجيات هي الرسامين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "لا توجد أوصاف هي الأجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wafanyakazi.", "hypothesis": "بعض المهن هي مخترعات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "بعض المخترعات هي كائنات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "لا معلمين هم أشياء.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "بعض الحيوانات أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "لا توجد حوريات هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "لا يوجد روبوتات كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vyakula.", "hypothesis": "لا طهاة هم الأطعمة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizungu yote ni tekinolojia.", "hypothesis": "لا يوجد ساحرات تكنولوجيات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni werevu.", "hypothesis": "بعض المخترعين هم إستخبارات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni magari.", "hypothesis": "بعض الأطباء هم مركبات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni vitu.", "hypothesis": "بعض الأشياء هي مزارعين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "بعض الطلاب أدوار.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "لا توجد قرود هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "لا يوجد مهرج في القوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mashine.", "hypothesis": "بعض الآلات هي القرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "بعض الأساطير هي قرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "بعض الإستخبارات جنود", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "بعض الأشياء هي قراصنة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "لا حورياتَ حورياتَ مِنْ الوظائفِ.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni vyakula.", "hypothesis": "بعض الجواسيس أطعمة", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "لا مزارعين هم إستخبارات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "بعض الأنظمة هي مهرجين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "وبعض المركبات معلمون.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "لا يوجد أشباح صيادين من الأنواع", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "بعض الحيوانات هي معلمة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "بعض المخلوقات هي روبوتات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni wataalamu.", "hypothesis": "وبعض المدرسين مهنيون.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "لا يوجد أجانب هم التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "لا توجد قرود كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "بعض الأطعمة هي الأبقار.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni mifano.", "hypothesis": "بعض الرموز أشباح", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "وبعض القراصنة تكنولوجيات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "بعض الخبازين هي كيانات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "بعض القرود هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "لا رسامين هم التكنولوجيات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni vifaa.", "hypothesis": "لا أشباح هي أجهزة.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Viboko vyote ni viumbe hai.", "hypothesis": "بعض الجزر هي كائنات حية.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "بعض المركبات هي سحرة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni wataalamu.", "hypothesis": "لا جواسيس محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "بعض الحوريات هي أنواع.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "لا حواسيب هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walabli wote ni viumbe hai.", "hypothesis": "بعض الكائنات هي طيور العفاريت.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "بعض الكائنات هي أشباح.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni kani.", "hypothesis": "بعض القوات هي أشباح صائدة.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Walimu wote ni madubwana.", "hypothesis": "بعض المعلمين هم وحوش.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "بعض التنانين هي إستخبارات", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "لا أشباح هي مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "لا أجهزة كمبيوتر هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni wahusika.", "hypothesis": "لا مخترعين هم شخصيات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachoraji wote ni wahai.", "hypothesis": "لا يوجد رسامون كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "لا يوجد سحرة محترفين", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "ولا يوجد مزارعون عبارة عن هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "بعض الخضروات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "لا توجد روبوتات هي هياكل.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni mashirika.", "hypothesis": "لا مخترعات هي كيانات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "لا يوجد قراصنة كائنات", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizombi yote ni ala za muziki.", "hypothesis": "بعض الأدوات هي الزومبي.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "لا يوجد أطباء هم مفاهيم.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "لا سحرة هم مهن.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "بعض الأشياء هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "بعض الهياكل هي جواسيس.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni majengo.", "hypothesis": "وبعض الطلاب عبارة عن هياكل.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanasayansi wote ni mashine.", "hypothesis": "بعض الآلات هي علماء.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wachekeshaji wote ni vitu.", "hypothesis": "بعض الأشياء هي مهرجين.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "بعض الجزر أدوات.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "بعض القرود هي أنظمة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "بعض الأساطير هي قرود.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "بعض الكيانات هي حوريات.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Vichaka vyote ni vyombo.", "hypothesis": "لا توجد عفاريت هي أدوات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "بعض الطهاة هم أشياء.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Mizuka wote ni mboga.", "hypothesis": "لا أشباح هي خضروات.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "بعض المخترعات هي أجهزة.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "لا أطباء هم أساطير.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}
+{"premise": "Wanafunzi wote ni tekinolojia.", "hypothesis": "وبعض التكنولوجيات هي طلاب.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "ar", "codeswitch_type": "sw_prem_ar_hyp"}

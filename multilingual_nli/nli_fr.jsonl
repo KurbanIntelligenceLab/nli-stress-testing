@@ -1,0 +1,1000 @@
+{"language": "fr", "premise": "Tous les extraterrestres sont des monstres.", "hypothesis": "Certains monstres sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des professionnels.", "hypothesis": "Certains clowns sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des animaux.", "hypothesis": "Certains animaux sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des symboles.", "hypothesis": "Les chevaliers ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des personnages.", "hypothesis": "Aucun magicien n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des outils.", "hypothesis": "Certains peintres sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des esp\u00e8ces.", "hypothesis": "Certains boulangers sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des forces.", "hypothesis": "Aucun scientifique n'est une force.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des professionnels.", "hypothesis": "Aucun \u00e9tudiant n'est un professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des organismes.", "hypothesis": "Aucun enseignant n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des objets.", "hypothesis": "Certains enseignants sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des animaux.", "hypothesis": "Certains zombies sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des structures.", "hypothesis": "Certains enseignants sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont humains.", "hypothesis": "Aucun scientifique n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fermiers sont des monstres.", "hypothesis": "Certains fermiers sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des animaux.", "hypothesis": "Aucun m\u00e9decin n'est un animal.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des v\u00e9hicules.", "hypothesis": "Certains enseignants sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des syst\u00e8mes.", "hypothesis": "Certains m\u00e9decins sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des forces.", "hypothesis": "Certaines forces sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des choses.", "hypothesis": "Certaines choses sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des choses.", "hypothesis": "Certaines choses sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des symboles.", "hypothesis": "Les boulangers ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des aliments.", "hypothesis": "Certains aliments sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des organismes.", "hypothesis": "Certains chevaliers sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des animaux.", "hypothesis": "Certaines vaches sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des intelligences.", "hypothesis": "Les dragons ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des organismes.", "hypothesis": "Aucun singe n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des appareils.", "hypothesis": "Les zombies ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des machines.", "hypothesis": "Certaines vaches sont des machines.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des symboles.", "hypothesis": "Certains enseignants sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des symboles.", "hypothesis": "Les dragons ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des choses.", "hypothesis": "Certains \u00e9tudiants sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des structures.", "hypothesis": "Certaines structures sont des agriculteurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des v\u00e9hicules.", "hypothesis": "Les espions ne sont pas des v\u00e9hicules.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des structures.", "hypothesis": "Certaines structures sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des mythes.", "hypothesis": "Les enseignants ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des r\u00f4les.", "hypothesis": "Les gobelins ne sont pas des r\u00f4les.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des forces.", "hypothesis": "Aucun ordinateur n'est une force.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des mythes.", "hypothesis": "Aucun singe n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des syst\u00e8mes.", "hypothesis": "Aucun \u00e9tudiant n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des appareils.", "hypothesis": "Certains chevaliers sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des objets.", "hypothesis": "Certains objets sont des m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des cr\u00e9atures.", "hypothesis": "Certains soldats sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont humains.", "hypothesis": "Aucun enseignant n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des occupations.", "hypothesis": "Certains gobelins sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des entit\u00e9s.", "hypothesis": "Certains agriculteurs sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des aliments.", "hypothesis": "Certains chevaliers sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des technologies.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des esp\u00e8ces.", "hypothesis": "Certains scientifiques sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des appareils.", "hypothesis": "Les clowns ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des organismes.", "hypothesis": "Aucun singe n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des machines.", "hypothesis": "Certaines machines sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des machines.", "hypothesis": "Les gobelins ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des outils.", "hypothesis": "Les gobelins ne sont pas des outils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des organismes.", "hypothesis": "Certains organismes sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des esp\u00e8ces.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des esp\u00e8ces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des objets.", "hypothesis": "Certains objets sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des animaux.", "hypothesis": "Certains chevaliers sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des aliments.", "hypothesis": "Les ordinateurs ne sont pas des aliments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des structures.", "hypothesis": "Certaines structures sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des guerriers.", "hypothesis": "Certains guerriers sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des instruments.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des structures.", "hypothesis": "Aucune carotte n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des choses.", "hypothesis": "Certaines choses sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des symboles.", "hypothesis": "Aucun pirate n'est un symbole.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des occupations.", "hypothesis": "Certaines occupations sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des structures.", "hypothesis": "Certains agriculteurs sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des v\u00e9hicules.", "hypothesis": "Aucun soldat n'est un v\u00e9hicule.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des organismes.", "hypothesis": "Aucun ordinateur n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des forces.", "hypothesis": "Certaines carottes sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des appareils.", "hypothesis": "Les chevaliers ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des professionnels.", "hypothesis": "Les boulangers ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des outils.", "hypothesis": "Certains scientifiques sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des aliments.", "hypothesis": "Certaines sir\u00e8nes sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des organismes.", "hypothesis": "Les ogres ne sont pas des organismes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des animaux.", "hypothesis": "Certains animaux sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des outils.", "hypothesis": "Certains outils sont des agriculteurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des intelligences.", "hypothesis": "Les gobelins ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des appareils.", "hypothesis": "Certaines carottes sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des technologies.", "hypothesis": "Les ogres ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont humains.", "hypothesis": "Certains humains sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des esp\u00e8ces.", "hypothesis": "Certaines carottes sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des forces.", "hypothesis": "Certaines forces sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des appareils.", "hypothesis": "Certains boulangers sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des guerriers.", "hypothesis": "Certains ordinateurs sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des machines.", "hypothesis": "Aucun extraterrestre n'est une machine.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des monstres.", "hypothesis": "Certains monstres sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des \u00eatres.", "hypothesis": "Certains gobelins sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des choses.", "hypothesis": "Certaines choses sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des structures.", "hypothesis": "Les dragons ne sont pas des structures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des animaux.", "hypothesis": "Aucun soldat n'est un animal.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des v\u00e9hicules.", "hypothesis": "Les chefs ne sont pas des v\u00e9hicules.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des intelligences.", "hypothesis": "Certaines intelligences sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des structures.", "hypothesis": "Certaines structures sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des objets.", "hypothesis": "Aucun chef n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professions.", "hypothesis": "Aucun fermier n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des concepts.", "hypothesis": "Aucun sorcier n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des guerriers.", "hypothesis": "Certains chefs sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des animaux.", "hypothesis": "Certains animaux sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des animaux.", "hypothesis": "Certains enseignants sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des choses.", "hypothesis": "Certaines sir\u00e8nes sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des intelligences.", "hypothesis": "Certains boulangers sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des professionnels.", "hypothesis": "Certains m\u00e9decins sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des mythes.", "hypothesis": "Les carottes ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des choses.", "hypothesis": "Certaines choses sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des l\u00e9gumes.", "hypothesis": "Les peintres ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des professionnels.", "hypothesis": "Certains chevaliers sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des choses.", "hypothesis": "Aucun pirate n'est des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des cr\u00e9atures.", "hypothesis": "Les boulangers ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des r\u00f4les.", "hypothesis": "Certains musiciens sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des structures.", "hypothesis": "Certaines structures sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des symboles.", "hypothesis": "Certains symboles sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des monstres.", "hypothesis": "Les boulangers ne sont pas des monstres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des objets.", "hypothesis": "Certains soldats sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des personnages.", "hypothesis": "Certains personnages sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des aliments.", "hypothesis": "Certains aliments sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des aliments.", "hypothesis": "Certains ogres sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des appareils.", "hypothesis": "Aucun musicien n'est un appareil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des symboles.", "hypothesis": "Certains enseignants sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des m\u00e9tiers.", "hypothesis": "Certains boulangers sont des m\u00e9tiers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des animaux.", "hypothesis": "Les boulangers ne sont pas des animaux.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des monstres.", "hypothesis": "Certains monstres sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des instruments.", "hypothesis": "Aucun scientifique n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des l\u00e9gumes.", "hypothesis": "Les chefs ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des concepts.", "hypothesis": "Certains inventeurs sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des organismes.", "hypothesis": "Aucun chef n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des outils.", "hypothesis": "Aucun fermier n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des aliments.", "hypothesis": "Certains aliments sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des technologies.", "hypothesis": "Aucun inventeur n'est une technologie.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des entit\u00e9s.", "hypothesis": "Aucun pirate n'est une entit\u00e9.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des animaux.", "hypothesis": "Certains animaux sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des \u00eatres.", "hypothesis": "Les vaches ne sont pas des \u00eatres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des aliments.", "hypothesis": "Certains fermiers sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des concepts.", "hypothesis": "Aucun extraterrestre n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des \u00eatres.", "hypothesis": "Certains \u00e9tudiants sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des r\u00f4les.", "hypothesis": "Aucun soldat n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des personnages.", "hypothesis": "Aucun \u00e9l\u00e8ve n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des mythes.", "hypothesis": "Certains mythes sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des intelligences.", "hypothesis": "Certains dragons sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des aliments.", "hypothesis": "Certains aliments sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des choses.", "hypothesis": "Certains gobelins sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des cr\u00e9atures.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des structures.", "hypothesis": "Les clowns ne sont pas des structures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les sorciers sont des guerriers.", "hypothesis": "Certains guerriers sont des sorciers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des instruments.", "hypothesis": "Certains instruments sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des organismes.", "hypothesis": "Certains organismes sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des aliments.", "hypothesis": "Certains aliments sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des aliments.", "hypothesis": "Certains aliments sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des symboles.", "hypothesis": "Certaines vaches sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des personnages.", "hypothesis": "Certains personnages sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des organismes.", "hypothesis": "Certains organismes sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des structures.", "hypothesis": "Certaines structures sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des personnages.", "hypothesis": "Certains singes sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des concepts.", "hypothesis": "Certains concepts sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont humains.", "hypothesis": "Certains humains sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont humains.", "hypothesis": "Aucun chasseur de fant\u00f4mes n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des cr\u00e9atures.", "hypothesis": "Certains chefs sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des professions.", "hypothesis": "Certains enseignants sont des professions.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des intelligences.", "hypothesis": "Certains \u00e9tudiants sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des cr\u00e9atures.", "hypothesis": "Les espions ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des personnages.", "hypothesis": "Certains personnages sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des organismes.", "hypothesis": "Certains boulangers sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des symboles.", "hypothesis": "Certains symboles sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des personnages.", "hypothesis": "Aucun pirate n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des cr\u00e9atures.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des organismes.", "hypothesis": "Certains organismes sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des outils.", "hypothesis": "Aucun dinosaure n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des choses.", "hypothesis": "Aucun soldat n'est des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Aucun pirate n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des \u00eatres.", "hypothesis": "Les vaches ne sont pas des \u00eatres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des monstres.", "hypothesis": "Certains monstres sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des professionnels.", "hypothesis": "Les pirates ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des concepts.", "hypothesis": "Certains concepts sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont humaines.", "hypothesis": "Certaines carottes sont humaines.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des intelligences.", "hypothesis": "Certaines intelligences sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des occupations.", "hypothesis": "Certains espions sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des concepts.", "hypothesis": "Certains chevaliers sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des occupations.", "hypothesis": "Certains dinosaures sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des monstres.", "hypothesis": "Certains monstres sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des forces.", "hypothesis": "Certaines forces sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Certains pirates sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des esp\u00e8ces.", "hypothesis": "Aucun espion n'est une esp\u00e8ce.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des outils.", "hypothesis": "Aucun \u00e9tudiant n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dragons sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des animaux.", "hypothesis": "Certaines carottes sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des animaux.", "hypothesis": "Certains animaux sont m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des intelligences.", "hypothesis": "Certains zombies sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des cr\u00e9atures.", "hypothesis": "Les magiciens ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9trangers sont des instruments.", "hypothesis": "Certains extraterrestres sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des personnages.", "hypothesis": "Certains personnages sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont humaines.", "hypothesis": "Certaines vaches sont humaines.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des aliments.", "hypothesis": "Certains aliments sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des personnages.", "hypothesis": "Les clowns ne sont pas des personnages.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des l\u00e9gumes.", "hypothesis": "Les vaches ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des entit\u00e9s.", "hypothesis": "Les boulangers ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des instruments.", "hypothesis": "Certains instruments sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des entit\u00e9s.", "hypothesis": "Les dragons ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des intelligences.", "hypothesis": "Certains \u00e9tudiants sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des symboles.", "hypothesis": "Aucun singe n'est un symbole.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des instruments.", "hypothesis": "Certains instruments sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des l\u00e9gumes.", "hypothesis": "Les clowns ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des aliments.", "hypothesis": "Les ordinateurs ne sont pas des aliments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des outils.", "hypothesis": "Certains outils sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des technologies.", "hypothesis": "Certains fant\u00f4mes sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des monstres.", "hypothesis": "Certains monstres sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont humains.", "hypothesis": "Certains humains sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des mythes.", "hypothesis": "Aucun \u00e9tudiant n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des organismes.", "hypothesis": "Certains pirates sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des engins.", "hypothesis": "Certains soldats sont des engins.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des animaux.", "hypothesis": "Certains dragons sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des outils.", "hypothesis": "Aucun extraterrestre n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des objets.", "hypothesis": "Certains objets sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des guerriers.", "hypothesis": "Les pirates ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des personnages.", "hypothesis": "Certains personnages sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des esp\u00e8ces.", "hypothesis": "Certains dinosaures sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont humains.", "hypothesis": "Certains humains sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des structures.", "hypothesis": "Aucun inventeur n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des personnages.", "hypothesis": "Aucun ordinateur n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des personnages.", "hypothesis": "Certains boulangers sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des instruments.", "hypothesis": "Certains instruments sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des appareils.", "hypothesis": "Certains musiciens sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des animaux.", "hypothesis": "Aucun fermier n'est un animal.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des professionnels.", "hypothesis": "Certains soldats sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des technologies.", "hypothesis": "Certaines technologies sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des instruments.", "hypothesis": "Aucun robot n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des appareils.", "hypothesis": "Aucun assistant n'est un appareil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dragons sont des structures.", "hypothesis": "Certaines structures sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont humains.", "hypothesis": "Certains humains sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont humains.", "hypothesis": "Aucun espion n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des monstres.", "hypothesis": "Certains espions sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des professionnels.", "hypothesis": "Certains ogres sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des personnages.", "hypothesis": "Aucun peintre n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des appareils.", "hypothesis": "Les zombies ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont humains.", "hypothesis": "Certains scientifiques sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des v\u00e9hicules.", "hypothesis": "Certains \u00e9tudiants sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des objets.", "hypothesis": "Certains chevaliers sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des professionnels.", "hypothesis": "Les magiciens ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des cr\u00e9atures.", "hypothesis": "Aucun inventeur n'est une cr\u00e9ature.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des esp\u00e8ces.", "hypothesis": "Certains inventeurs sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des appareils.", "hypothesis": "Certains appareils sont des m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des intelligences.", "hypothesis": "Aucun \u00e9tudiant n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des mythes.", "hypothesis": "Certains mythes sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des intelligences.", "hypothesis": "Les peintres ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des entit\u00e9s.", "hypothesis": "Certains \u00e9tudiants sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des l\u00e9gumes.", "hypothesis": "Les \u00e9l\u00e8ves ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des outils.", "hypothesis": "Aucun peintre n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des intelligences.", "hypothesis": "Certains espions sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des monstres.", "hypothesis": "Certains pirates sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des guerriers.", "hypothesis": "Certains robots sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des choses.", "hypothesis": "Certains chevaliers sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont humains.", "hypothesis": "Certains humains sont musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des concepts.", "hypothesis": "Aucun enseignant n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des objets.", "hypothesis": "Certains boulangers sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des technologies.", "hypothesis": "Les peintres ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des r\u00f4les.", "hypothesis": "Aucun enseignant n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des outils.", "hypothesis": "Certains zombies sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des organismes.", "hypothesis": "Les zombies ne sont pas des organismes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des cr\u00e9atures.", "hypothesis": "Certains dragons sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des forces.", "hypothesis": "Certaines forces sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des cr\u00e9atures.", "hypothesis": "Les gobelins ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des esp\u00e8ces.", "hypothesis": "Aucun scientifique n'est une esp\u00e8ce.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des technologies.", "hypothesis": "Certaines technologies sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des v\u00e9hicules.", "hypothesis": "Les magiciens ne sont pas des v\u00e9hicules.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des \u00eatres.", "hypothesis": "Certains fant\u00f4mes sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des \u00eatres.", "hypothesis": "Certains robots sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des esp\u00e8ces.", "hypothesis": "Certaines sir\u00e8nes sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des forces.", "hypothesis": "Certains dragons sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs fant\u00f4mes sont des aliments.", "hypothesis": "Certains aliments sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des forces.", "hypothesis": "Certaines forces sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des \u00eatres.", "hypothesis": "Certains clowns sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des intelligences.", "hypothesis": "Les espions ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des symboles.", "hypothesis": "Certains singes sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des mythes.", "hypothesis": "Certains mythes sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des l\u00e9gumes.", "hypothesis": "Les extraterrestres ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des mythes.", "hypothesis": "Certains mythes sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des cr\u00e9atures.", "hypothesis": "Aucun extraterrestre n'est une cr\u00e9ature.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des r\u00f4les.", "hypothesis": "Aucun fermier n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des personnages.", "hypothesis": "Certains personnages sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des personnages.", "hypothesis": "Certains personnages sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des animaux.", "hypothesis": "Certains animaux sont m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des aliments.", "hypothesis": "Aucun fermier n'est de la nourriture.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des cr\u00e9atures.", "hypothesis": "Certains robots sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des outils.", "hypothesis": "Certains pirates sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des guerriers.", "hypothesis": "Les carottes ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des mythes.", "hypothesis": "Les chasseurs de fant\u00f4mes ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des professions.", "hypothesis": "Les ogres ne sont pas des professions.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des personnages.", "hypothesis": "Les espions ne sont pas des personnages.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des personnages.", "hypothesis": "Certains personnages sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des technologies.", "hypothesis": "Les chefs ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des symboles.", "hypothesis": "Les ogres ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des machines.", "hypothesis": "Les espions ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des mythes.", "hypothesis": "Certains mythes sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des animaux.", "hypothesis": "Certains animaux sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des m\u00e9tiers.", "hypothesis": "Certains m\u00e9tiers sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des choses.", "hypothesis": "Pas de boulangers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des fermiers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des monstres.", "hypothesis": "Les fant\u00f4mes ne sont pas des monstres.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des l\u00e9gumes.", "hypothesis": "Les sir\u00e8nes ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des intelligences.", "hypothesis": "Aucun scientifique n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des structures.", "hypothesis": "Certains chevaliers sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des forces.", "hypothesis": "Certains zombies sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des esp\u00e8ces.", "hypothesis": "Certains \u00e9tudiants sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des technologies.", "hypothesis": "Certains musiciens sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des guerriers.", "hypothesis": "Les dinosaures ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des esp\u00e8ces.", "hypothesis": "Certains m\u00e9decins sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des symboles.", "hypothesis": "Aucun pirate n'est un symbole.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des outils.", "hypothesis": "Certains peintres sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dinosaures sont des personnages.", "hypothesis": "Certains personnages sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des personnages.", "hypothesis": "Certains fant\u00f4mes sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des symboles.", "hypothesis": "Certains symboles sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des choses.", "hypothesis": "Certains espions sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des organismes.", "hypothesis": "Certains organismes sont des ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des professionnels.", "hypothesis": "Aucun extraterrestre n'est professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des choses.", "hypothesis": "Les chasseurs de fant\u00f4mes ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des organismes.", "hypothesis": "Certains musiciens sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des technologies.", "hypothesis": "Certaines technologies sont ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des objets.", "hypothesis": "Certains objets sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des syst\u00e8mes.", "hypothesis": "Aucun chef n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des intelligences.", "hypothesis": "Certaines intelligences sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des concepts.", "hypothesis": "Certains concepts sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des cr\u00e9atures.", "hypothesis": "Les boulangers ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des objets.", "hypothesis": "Certains objets sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des appareils.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des \u00eatres.", "hypothesis": "Certains ogres sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des v\u00e9hicules.", "hypothesis": "Certains extraterrestres sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des l\u00e9gumes.", "hypothesis": "Certains zombies sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des organismes.", "hypothesis": "Les ogres ne sont pas des organismes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des mythes.", "hypothesis": "Certains \u00e9tudiants sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des instruments.", "hypothesis": "Certains instruments sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des machines.", "hypothesis": "Certains enseignants sont des machines.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9trangers sont des entit\u00e9s.", "hypothesis": "Aucun \u00e9tranger n'est une entit\u00e9.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des appareils.", "hypothesis": "Aucun gobelin ne sont des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des mythes.", "hypothesis": "Les sir\u00e8nes ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des concepts.", "hypothesis": "Aucun enseignant n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des monstres.", "hypothesis": "Certains monstres sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des outils.", "hypothesis": "Certains outils sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des intelligences.", "hypothesis": "Certaines intelligences sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des forces.", "hypothesis": "Les ogres ne sont pas des forces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des technologies.", "hypothesis": "Les dinosaures ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des structures.", "hypothesis": "Certaines structures sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des occupations.", "hypothesis": "Certaines occupations sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des animaux.", "hypothesis": "Certains fermiers sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des personnages.", "hypothesis": "Certains personnages sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des esp\u00e8ces.", "hypothesis": "Certains espions sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des machines.", "hypothesis": "Les fant\u00f4mes ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont humains.", "hypothesis": "Certains singes sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des monstres.", "hypothesis": "Certains monstres sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des aliments.", "hypothesis": "Certains extraterrestres sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des entit\u00e9s.", "hypothesis": "Aucun peintre n'est une entit\u00e9.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des forces.", "hypothesis": "Les boulangers ne sont pas des forces.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des monstres.", "hypothesis": "Certains monstres sont des ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des v\u00e9hicules.", "hypothesis": "Les \u00e9trangers ne sont pas des v\u00e9hicules.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des l\u00e9gumes.", "hypothesis": "Certains \u00e9l\u00e8ves sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des machines.", "hypothesis": "Les enseignants ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des objets.", "hypothesis": "Certains objets sont des m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9trangers sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des technologies.", "hypothesis": "Certaines technologies sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des syst\u00e8mes.", "hypothesis": "Les zombies ne sont pas des syst\u00e8mes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des machines.", "hypothesis": "Certaines machines sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des l\u00e9gumes.", "hypothesis": "Les ogres ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des guerriers.", "hypothesis": "Certaines sir\u00e8nes sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des esp\u00e8ces.", "hypothesis": "Aucune carotte n'est une esp\u00e8ce.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des concepts.", "hypothesis": "Certains concepts sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des appareils.", "hypothesis": "Certains appareils sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des concepts.", "hypothesis": "Certains extraterrestres sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les gobelins sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des occupations.", "hypothesis": "Les magiciens ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des instruments.", "hypothesis": "Certains dinosaures sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des outils.", "hypothesis": "Certains outils sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des choses.", "hypothesis": "Aucun sorcier n'est des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des concepts.", "hypothesis": "Certains concepts sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont enseignantes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des structures.", "hypothesis": "Certains singes sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des machines.", "hypothesis": "Certaines machines sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des aliments.", "hypothesis": "Les chevaliers ne sont pas des aliments.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des concepts.", "hypothesis": "Certaines carottes sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des monstres.", "hypothesis": "Certains soldats sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des personnages.", "hypothesis": "Certains dragons sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des r\u00f4les.", "hypothesis": "Certaines carottes sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des l\u00e9gumes.", "hypothesis": "Les zombies ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des r\u00f4les.", "hypothesis": "Certains peintres sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des structures.", "hypothesis": "Certaines structures sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des aliments.", "hypothesis": "Certains chevaliers sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des aliments.", "hypothesis": "Certains ogres sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des animaux.", "hypothesis": "Certains animaux sont des ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des intelligences.", "hypothesis": "Les m\u00e9decins ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des machines.", "hypothesis": "Certains boulangers sont des machines.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des aliments.", "hypothesis": "Certains aliments sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des aliments.", "hypothesis": "Certains aliments sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des professionnels.", "hypothesis": "Certains singes sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des forces.", "hypothesis": "Certains musiciens sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des animaux.", "hypothesis": "Certains chefs sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des organismes.", "hypothesis": "Les fant\u00f4mes ne sont pas des organismes.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des occupations.", "hypothesis": "Certaines vaches sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des concepts.", "hypothesis": "Certains concepts sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des esp\u00e8ces.", "hypothesis": "Certains magiciens sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des structures.", "hypothesis": "Certains fant\u00f4mes sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des choses.", "hypothesis": "Aucun professeur n'est des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des esp\u00e8ces.", "hypothesis": "Certains robots sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des forces.", "hypothesis": "Les espions ne sont pas des forces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des l\u00e9gumes.", "hypothesis": "Les chevaliers ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des personnages.", "hypothesis": "Certains personnages sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des forces.", "hypothesis": "Certaines forces sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des r\u00f4les.", "hypothesis": "Les gobelins ne sont pas des r\u00f4les.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des structures.", "hypothesis": "Certains ordinateurs sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des syst\u00e8mes.", "hypothesis": "Certains chefs sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des instruments.", "hypothesis": "Certains fant\u00f4mes sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des v\u00e9hicules.", "hypothesis": "Certains inventeurs sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des m\u00e9tiers.", "hypothesis": "Aucun boulanger n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont humains.", "hypothesis": "Certains peintres sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des machines.", "hypothesis": "Les ogres ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des mythes.", "hypothesis": "Certains mythes sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des machines.", "hypothesis": "Certains magiciens sont des machines.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des l\u00e9gumes.", "hypothesis": "Les enseignants ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des instruments.", "hypothesis": "Les fant\u00f4mes ne sont pas des instruments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des intelligences.", "hypothesis": "Certaines intelligences sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des concepts.", "hypothesis": "Certains concepts sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des technologies.", "hypothesis": "Certaines technologies sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des guerriers.", "hypothesis": "Certains guerriers sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des forces.", "hypothesis": "Les magiciens ne sont pas des forces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des personnages.", "hypothesis": "Certains chefs sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des guerriers.", "hypothesis": "Les espions ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des l\u00e9gumes.", "hypothesis": "Certains clowns sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des choses.", "hypothesis": "Les ogres ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des personnages.", "hypothesis": "Certains personnages sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des instruments.", "hypothesis": "Aucun m\u00e9decin n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des r\u00f4les.", "hypothesis": "Certains m\u00e9decins sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des machines.", "hypothesis": "Certaines machines sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des personnages.", "hypothesis": "Certains extraterrestres sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des professionnels.", "hypothesis": "Certains fant\u00f4mes sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des monstres.", "hypothesis": "Certains monstres sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des renseignements.", "hypothesis": "Certains renseignements sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des occupations.", "hypothesis": "Certaines professions sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des dispositifs.", "hypothesis": "Certains dispositifs sont des ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des choses.", "hypothesis": "Certains chevaliers sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des monstres.", "hypothesis": "Aucun singe n'est un monstre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des appareils.", "hypothesis": "Certains musiciens sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des monstres.", "hypothesis": "Certains pirates sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont de la nourriture.", "hypothesis": "Certains aliments sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des choses.", "hypothesis": "Les fant\u00f4mes ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dragons sont des monstres.", "hypothesis": "Aucun dragon n'est un monstre.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des l\u00e9gumes.", "hypothesis": "Les sir\u00e8nes ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des symboles.", "hypothesis": "Certains soldats sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des forces.", "hypothesis": "Aucun fermier n'est une force.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des r\u00f4les.", "hypothesis": "Aucun enseignant n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des aliments.", "hypothesis": "Les ogres ne sont pas des aliments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des objets.", "hypothesis": "Aucun assistant n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des r\u00f4les.", "hypothesis": "Aucun boulanger n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des choses.", "hypothesis": "Les fant\u00f4mes ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des cr\u00e9atures.", "hypothesis": "Les clowns ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des technologies.", "hypothesis": "Aucun scientifique n'est une technologie.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des cr\u00e9atures.", "hypothesis": "Certaines carottes sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des guerriers.", "hypothesis": "Les boulangers ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des guerriers.", "hypothesis": "Certains \u00e9tudiants sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dinosaures sont des organismes.", "hypothesis": "Aucun dinosaure n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des organismes.", "hypothesis": "Certains boulangers sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des technologies.", "hypothesis": "Certaines technologies sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des r\u00f4les.", "hypothesis": "Les sir\u00e8nes ne sont pas des r\u00f4les.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des l\u00e9gumes.", "hypothesis": "Les sir\u00e8nes ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des structures.", "hypothesis": "Certains chefs sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des r\u00f4les.", "hypothesis": "Certaines sir\u00e8nes sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des mythes.", "hypothesis": "Certains chefs sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des mythes.", "hypothesis": "Certains mythes sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des organismes.", "hypothesis": "Aucun soldat n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des l\u00e9gumes.", "hypothesis": "Certains pirates sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des outils.", "hypothesis": "Aucun fermier n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Certains pirates sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des concepts.", "hypothesis": "Certains concepts sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des choses.", "hypothesis": "Certains scientifiques sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des aliments.", "hypothesis": "Certains fermiers sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dinosaures sont des l\u00e9gumes.", "hypothesis": "Les dinosaures ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont humains.", "hypothesis": "Certains humains sont musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des concepts.", "hypothesis": "Aucun dragon ne sont des concepts.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des professionnels.", "hypothesis": "Certains ogres sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des \u00eatres.", "hypothesis": "Certains ordinateurs sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des instruments.", "hypothesis": "Certaines sir\u00e8nes sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des instruments.", "hypothesis": "Certains instruments sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des choses.", "hypothesis": "Certains chevaliers sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des animaux.", "hypothesis": "Certains espions sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des outils.", "hypothesis": "Aucun magicien n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des monstres.", "hypothesis": "Certains monstres sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des intelligences.", "hypothesis": "Les enseignants ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des structures.", "hypothesis": "Certains ordinateurs sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des aliments.", "hypothesis": "Certains extraterrestres sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des syst\u00e8mes.", "hypothesis": "Certaines sir\u00e8nes sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des personnages.", "hypothesis": "Certains ordinateurs sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des animaux.", "hypothesis": "Certains animaux sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des esp\u00e8ces.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des esp\u00e8ces.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des professionnels.", "hypothesis": "Les sir\u00e8nes ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des entit\u00e9s.", "hypothesis": "Certains m\u00e9decins sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des occupations.", "hypothesis": "Les fant\u00f4mes ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des technologies.", "hypothesis": "Les peintres ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des structures.", "hypothesis": "Certaines structures sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des cr\u00e9atures.", "hypothesis": "Certains robots sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des personnages.", "hypothesis": "Certains personnages sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des r\u00f4les.", "hypothesis": "Certains fant\u00f4mes sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des professionnels.", "hypothesis": "Certains musiciens sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des objets.", "hypothesis": "Certains objets sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des structures.", "hypothesis": "Aucun chef n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des concepts.", "hypothesis": "Aucun chef n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des machines.", "hypothesis": "Certaines machines sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des intelligences.", "hypothesis": "Aucun boulanger n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des forces.", "hypothesis": "Certains singes sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des occupations.", "hypothesis": "Certaines professions sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des agriculteurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des outils.", "hypothesis": "Aucun fermier n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des l\u00e9gumes.", "hypothesis": "Certains gobelins sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des choses.", "hypothesis": "Certaines choses sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des organismes.", "hypothesis": "Certains organismes sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fermiers sont des intelligences.", "hypothesis": "Certaines intelligences sont des fermiers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des technologies.", "hypothesis": "Les enseignants ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des appareils.", "hypothesis": "Certains singes sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des outils.", "hypothesis": "Certains outils sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont humains.", "hypothesis": "Aucun scientifique n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des l\u00e9gumes.", "hypothesis": "Les dinosaures ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des intelligences.", "hypothesis": "Certaines intelligences sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des syst\u00e8mes.", "hypothesis": "Aucun chef n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des machines.", "hypothesis": "Certaines machines sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des m\u00e9tiers.", "hypothesis": "Certains m\u00e9tiers sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des objets.", "hypothesis": "Les dragons ne sont pas des objets.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des symboles.", "hypothesis": "Certains symboles sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des mythes.", "hypothesis": "Certains chefs sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des symboles.", "hypothesis": "Certains symboles sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des structures.", "hypothesis": "Aucun dinosaure n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des instruments.", "hypothesis": "Les chasseurs de fant\u00f4mes ne sont pas des instruments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des choses.", "hypothesis": "Certaines choses sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des animaux.", "hypothesis": "Certains scientifiques sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les inventeurs sont des syst\u00e8mes.", "hypothesis": "Aucun inventeur n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des monstres.", "hypothesis": "Les vaches ne sont pas des monstres.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des objets.", "hypothesis": "Certaines carottes sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les inventeurs sont des instruments.", "hypothesis": "Aucun inventeur n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des forces.", "hypothesis": "Certaines forces sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des intelligences.", "hypothesis": "Certaines intelligences sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont humains.", "hypothesis": "Aucun chevalier n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des symboles.", "hypothesis": "Certains symboles sont des m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des technologies.", "hypothesis": "Certains singes sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des personnages.", "hypothesis": "Certains personnages sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des animaux.", "hypothesis": "Certains animaux sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des structures.", "hypothesis": "Aucun peintre n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des entit\u00e9s.", "hypothesis": "Les boulangers ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des esp\u00e8ces.", "hypothesis": "Certains pirates sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des organismes.", "hypothesis": "Aucun scientifique n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des appareils.", "hypothesis": "Certains dispositifs sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des choses.", "hypothesis": "Certaines choses sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des guerriers.", "hypothesis": "Certains singes sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des mythes.", "hypothesis": "Aucun scientifique n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des animaux.", "hypothesis": "Certains animaux sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des guerriers.", "hypothesis": "Les chasseurs de fant\u00f4mes ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des professionnels.", "hypothesis": "Certains professionnels sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des symboles.", "hypothesis": "Certaines vaches sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des personnages.", "hypothesis": "Certains personnages sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des concepts.", "hypothesis": "Certains concepts sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des organismes.", "hypothesis": "Certains m\u00e9decins sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des organismes.", "hypothesis": "Certains extraterrestres sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des professionnels.", "hypothesis": "Certaines sir\u00e8nes sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des structures.", "hypothesis": "Certaines structures sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des intelligences.", "hypothesis": "Aucune carotte n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des intelligences.", "hypothesis": "Certaines carottes sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont humains.", "hypothesis": "Certains pirates sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fermiers sont des intelligences.", "hypothesis": "Aucun fermier n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des personnages.", "hypothesis": "Les fant\u00f4mes ne sont pas des personnages.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des outils.", "hypothesis": "Aucun ordinateur n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des technologies.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des instruments.", "hypothesis": "Certains instruments sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des instruments.", "hypothesis": "Aucun \u00e9tudiant n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des choses.", "hypothesis": "Certaines choses sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont humains.", "hypothesis": "Aucun inventeur n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des l\u00e9gumes.", "hypothesis": "Certains chevaliers sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des animaux.", "hypothesis": "Certains animaux sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des professionnels.", "hypothesis": "Certains professionnels sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des intelligences.", "hypothesis": "Aucun pirate n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des l\u00e9gumes.", "hypothesis": "Certains fermiers sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des occupations.", "hypothesis": "Les pirates ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des monstres.", "hypothesis": "Certains boulangers sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des objets.", "hypothesis": "Aucun extraterrestre n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des symboles.", "hypothesis": "Les chevaliers ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des outils.", "hypothesis": "Les zombies ne sont pas des outils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des mythes.", "hypothesis": "Certains dinosaures sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des choses.", "hypothesis": "Certaines choses sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des instruments.", "hypothesis": "Les dragons ne sont pas des instruments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9trangers sont des instruments.", "hypothesis": "Aucun \u00e9tranger n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des cr\u00e9atures.", "hypothesis": "Certains zombies sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont humains.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des symboles.", "hypothesis": "Certains symboles sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des organismes.", "hypothesis": "Aucun musicien n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des intelligences.", "hypothesis": "Certaines carottes sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des entit\u00e9s.", "hypothesis": "Aucun scientifique n'est une entit\u00e9.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des organismes.", "hypothesis": "Aucun espion n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des organismes.", "hypothesis": "Aucun peintre n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des choses.", "hypothesis": "Certaines carottes sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des machines.", "hypothesis": "Certaines machines sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des technologies.", "hypothesis": "Certains agriculteurs sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des choses.", "hypothesis": "Les chefs ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chevaliers sont des instruments.", "hypothesis": "Certains instruments sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des outils.", "hypothesis": "Les clowns ne sont pas des outils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des syst\u00e8mes.", "hypothesis": "Certains m\u00e9decins sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des machines.", "hypothesis": "Certaines machines sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des technologies.", "hypothesis": "Certaines technologies sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des entit\u00e9s.", "hypothesis": "Certains m\u00e9decins sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des objets.", "hypothesis": "Certains objets sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des occupations.", "hypothesis": "Certains pirates sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professionnels.", "hypothesis": "Certains professionnels sont des agriculteurs.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des mythes.", "hypothesis": "Certaines vaches sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des forces.", "hypothesis": "Certaines forces sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des mythes.", "hypothesis": "Aucun peintre n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des aliments.", "hypothesis": "Aucun fermier n'est de la nourriture.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des objets.", "hypothesis": "Aucun m\u00e9decin n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des animaux.", "hypothesis": "Certains animaux sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des choses.", "hypothesis": "Les fant\u00f4mes ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des aliments.", "hypothesis": "Certains scientifiques sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des esp\u00e8ces.", "hypothesis": "Certains ordinateurs sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des syst\u00e8mes.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des professionnels.", "hypothesis": "Certains professionnels sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des mythes.", "hypothesis": "Certains mythes sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des \u00eatres.", "hypothesis": "Les ogres ne sont pas des \u00eatres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des entit\u00e9s.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des technologies.", "hypothesis": "Aucun scientifique n'est une technologie.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des professionnels.", "hypothesis": "Aucun ordinateur n'est professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des v\u00e9hicules.", "hypothesis": "Certains inventeurs sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les inventeurs sont des appareils.", "hypothesis": "Certains inventeurs sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des machines.", "hypothesis": "Les zombies ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des aliments.", "hypothesis": "Certains aliments sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des mythes.", "hypothesis": "Certains m\u00e9decins sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des organismes.", "hypothesis": "Aucun fermier n'est un organisme.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des symboles.", "hypothesis": "Les vaches ne sont pas des symboles.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des appareils.", "hypothesis": "Certains dispositifs sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des personnages.", "hypothesis": "Aucune carotte n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des outils.", "hypothesis": "Certains chefs sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des concepts.", "hypothesis": "Certains concepts sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des symboles.", "hypothesis": "Certains symboles sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des appareils.", "hypothesis": "Aucun extraterrestre n'est un dispositif.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des v\u00e9hicules.", "hypothesis": "Certaines vaches sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des esp\u00e8ces.", "hypothesis": "Aucun extraterrestre n'est une esp\u00e8ce.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des mythes.", "hypothesis": "Les vaches ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des structures.", "hypothesis": "Aucun peintre n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des aliments.", "hypothesis": "Certains fant\u00f4mes sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des symboles.", "hypothesis": "Certains espions sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont humains.", "hypothesis": "Certains sorciers sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des outils.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des guerriers.", "hypothesis": "Certains musiciens sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des instruments.", "hypothesis": "Certains enseignants sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des professionnels.", "hypothesis": "Aucun ordinateur n'est professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des structures.", "hypothesis": "Les chasseurs de fant\u00f4mes ne sont pas des structures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des personnages.", "hypothesis": "Aucun musicien n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des syst\u00e8mes.", "hypothesis": "Aucun soldat n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont humains.", "hypothesis": "Certains fermiers sont humains.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des objets.", "hypothesis": "Aucun robot n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des symboles.", "hypothesis": "Certains symboles sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des concepts.", "hypothesis": "Certains singes sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les inventeurs sont des professionnels.", "hypothesis": "Certains professionnels sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des structures.", "hypothesis": "Certaines structures sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des instruments.", "hypothesis": "Certains instruments sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des structures.", "hypothesis": "Les espions ne sont pas des structures.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des concepts.", "hypothesis": "Les sir\u00e8nes ne sont pas des concepts.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des animaux.", "hypothesis": "Certains animaux sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des r\u00f4les.", "hypothesis": "Certains boulangers sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des cr\u00e9atures.", "hypothesis": "Aucun singe n'est une cr\u00e9ature.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des intelligences.", "hypothesis": "Certaines intelligences sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des cr\u00e9atures.", "hypothesis": "Les espions ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des symboles.", "hypothesis": "Certains symboles sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des monstres.", "hypothesis": "Certains monstres sont m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des structures.", "hypothesis": "Les sir\u00e8nes ne sont pas des structures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des structures.", "hypothesis": "Aucun soldat n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des choses.", "hypothesis": "Certains chefs sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des instruments.", "hypothesis": "Aucun musicien n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des occupations.", "hypothesis": "Les fant\u00f4mes ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des intelligences.", "hypothesis": "Aucun musicien n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des forces.", "hypothesis": "Certaines forces sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des occupations.", "hypothesis": "Les zombies ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des l\u00e9gumes.", "hypothesis": "Certains inventeurs sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des personnages.", "hypothesis": "Certaines sir\u00e8nes sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dinosaures sont des professionnels.", "hypothesis": "Aucun dinosaure n'est professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des animaux.", "hypothesis": "Les enseignants ne sont pas des animaux.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dragons sont des machines.", "hypothesis": "Certaines machines sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les scientifiques sont des intelligences.", "hypothesis": "Certains scientifiques sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des monstres.", "hypothesis": "Aucun chasseur de fant\u00f4mes n'est un monstre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des syst\u00e8mes.", "hypothesis": "Aucun peintre n'est un syst\u00e8me.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des entit\u00e9s.", "hypothesis": "Les gobelins ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des engins.", "hypothesis": "Aucun soldat n'est un appareil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des structures.", "hypothesis": "Aucun extraterrestre n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des r\u00f4les.", "hypothesis": "Aucun m\u00e9decin n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des choses.", "hypothesis": "Certains gobelins sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des r\u00f4les.", "hypothesis": "Aucun \u00e9tudiant n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des \u00eatres.", "hypothesis": "Certains espions sont des \u00eatres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des mythes.", "hypothesis": "Certains mythes sont des chevaliers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des l\u00e9gumes.", "hypothesis": "Certains soldats sont des l\u00e9gumes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des guerriers.", "hypothesis": "Certains guerriers sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des instruments.", "hypothesis": "Les fant\u00f4mes ne sont pas des instruments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des outils.", "hypothesis": "Certaines carottes sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des occupations.", "hypothesis": "Aucun chef n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des l\u00e9gumes.", "hypothesis": "Les scientifiques ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des organismes.", "hypothesis": "Certaines vaches sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des mythes.", "hypothesis": "Certains mythes sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des professionnels.", "hypothesis": "Aucun ordinateur n'est professionnel.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des concepts.", "hypothesis": "Certains concepts sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des professionnels.", "hypothesis": "Certains professionnels sont boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des appareils.", "hypothesis": "Certains appareils sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des appareils.", "hypothesis": "Certains espions sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des machines.", "hypothesis": "Certaines machines sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des guerriers.", "hypothesis": "Certains dragons sont des guerriers.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont des syst\u00e8mes.", "hypothesis": "Certains zombies sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des forces.", "hypothesis": "Certaines forces sont des ordinateurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des professionnels.", "hypothesis": "Les peintres ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des intelligences.", "hypothesis": "Les magiciens ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des objets.", "hypothesis": "Certains soldats sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des personnages.", "hypothesis": "Les singes ne sont pas des personnages.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des occupations.", "hypothesis": "Les vaches ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des r\u00f4les.", "hypothesis": "Aucun enseignant n'est un r\u00f4le.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des choses.", "hypothesis": "Certaines choses sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des personnages.", "hypothesis": "Certaines sir\u00e8nes sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des appareils.", "hypothesis": "Les chevaliers ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des monstres.", "hypothesis": "Certains soldats sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des objets.", "hypothesis": "Aucun pirate n'est un objet.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des mythes.", "hypothesis": "Les carottes ne sont pas des mythes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des intelligences.", "hypothesis": "Certaines intelligences sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des forces.", "hypothesis": "Certaines forces sont des m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des mythes.", "hypothesis": "Aucun soldat n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des forces.", "hypothesis": "Certains scientifiques sont des forces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des concepts.", "hypothesis": "Certains magiciens sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des concepts.", "hypothesis": "Certains chefs sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des choses.", "hypothesis": "Certaines choses sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des esp\u00e8ces.", "hypothesis": "Certains chevaliers sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des personnages.", "hypothesis": "Certains scientifiques sont des personnages.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les inventeurs sont des objets.", "hypothesis": "Certains inventeurs sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des organismes.", "hypothesis": "Certains magiciens sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des organismes.", "hypothesis": "Les sir\u00e8nes ne sont pas des organismes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des appareils.", "hypothesis": "Certains appareils sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des monstres.", "hypothesis": "Les ogres ne sont pas des monstres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des animaux.", "hypothesis": "Les enseignants ne sont pas des animaux.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des v\u00e9hicules.", "hypothesis": "Certains espions sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des l\u00e9gumes.", "hypothesis": "Les peintres ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des intelligences.", "hypothesis": "Certains fant\u00f4mes sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des aliments.", "hypothesis": "Certains pirates sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des structures.", "hypothesis": "Certains chevaliers sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dinosaures sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des dinosaures.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des intelligences.", "hypothesis": "Les fant\u00f4mes ne sont pas des intelligences.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des intelligences.", "hypothesis": "Certains \u00e9tudiants sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9l\u00e8ves sont des symboles.", "hypothesis": "Certains \u00e9l\u00e8ves sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des esp\u00e8ces.", "hypothesis": "Aucun enseignant n'est une esp\u00e8ce.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des l\u00e9gumes.", "hypothesis": "Les pirates ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dragons sont des cr\u00e9atures.", "hypothesis": "Les dragons ne sont pas des cr\u00e9atures.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des syst\u00e8mes.", "hypothesis": "Les boulangers ne sont pas des syst\u00e8mes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des technologies.", "hypothesis": "Les pirates ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les musiciens sont des forces.", "hypothesis": "Certaines forces sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs fant\u00f4mes sont des aliments.", "hypothesis": "Certains chasseurs fant\u00f4mes sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des concepts.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des esp\u00e8ces.", "hypothesis": "Les fant\u00f4mes ne sont pas des esp\u00e8ces.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont humaines.", "hypothesis": "Aucune carotte n'est humaine.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des guerriers.", "hypothesis": "Certains guerriers sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des outils.", "hypothesis": "Certains outils sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des entit\u00e9s.", "hypothesis": "Les dragons ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des structures.", "hypothesis": "Aucun singe n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des animaux.", "hypothesis": "Certains animaux sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des mythes.", "hypothesis": "Certains ogres sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des monstres.", "hypothesis": "Certains monstres sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professions.", "hypothesis": "Aucun fermier n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des professionnels.", "hypothesis": "Certains professionnels sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des instruments.", "hypothesis": "Les dragons ne sont pas des instruments.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des machines.", "hypothesis": "Certaines machines sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professions.", "hypothesis": "Aucun fermier n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des organismes.", "hypothesis": "Certains extraterrestres sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des instruments.", "hypothesis": "Certains instruments sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des professionnels.", "hypothesis": "Certains professionnels sont boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des r\u00f4les.", "hypothesis": "Certains peintres sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des mythes.", "hypothesis": "Aucun soldat n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des appareils.", "hypothesis": "Certains ordinateurs sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des appareils.", "hypothesis": "Certains appareils sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des choses.", "hypothesis": "Les espions ne sont pas des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des guerriers.", "hypothesis": "Les robots ne sont pas des guerriers.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des monstres.", "hypothesis": "Aucun ordinateur n'est un monstre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des animaux.", "hypothesis": "Aucun robot n'est un animal.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des r\u00f4les.", "hypothesis": "Les gobelins ne sont pas des r\u00f4les.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des entit\u00e9s.", "hypothesis": "Les zombies ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des r\u00f4les.", "hypothesis": "Certains boulangers sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chefs sont des intelligences.", "hypothesis": "Certains renseignements sont des chefs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des l\u00e9gumes.", "hypothesis": "Les inventeurs ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les soldats sont des guerriers.", "hypothesis": "Certains guerriers sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des outils.", "hypothesis": "Certains ordinateurs sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des choses.", "hypothesis": "Certains pirates sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des appareils.", "hypothesis": "Certains pirates sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des structures.", "hypothesis": "Certains enseignants sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les pirates sont des animaux.", "hypothesis": "Certains pirates sont des animaux.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des instruments.", "hypothesis": "Certains soldats sont des instruments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des objets.", "hypothesis": "Les chevaliers ne sont pas des objets.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des guerriers.", "hypothesis": "Certains guerriers sont des extraterrestres.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des objets.", "hypothesis": "Certains objets sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des structures.", "hypothesis": "Certains chasseurs de fant\u00f4mes sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des aliments.", "hypothesis": "Certaines carottes sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professions.", "hypothesis": "Aucun fermier n'est un m\u00e9tier.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des syst\u00e8mes.", "hypothesis": "Certains enseignants sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des appareils.", "hypothesis": "Certains dispositifs sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dragons sont des dispositifs.", "hypothesis": "Certains dragons sont des dispositifs.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les vaches sont des professionnels.", "hypothesis": "Les vaches ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des mythes.", "hypothesis": "Certains scientifiques sont des mythes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des \u00eatres.", "hypothesis": "Les boulangers ne sont pas des \u00eatres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des entit\u00e9s.", "hypothesis": "Les zombies ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des cr\u00e9atures.", "hypothesis": "Aucun extraterrestre n'est une cr\u00e9ature.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les musiciens sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des occupations.", "hypothesis": "Certaines occupations sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des instruments.", "hypothesis": "Certains instruments sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les zombies sont des machines.", "hypothesis": "Certaines machines sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des \u00eatres.", "hypothesis": "Aucun magicien n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des monstres.", "hypothesis": "Les carottes ne sont pas des monstres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des animaux.", "hypothesis": "Certains animaux sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des symboles.", "hypothesis": "Certaines sir\u00e8nes sont des symboles.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les vaches sont des objets.", "hypothesis": "Certaines vaches sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les zombies sont humains.", "hypothesis": "Aucun zombie n'est humain.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des occupations.", "hypothesis": "Certaines vaches sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ogres sont des professionnels.", "hypothesis": "Certains ogres sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des monstres.", "hypothesis": "Certains m\u00e9decins sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les soldats sont des renseignements.", "hypothesis": "Certains soldats sont des renseignements.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des syst\u00e8mes.", "hypothesis": "Pas de gobelins, c'est des syst\u00e8mes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des concepts.", "hypothesis": "Certains inventeurs sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des organismes.", "hypothesis": "Certains organismes sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chefs sont des structures.", "hypothesis": "Certains chefs sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des r\u00f4les.", "hypothesis": "Certains r\u00f4les sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les magiciens sont des occupations.", "hypothesis": "Certains sorciers sont des occupations.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des \u00eatres.", "hypothesis": "Les sir\u00e8nes ne sont pas des \u00eatres.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des instruments.", "hypothesis": "Aucun chef n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les dinosaures sont des intelligences.", "hypothesis": "Certains dinosaures sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des dragons.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont m\u00e9decins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des organismes.", "hypothesis": "Certains boulangers sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des mythes.", "hypothesis": "Aucun \u00e9tudiant n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les boulangers sont des choses.", "hypothesis": "Certaines choses sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des occupations.", "hypothesis": "Certaines occupations sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des entit\u00e9s.", "hypothesis": "Certains singes sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Toutes les carottes sont des outils.", "hypothesis": "Certains outils sont des carottes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des intelligences.", "hypothesis": "Certains chevaliers sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les musiciens sont des objets.", "hypothesis": "Certains objets sont des musiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des animaux.", "hypothesis": "Certains animaux sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des concepts.", "hypothesis": "Certains inventeurs sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chevaliers sont des machines.", "hypothesis": "Les chevaliers ne sont pas des machines.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des personnages.", "hypothesis": "Certains personnages sont des ogres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des monstres.", "hypothesis": "Aucun chasseur de fant\u00f4mes n'est un monstre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des aliments.", "hypothesis": "Certains pirates sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des concepts.", "hypothesis": "Certains m\u00e9decins sont des concepts.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des technologies.", "hypothesis": "Certains extraterrestres sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les robots sont des \u00eatres.", "hypothesis": "Certains \u00eatres sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des entit\u00e9s.", "hypothesis": "Certains peintres sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les clowns sont des cr\u00e9atures.", "hypothesis": "Certains clowns sont des cr\u00e9atures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les chevaliers sont des personnages.", "hypothesis": "Les chevaliers ne sont pas des personnages.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des machines.", "hypothesis": "Certaines machines sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des professions.", "hypothesis": "Certaines professions sont des agriculteurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les boulangers sont des esp\u00e8ces.", "hypothesis": "Certaines esp\u00e8ces sont des boulangers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les dinosaures sont des cr\u00e9atures.", "hypothesis": "Aucun dinosaure n'est une cr\u00e9ature.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ogres sont des objets.", "hypothesis": "Les ogres ne sont pas des objets.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des syst\u00e8mes.", "hypothesis": "Certains enseignants sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des mythes.", "hypothesis": "Certains mythes sont des \u00e9tudiants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des objets.", "hypothesis": "Certains objets sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les peintres sont des technologies.", "hypothesis": "Certaines technologies sont des peintres.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les ogres sont des dispositifs.", "hypothesis": "Les ogres ne sont pas des dispositifs.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des professions.", "hypothesis": "Certaines professions sont des inventeurs.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des objets.", "hypothesis": "Certains inventeurs sont des objets.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les enseignants sont des choses.", "hypothesis": "Aucun professeur n'est des choses.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des animaux.", "hypothesis": "Certains animaux sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des entit\u00e9s.", "hypothesis": "Les sir\u00e8nes ne sont pas des entit\u00e9s.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les robots sont des \u00eatres.", "hypothesis": "Aucun robot n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des aliments.", "hypothesis": "Aucun chef n'est de la nourriture.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des technologies.", "hypothesis": "Les magiciens ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des intelligences.", "hypothesis": "Certains inventeurs sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des v\u00e9hicules.", "hypothesis": "Certains m\u00e9decins sont des v\u00e9hicules.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fermiers sont des choses.", "hypothesis": "Certaines choses sont des fermiers.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des r\u00f4les.", "hypothesis": "Certains \u00e9tudiants sont des r\u00f4les.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des instruments.", "hypothesis": "Aucun singe n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des forces.", "hypothesis": "Les clowns ne sont pas des forces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des machines.", "hypothesis": "Certaines machines sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les singes sont des mythes.", "hypothesis": "Certains mythes sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les soldats sont des renseignements.", "hypothesis": "Certains renseignements sont des soldats.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des choses.", "hypothesis": "Certaines choses sont des pirates.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des occupations.", "hypothesis": "Les sir\u00e8nes ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des aliments.", "hypothesis": "Certains espions sont des aliments.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fermiers sont des intelligences.", "hypothesis": "Aucun fermier n'est une intelligence.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les clowns sont des syst\u00e8mes.", "hypothesis": "Certains syst\u00e8mes sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des esp\u00e8ces.", "hypothesis": "Aucun chasseur de fant\u00f4mes ne sont des esp\u00e8ces.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les enseignants sont des animaux.", "hypothesis": "Certains animaux sont des enseignants.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des cr\u00e9atures.", "hypothesis": "Certaines cr\u00e9atures sont des robots.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les enseignants sont des professionnels.", "hypothesis": "Certains enseignants sont des professionnels.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les extraterrestres sont des technologies.", "hypothesis": "Aucun extraterrestre n'est une technologie.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les singes sont des \u00eatres.", "hypothesis": "Aucun singe n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les vaches sont des aliments.", "hypothesis": "Certains aliments sont des vaches.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des symboles.", "hypothesis": "Certains symboles sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les pirates sont des technologies.", "hypothesis": "Certains pirates sont des technologies.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les boulangers sont des entit\u00e9s.", "hypothesis": "Certains boulangers sont des entit\u00e9s.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des appareils.", "hypothesis": "Certains singes sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les peintres sont des technologies.", "hypothesis": "Les peintres ne sont pas des technologies.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des appareils.", "hypothesis": "Les fant\u00f4mes ne sont pas des appareils.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les carottes sont des organismes.", "hypothesis": "Certaines carottes sont des organismes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les magiciens sont des v\u00e9hicules.", "hypothesis": "Certains v\u00e9hicules sont des magiciens.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les inventeurs sont des appareils.", "hypothesis": "Certains inventeurs sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les espions sont des professionnels.", "hypothesis": "Les espions ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des esp\u00e8ces.", "hypothesis": "Certaines sir\u00e8nes sont des esp\u00e8ces.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des outils.", "hypothesis": "Aucun ordinateur n'est un outil.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les gobelins sont des organismes.", "hypothesis": "Certains organismes sont des gobelins.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des organismes.", "hypothesis": "Certains organismes sont des fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les chasseurs de fant\u00f4mes sont des forces.", "hypothesis": "Certaines forces sont des chasseurs de fant\u00f4mes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les professeurs sont des monstres.", "hypothesis": "Certains professeurs sont des monstres.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les dragons sont des intelligences.", "hypothesis": "Certains dragons sont des intelligences.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des occupations.", "hypothesis": "Les fant\u00f4mes ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les ordinateurs sont des structures.", "hypothesis": "Aucun ordinateur n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des personnages.", "hypothesis": "Aucun inventeur n'est un personnage.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les peintres sont des \u00eatres.", "hypothesis": "Aucun peintre n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des professionnels.", "hypothesis": "Les magiciens ne sont pas des professionnels.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les agriculteurs sont des structures.", "hypothesis": "Aucun fermier n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les scientifiques sont des l\u00e9gumes.", "hypothesis": "Certains l\u00e9gumes sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les robots sont des structures.", "hypothesis": "Aucun robot n'est une structure.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des entit\u00e9s.", "hypothesis": "Aucun inventeur n'est une entit\u00e9.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les pirates sont des \u00eatres.", "hypothesis": "Aucun pirate n'est un \u00eatre.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les zombies sont des instruments.", "hypothesis": "Certains instruments sont des zombies.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des concepts.", "hypothesis": "Aucun m\u00e9decin n'est un concept.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les magiciens sont des occupations.", "hypothesis": "Les magiciens ne sont pas des occupations.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les espions sont des objets.", "hypothesis": "Certains objets sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les espions sont des structures.", "hypothesis": "Certaines structures sont des espions.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des structures.", "hypothesis": "Certains \u00e9tudiants sont des structures.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les scientifiques sont des machines.", "hypothesis": "Certaines machines sont des scientifiques.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les clowns sont des objets.", "hypothesis": "Certains objets sont des clowns.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les carottes sont des outils.", "hypothesis": "Certaines carottes sont des outils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des syst\u00e8mes.", "hypothesis": "Certains singes sont des syst\u00e8mes.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les singes sont des mythes.", "hypothesis": "Certains mythes sont des singes.", "label": "neutral"}
+{"language": "fr", "premise": "Toutes les sir\u00e8nes sont des entit\u00e9s.", "hypothesis": "Certaines entit\u00e9s sont des sir\u00e8nes.", "label": "neutral"}
+{"language": "fr", "premise": "Tous les gobelins sont des instruments.", "hypothesis": "Aucun gobelin n'est un instrument.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les chefs sont des choses.", "hypothesis": "Certains chefs sont des choses.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les fant\u00f4mes sont des l\u00e9gumes.", "hypothesis": "Les fant\u00f4mes ne sont pas des l\u00e9gumes.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les inventeurs sont des appareils.", "hypothesis": "Certains inventeurs sont des appareils.", "label": "entailment"}
+{"language": "fr", "premise": "Tous les m\u00e9decins sont des mythes.", "hypothesis": "Aucun m\u00e9decin n'est un mythe.", "label": "contradiction"}
+{"language": "fr", "premise": "Tous les \u00e9tudiants sont des technologies.", "hypothesis": "Certaines technologies sont des \u00e9tudiants.", "label": "neutral"}

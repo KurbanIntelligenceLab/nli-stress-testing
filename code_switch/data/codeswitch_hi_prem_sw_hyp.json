@@ -1,0 +1,1000 @@
+{"premise": "सभी विदेशी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी उपद्रवी वाहन हैं.", "hypothesis": "Baadhi ya magari ni maleaya.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर पेशेवर हैं.", "hypothesis": "Wachekeshaji fulani ni wastadi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर जानवरों हैं.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े चिह्न हैं.", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर अक्षर हैं.", "hypothesis": "Hakuna wachawi walio wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार उपकरण हैं.", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जाति हैं.", "hypothesis": "Baadhi ya waokaji ni aina mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक शक्‍तियाँ हैं ।", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी पेशेवर हैं ।", "hypothesis": "Hakuna wanafunzi walio wataalamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जीव हैं ।", "hypothesis": "Hakuna walimu walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वस्तुएँ हैं ।", "hypothesis": "Baadhi ya walimu ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत जानवरों हैं.", "hypothesis": "Mizombi fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक संरचनाएँ हैं ।", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मनुष्य हैं ।", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान राक्षस हैं.", "hypothesis": "Wakulima fulani ni wanyama wakubwa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर जानवरों हैं.", "hypothesis": "Hakuna madaktari walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वाहन हैं.", "hypothesis": "Walimu fulani ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर सिस्टम हैं.", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत सेना हैं.", "hypothesis": "Baadhi ya kani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर बातें कर रहे हैं.", "hypothesis": "Baadhi ya vitu hivyo ni vichekeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत वाहन हैं.", "hypothesis": "Baadhi ya magari ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत बातें कर रहे हैं.", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स चिह्न हैं.", "hypothesis": "Hakuna waokaji walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना खाते हैं.", "hypothesis": "Vyakula fulani ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े जीव हैं.", "hypothesis": "Baadhi ya mashujaa ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों जानवर हैं.", "hypothesis": "Ng'ombe fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स समझदार हैं.", "hypothesis": "Hakuna majoka walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर जीव हैं.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत उपकरण हैं.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की मशीनों हैं.", "hypothesis": "Ng'ombe fulani ni mashine.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक प्रतीक हैं ।", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स चिह्न हैं.", "hypothesis": "Hakuna majoka walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी बातें कर रहे हैं.", "hypothesis": "Baadhi ya wanafunzi ni mambo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी हैं.", "hypothesis": "Wanyama fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान संरचनाएँ हैं.", "hypothesis": "Majengo fulani ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस वाहन हैं.", "hypothesis": "Hakuna wapelelezi walio magari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत संरचनाएँ हैं.", "hypothesis": "Majengo fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक कल्पना कर रहे हैं.", "hypothesis": "Hakuna walimu walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन भूमिका निभा रहे हैं.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर सेनाएं हैं.", "hypothesis": "Hakuna nguvu za kompyuta.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर काल्पनिक हैं.", "hypothesis": "Hakuna tumbili walio wa kuwaziwa tu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी सिस्टम हैं.", "hypothesis": "Hakuna wanafunzi walio na mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े उपकरण हैं.", "hypothesis": "Baadhi ya mashujaa ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक प्राणी हैं.", "hypothesis": "Askari - jeshi fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक मनुष्य हैं ।", "hypothesis": "Hakuna walimu walio wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन चक्कर काट रहे हैं.", "hypothesis": "Baadhi ya maeneo hayo yana shughuli nyingi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान निगम हैं.", "hypothesis": "Wakulima fulani ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े भोजन कर रहे हैं.", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी तकनीक हैं.", "hypothesis": "Hakuna wawindaji wa mazimwi ni tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जाति हैं ।", "hypothesis": "Wanasayansi fulani ni spishi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर उपकरणों हैं.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर जीव हैं.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स मशीनों हैं.", "hypothesis": "Mashine fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन मशीनों हैं।", "hypothesis": "Hakuna vipande vya mbao vilivyo kama mashini.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आबलिन उपकरण हैं।", "hypothesis": "Hakuna mikahawa ambayo ina vifaa vya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर जीव हैं.", "hypothesis": "Baadhi ya viumbe ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी जाति हैं.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार वस्तुओं के हैं.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े जानवर हैं.", "hypothesis": "Baadhi ya mashujaa ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी काररोट्स वाहन हैं.", "hypothesis": "Magari mengine ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर भोजन कर रहे हैं.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर संरचनाएँ हैं.", "hypothesis": "Baadhi ya nyumba hizo ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गोबोलिन योद्धाओं हैं.", "hypothesis": "Baadhi ya wapiganaji ni wanyang'anyi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी हथियार हैं.", "hypothesis": "Baadhi ya wawindaji ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट संरचनाएँ हैं.", "hypothesis": "Hakuna karoti zilizojengwa kwa muundo wa karoti.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू प्रतीक हैं.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर काम कर रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान संरचनाएँ हैं.", "hypothesis": "Wakulima fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों वाहन हैं.", "hypothesis": "Hakuna askari - jeshi walio magari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर जीव हैं.", "hypothesis": "Hakuna kompyuta zilizo hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को सेना हैं।", "hypothesis": "Baadhi ya karoti ni kani.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े उपकरण हैं.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स पेशेवर हैं.", "hypothesis": "Hakuna waokaji walio wataalamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक उपकरण हैं ।", "hypothesis": "Wanasayansi fulani ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी . . . . . . . . . . . .", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों निगम हैं.", "hypothesis": "Mashirika fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह जीव हैं.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी जानवर हैं ।", "hypothesis": "Wanyama fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर सब्जियां हैं.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन बुद्धि हैं.", "hypothesis": "Hakuna watu wanaowasiliana na pepo ambao wana akili nyingi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रुपये उपकरण हैं.", "hypothesis": "Baadhi ya karoti ni vifaa vya kuchezea.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह तकनीक हैं.", "hypothesis": "Hakuna opago ni tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर मनुष्य हैं.", "hypothesis": "Wanadamu fulani ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी वाहन हैं.", "hypothesis": "Baadhi ya magari ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट जाति हैं.", "hypothesis": "Baadhi ya karoti ni aina ya ndege.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक शक्‍तिशाली हैं ।", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स उपकरण हैं.", "hypothesis": "Baadhi ya waokaji ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर योद्धाओं हैं.", "hypothesis": "Kompyuta fulani ni wapiganaji.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी मशीनों हैं.", "hypothesis": "Hakuna wageni walio na mashini.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना खाने वाले राक्षस हैं.", "hypothesis": "Baadhi ya wanyama wakubwa ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गोबोलिन लोग हैं।", "hypothesis": "Wengine ni viumbe wa blibli.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स संरचनाएँ हैं.", "hypothesis": "Hakuna majoka ambayo ni majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक जानवर हैं.", "hypothesis": "Hakuna askari - jeshi walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपीय वाहन हैं.", "hypothesis": "Hakuna wapishi walio na magari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी समझदार हैं ।", "hypothesis": "Akili fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक संरचनाएँ हैं ।", "hypothesis": "Baadhi ya majengo hayo ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी राजकुमारी वस्तुएँ हैं.", "hypothesis": "Hakuna wapishi walio vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान काम कर रहे हैं.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर धारणाएँ हैं.", "hypothesis": "Hakuna wachawi walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभीख़ुदा के योद्धा हैं।", "hypothesis": "Wapishi fulani ni mashujaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर जानवर हैं.", "hypothesis": "Wanyama fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जानवर हैं ।", "hypothesis": "Walimu fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दोस्त बातें कर रहे हैं.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स बुद्धि हैं.", "hypothesis": "Baadhi ya waokaji ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर पेशेवर हैं.", "hypothesis": "Madaktari fulani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मशालों काल्पनिक हैं.", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी बातें कर रहे हैं.", "hypothesis": "Mambo fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सब्ज़ियाँ हैं.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े पेशेवर हैं.", "hypothesis": "Baadhi ya mashujaa ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू बातें हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स प्राणी हैं.", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार भूमिका निभाते हैं ।", "hypothesis": "Wanamuziki fulani ni washiriki.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स संरचनाएँ हैं.", "hypothesis": "Baadhi ya vyombo hivyo ni visao vya kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची चिह्न हैं.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स राक्षस हैं.", "hypothesis": "Hakuna waokaji walio madubwana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों वस्तुएँ हैं.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों के पास अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विक्रेता भोजन कर रहे हैं.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वाहन हैं.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार उपकरण हैं.", "hypothesis": "Hakuna wanamuziki walio na vifaa vya kuchezea.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक प्रतीक हैं ।", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स चक्कर काट रहे हैं.", "hypothesis": "Baadhi ya waokaji ni wafanyakazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जानवर हैं.", "hypothesis": "Hakuna waokaji walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक यंत्र हैं.", "hypothesis": "Hakuna wanasayansi walio vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मुर्गीएं सब्ज़ियाँ हैं.", "hypothesis": "Hakuna wapishi walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार्य हैं.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी स्वादिष्ट प्राणी हैं.", "hypothesis": "Hakuna wapishi walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान उपकरण हैं.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार तकनीक हैं.", "hypothesis": "Hakuna wavumbuzi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू निगम हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर जानवरों हैं.", "hypothesis": "Wanyama fulani ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों हैं.", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान भोजन कर रहे हैं.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी धारणाएँ हैं.", "hypothesis": "Hakuna mgeni yeyote aliye na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी मनुष्य हैं.", "hypothesis": "Wanafunzi fulani ni wahai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों की भूमिका होती है ।", "hypothesis": "Hakuna askari - jeshi walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी अक्षर हैं.", "hypothesis": "Hakuna wanafunzi walio wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वाहन हैं.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर काल्पनिक हैं.", "hypothesis": "Baadhi ya hekaya ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स समझदार हैं.", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक भोजन हैं ।", "hypothesis": "Baadhi ya vyakula hivyo ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन बातें हैं.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी प्राणी हैं.", "hypothesis": "Baadhi ya wawindaji ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर संरचना हैं.", "hypothesis": "Hakuna juhabahari ni majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर योद्धाओं हैं.", "hypothesis": "Baadhi ya wapiganaji ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स उपकरण हैं.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जीव हैं.", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni vicheshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू भोजन हैं.", "hypothesis": "Vyakula fulani ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को चिह्न हैं.", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार अक्षरों हैं.", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी स्वादिष्ट प्राणी हैं.", "hypothesis": "Viumbe fulani ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों संरचनाएँ हैं.", "hypothesis": "Majengo fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर अक्षर हैं.", "hypothesis": "Tumbili fulani ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार विचार हैं.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मनुष्य हैं ।", "hypothesis": "Wanadamu fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी मनुष्य हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio binadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी स्वादिष्ट प्राणी हैं.", "hypothesis": "Wapishi fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक व्यापार कर रहे हैं.", "hypothesis": "Walimu fulani wanafanya kazi mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी समझदार हैं ।", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस प्राणी हैं.", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जीव हैं.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार चिह्न हैं.", "hypothesis": "Baadhi ya alama hizo ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू अक्षर हैं.", "hypothesis": "Hakuna maharamia wanaohusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी प्राणी हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी मनुष्य हैं.", "hypothesis": "Baadhi ya watu ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जीव हैं.", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसर्स उपकरण हैं.", "hypothesis": "Hakuna dinosa walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक बातें कर रहे हैं.", "hypothesis": "Hakuna askari - jeshi walio mambo hayo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों हैं.", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू पेशेवर हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत विचार हैं.", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को मनुष्य हैं.", "hypothesis": "Baadhi ya karoti ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स समझदार हैं.", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस व्यापार कर रहे हैं.", "hypothesis": "Baadhi ya wapelelezi wana shughuli mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े धारणाएँ हैं.", "hypothesis": "Baadhi ya mashujaa ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर लोग हैं.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी काम कर रहे हैं.", "hypothesis": "Baadhi ya dinosa ni mali yao.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत प्राणी हैं.", "hypothesis": "Viumbe fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स सेना हैं.", "hypothesis": "Baadhi ya nguvu hizo ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस जाति हैं.", "hypothesis": "Hakuna wapelelezi walio wa aina mbalimbali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी औज़ार हैं.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स प्राणी हैं।", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट जानवर हैं.", "hypothesis": "Baadhi ya karoti ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर जानवरों हैं.", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत बुद्धि हैं.", "hypothesis": "Baadhi ya zombi ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर प्राणी हैं.", "hypothesis": "Na wachawi hawatakuwa na kiumbe yeyote.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी यंत्र हैं.", "hypothesis": "Baadhi ya wageni ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों मनुष्य हैं.", "hypothesis": "Ng'ombe fulani ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को भोजन मिलता है ।", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर अक्षर हैं.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायें सब्ज़ियाँ हैं.", "hypothesis": "Hakuna ng'ombe walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स निगम हैं.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर यंत्र हैं.", "hypothesis": "Baadhi ya ala hizo ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स निगम हैं.", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी समझदार हैं ।", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर चिह्न हैं.", "hypothesis": "Hakuna tumbili walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स यंत्र हैं.", "hypothesis": "Baadhi ya vyombo ni visao vya kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सब्ज़ियाँ हैं.", "hypothesis": "Hakuna juhabahari walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर भोजन कर रहे हैं.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार उपकरण हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni vya rangi mbalimbali.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत तकनीक हैं.", "hypothesis": "Mizuka fulani ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स मानव हैं.", "hypothesis": "Wanadamu fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी कल्पना कर रहे हैं.", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू जीव हैं.", "hypothesis": "Maharamia fulani ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों उपकरण हैं.", "hypothesis": "Baadhi ya askari - jeshi ni vifaa vya kutumiwa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स जानवरों हैं.", "hypothesis": "Dragoni wengine ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी उपकरण हैं.", "hypothesis": "Hakuna mgeni aliye na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू योद्धाओं हैं.", "hypothesis": "Hakuna maharamia walio mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को वाहन हैं.", "hypothesis": "Magari fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दोस्त लोग हैं.", "hypothesis": "Baadhi ya watu ni watumishi wa nyumbani.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर अक्षर हैं.", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार वाहन हैं.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जड़ी - बूटियों की जाति होती है ।", "hypothesis": "Aina fulani za wanyama ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जड़ी - बूटियों की जाति होती है ।", "hypothesis": "Baadhi ya dinosa ni jamii za wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीप मनुष्य हैं.", "hypothesis": "Wanadamu fulani ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार संरचनाएँ हैं.", "hypothesis": "Hakuna wavumbuzi walio na majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर अक्षर हैं.", "hypothesis": "Hakuna kompyuta zinazoigiza.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स अक्षर हैं.", "hypothesis": "Baadhi ya waokaji ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर यंत्र हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार उपकरण हैं.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान जानवरों हैं.", "hypothesis": "Hakuna wakulima walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक पेशेवर हैं.", "hypothesis": "Baadhi ya askari - jeshi ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीप तकनीक हैं।", "hypothesis": "Tekinolojia fulani ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स उपकरण हैं.", "hypothesis": "Hakuna roboti zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर उपकरण हैं.", "hypothesis": "Hakuna vyombo vya uchawi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स संरचनाएँ हैं.", "hypothesis": "Majengo fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी मनुष्य हैं.", "hypothesis": "Wanadamu fulani ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस मनुष्य हैं.", "hypothesis": "Hakuna wapelelezi walio wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस राक्षस हैं.", "hypothesis": "Wapelelezi fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी पेशेवर हैं.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार अक्षरों हैं.", "hypothesis": "Hakuna wachoraji wanaoigiza.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत उपकरण हैं.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मनुष्य हैं ।", "hypothesis": "Wanasayansi fulani ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी वाहन हैं.", "hypothesis": "Wanafunzi fulani ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े वस्तुओं की हैं.", "hypothesis": "Baadhi ya mashujaa ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विशेषज्ञ पेशेवर हैं.", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची प्राणी हैं.", "hypothesis": "Hakuna wavumbuzi walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची जाति हैं.", "hypothesis": "Baadhi ya wavumbuzi ni spishi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी समझदार हैं ।", "hypothesis": "Hakuna wanafunzi walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार समझ रहे हैं.", "hypothesis": "Hakuna wachoraji walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी निगम हैं.", "hypothesis": "Baadhi ya wanafunzi ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी सब्ज़ियाँ हैं ।", "hypothesis": "Hakuna wanafunzi walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार उपकरण हैं.", "hypothesis": "Hakuna wapaka - rangi walio na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस समझदार हैं.", "hypothesis": "Wapelelezi fulani ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू राक्षस हैं.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबोट योद्धा हैं.", "hypothesis": "Roboti fulani ni wapiganaji.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बातें कर रहे हैं.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार मनुष्य हैं.", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक धारणाएँ हैं ।", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स वस्तुएँ हैं.", "hypothesis": "Baadhi ya waokaji ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार तकनीक हैं.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक भूमिका निभाते हैं ।", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत उपकरण हैं.", "hypothesis": "Baadhi ya zombi ni vyombo vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत जीव हैं.", "hypothesis": "Hakuna zombies ambao ni viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस सिस्टम हैं.", "hypothesis": "Mifumo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स प्राणी हैं।", "hypothesis": "Dragoni wengine ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार सेना हैं.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार मनुष्य हैं.", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गोब्रिनलिन प्राणी हैं।", "hypothesis": "Hakuna viumbe wanaotoweka katika eneo hilo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जाति हैं ।", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक वैज्ञानिक वैज्ञानिक हैं ।", "hypothesis": "Tekinolojia fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर वाहन हैं.", "hypothesis": "Hakuna wachawi wanaoendesha magari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत प्राणी हैं.", "hypothesis": "Mizuka fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स मनुष्य हैं.", "hypothesis": "Roboti fulani zina uhai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी merruts प्रजाति हैं.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स सेना हैं.", "hypothesis": "Baadhi ya majoka ni nguvu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को सेना हैं।", "hypothesis": "Nguvu nyingine ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर लोग हैं.", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस समझदार हैं.", "hypothesis": "Hakuna wapelelezi walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर चिह्न हैं.", "hypothesis": "Tumbili fulani ni mifano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी सब्ज़ियाँ हैं.", "hypothesis": "Hakuna wageni walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी प्राणी हैं.", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान भूमिका निभाते हैं ।", "hypothesis": "Hakuna wakulima wanaotimiza majukumu yao.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक अक्षर हैं ।", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसर अक्षर हैं.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर जानवरों हैं.", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान भोजन कर रहे हैं.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स प्राणी हैं.", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू उपकरण हैं.", "hypothesis": "Baadhi ya maharamia ni vifaa vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ईमानवाले योद्धा हैं.", "hypothesis": "Hakuna karoti zilizo mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक व्यवस्थाएँ हैं ।", "hypothesis": "Mifumo fulani ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी कल्पना कर रहे हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी क्षेत्रों के काम कर रहे हैं.", "hypothesis": "Hakuna mtu anayefanya kazi za mikono.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस अक्षर हैं.", "hypothesis": "Hakuna wapelelezi walio wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी अक्षर हैं.", "hypothesis": "Watu fulani ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीप तकनीक हैं।", "hypothesis": "Hakuna wapishi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रकार के निशान हैं.", "hypothesis": "Hakuna opeo zilizo alama za mfano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस मशीनों हैं.", "hypothesis": "Hakuna wapelelezi walio mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची जानवरों हैं.", "hypothesis": "Wanyama fulani ni wavumbuzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबोट चक्कर काट रहे हैं.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स बातें कर रहे हैं.", "hypothesis": "Hakuna waokaji ni vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत राक्षस हैं.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वेश्याएं सब्ज़ियाँ हैं.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक समझदार हैं ।", "hypothesis": "Hakuna wanasayansi walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत सिस्टम हैं.", "hypothesis": "Mifumo fulani ni mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सभ्यताएँ हैं.", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को वितरित कर रहे हैं.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स सब्जियां हैं.", "hypothesis": "Baadhi ya mboga ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत सेना हैं.", "hypothesis": "Mizombi fulani ni kani.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी जाति हैं ।", "hypothesis": "Baadhi ya wanafunzi ni aina.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार तकनीक हैं.", "hypothesis": "Wanamuziki fulani ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी योद्धाओं हैं.", "hypothesis": "Hakuna dinosa walio mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर जाति हैं.", "hypothesis": "Baadhi ya madaktari ni aina.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू प्रतीक हैं.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार उपकरण हैं.", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसर अक्षर हैं.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत अक्षर हैं.", "hypothesis": "Mizuka fulani ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स प्रतीक हैं.", "hypothesis": "Ishara nyingine ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस बातें कर रहे हैं.", "hypothesis": "Baadhi ya wapelelezi ni mambo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह जीव हैं.", "hypothesis": "Baadhi ya viumbe ni ogre.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी पेशेवर हैं.", "hypothesis": "Hakuna mgeni aliye stadi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी बातें कर रहे हैं.", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार प्राणी हैं.", "hypothesis": "Wanamuziki fulani ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह तकनीक हैं.", "hypothesis": "Tekinolojia fulani zina kasoro fulani.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी व्यवस्थाएँ हैं।", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को समझ रहे हैं.", "hypothesis": "Akili fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स धारणाएँ हैं.", "hypothesis": "Mawazo fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स प्राणी हैं.", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों की वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी उपकरण हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio kama vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आंकड़े मनुष्य हैं.", "hypothesis": "Baadhi ya ogres ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी वाहन हैं.", "hypothesis": "Baadhi ya wageni ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी zamams सब्ज़ियाँ हैं.", "hypothesis": "Maua fulani ya zombies ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह जीव हैं.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya wanafunzi ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस औज़ार हैं.", "hypothesis": "Baadhi ya vifaa ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक मशीनों हैं.", "hypothesis": "Walimu fulani ni mashine.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी निगम हैं.", "hypothesis": "Hakuna mashirika ya kigeni.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन उपकरण हैं.", "hypothesis": "Hakuna kitu chochote kinachoweza kutumiwa kutengeneza dawa za kulevya.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrutas काल्पनिक हैं.", "hypothesis": "Hakuna watunza - farasi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक धारणाएँ हैं ।", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चकमक राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स समझदार हैं.", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बम सेना हैं.", "hypothesis": "Hakuna watu wanaoitwa ogre.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी तकनीक हैं.", "hypothesis": "Hakuna dinosa walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर संरचनाएँ हैं.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी जाल कर रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान जानवरों हैं.", "hypothesis": "Wakulima fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक अक्षर होते हैं ।", "hypothesis": "Wahusika fulani ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस जाति हैं.", "hypothesis": "Baadhi ya wapelelezi ni aina.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत मशीनों हैं.", "hypothesis": "Hakuna mazimwi ni mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर मनुष्य हैं.", "hypothesis": "Tumbili fulani ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी भोजन कर रहे हैं.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े मनुष्य हैं.", "hypothesis": "Baadhi ya watu hao ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार खंड हैं.", "hypothesis": "Hakuna wapaka - rangi walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स सेना हैं.", "hypothesis": "Hakuna waokaji walio na nguvu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चिह्न सिस्टम हैं.", "hypothesis": "Mifumo fulani ni watunza - farasi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दानव राक्षस हैं.", "hypothesis": "Baadhi ya wanyama wakubwa ni ogres.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी वाहन हैं.", "hypothesis": "Hakuna mgeni yeyote aliye na magari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर प्राणी हैं.", "hypothesis": "Viumbe fulani ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी सब्ज़ियाँ हैं ।", "hypothesis": "Baadhi ya wanafunzi ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक मशीनों हैं.", "hypothesis": "Hakuna walimu walio mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी निगम हैं.", "hypothesis": "Mashirika fulani ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत तकनीक हैं।", "hypothesis": "Tekinolojia fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत सिस्टम हैं.", "hypothesis": "Hakuna mifumo ya zombi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों मशीनों हैं.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार वाहन हैं.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मेंढक सब्ज़ियाँ हैं.", "hypothesis": "Nogres ni mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी arowaks योद्धाओं हैं.", "hypothesis": "Baadhi ya watunza - farasi ni mashujaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट जाति हैं.", "hypothesis": "Hakuna karoti za aina hiyo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार्य हैं.", "hypothesis": "Mawazo fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya majukumu hayo ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर उपकरणों हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni vya kuchekesha.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी धारणाएँ हैं.", "hypothesis": "Baadhi ya wageni ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन भूमिका निभा रहे हैं.", "hypothesis": "Baadhi ya majukumu ni ya wizi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर व्यापार कर रहे हैं.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना पहुँचाने के लिए साधन हैं.", "hypothesis": "Baadhi ya dinosa ni ala za muziki.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर उपकरण हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गोबोलिन लोग हैं।", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर चीज़ें हैं.", "hypothesis": "Hakuna wachawi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत विचार हैं.", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक प्राणी हैं ।", "hypothesis": "Baadhi ya viumbe ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदरों की संरचनाएं हैं.", "hypothesis": "Nyani fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत मशीनों हैं.", "hypothesis": "Mashine fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपीय वाहन हैं.", "hypothesis": "Magari fulani ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े भोजन कर रहे हैं.", "hypothesis": "Hakuna mashujaa walio vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों की धारणाएँ हैं।", "hypothesis": "Baadhi ya karoti ni dhana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों राक्षस हैं.", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स अक्षर हैं.", "hypothesis": "Dragoni wengine ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों की भूमिका होती है।", "hypothesis": "Baadhi ya karoti huwa na madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी zamams सब्ज़ियाँ हैं.", "hypothesis": "Hakuna mboga za zombi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार भूमिकाएँ हैं.", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सभ्यताएँ हैं.", "hypothesis": "Majengo fulani ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े भोजन कर रहे हैं.", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विक्रेता भोजन कर रहे हैं.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जंगली जानवर हैं.", "hypothesis": "Wanyama fulani ni ogres.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर मानसिक हैं.", "hypothesis": "Hakuna madaktari walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स मशीनों हैं.", "hypothesis": "Baadhi ya waokaji ni mashine.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को भोजन मिलता है ।", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी भोजन कर रहे हैं ।", "hypothesis": "Vyakula fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर पेशेवर हैं.", "hypothesis": "Tumbili fulani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार सेना हैं.", "hypothesis": "Wanamuziki fulani ni nguvu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी स्वादिष्ट जानवर हैं.", "hypothesis": "Wapishi fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत जीव हैं.", "hypothesis": "Hakuna mazimwi ni viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को नौकरी मिल रही है.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार विचार हैं.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर जाति हैं.", "hypothesis": "Baadhi ya wachawi ni aina za viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत संरचनाएँ हैं.", "hypothesis": "Mizuka fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक बातें कर रहे हैं ।", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स प्रजाति हैं.", "hypothesis": "Roboti fulani ni aina mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस सेना हैं.", "hypothesis": "Hakuna wapelelezi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े सब्ज़ियाँ हैं.", "hypothesis": "Hakuna mashujaa walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सेना हैं.", "hypothesis": "Baadhi ya nguvu hizo ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya majukumu ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े प्राणी हैं.", "hypothesis": "Viumbe fulani ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन भूमिका निभा रहे हैं.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर संरचनाएँ हैं.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी व्यवस्थाएँ हैं।", "hypothesis": "Wapishi fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत हथियार हैं.", "hypothesis": "Mizuka fulani ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी प्राणी हैं.", "hypothesis": "Baadhi ya viumbe ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची वाहन हैं.", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स चक्कर काट रहे हैं.", "hypothesis": "Hakuna waokaji walio na kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक प्राणी हैं ।", "hypothesis": "Viumbe fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार मनुष्य हैं.", "hypothesis": "Baadhi ya wachoraji ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बम मशीनों हैं.", "hypothesis": "Hakuna tabi ni mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर मशीनों हैं.", "hypothesis": "Baadhi ya wachawi ni mashine.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक सब्ज़ियाँ हैं ।", "hypothesis": "Hakuna walimu walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत हथियार हैं.", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बुद्धि हैं.", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की धारणाएँ हैं.", "hypothesis": "Mawazo fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी तकनीक हैं.", "hypothesis": "Tekinolojia fulani ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार योद्धा हैं.", "hypothesis": "Baadhi ya mashujaa wa vita ni wavumbuzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर सेना हैं.", "hypothesis": "Hakuna nguvu za uchawi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी bances अक्षर हैं.", "hypothesis": "Wapishi fulani ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस योद्धाओं हैं.", "hypothesis": "Hakuna wapelelezi walio mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सब्ज़ियाँ हैं.", "hypothesis": "Wachekeshaji wengine ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह चीजें हैं.", "hypothesis": "Hakuna opago ni vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक अक्षर हैं ।", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर यंत्र हैं.", "hypothesis": "Hakuna madaktari walio vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya madaktari wana madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार मशीनों हैं.", "hypothesis": "Mashine nyingine ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी अक्षर हैं.", "hypothesis": "Baadhi ya wageni ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत पेशेवर हैं.", "hypothesis": "Mizuka fulani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों राक्षस हैं.", "hypothesis": "Baadhi ya wanyama wakubwa ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों समझ रहे हैं.", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन चक्कर काट रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni za wizi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रकार के उपकरण हैं.", "hypothesis": "Baadhi ya vifaa hivyo vinaitwa ogres.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बातें कर रहे हैं.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर राक्षस हैं.", "hypothesis": "Hakuna tumbili walio wakali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार उपकरण हैं.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू राक्षस हैं.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत बातें कर रहे हैं.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स राक्षस हैं.", "hypothesis": "Hakuna majoka ambao ni madubwana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वेश्याएं सब्ज़ियाँ हैं.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों प्रतीक हैं.", "hypothesis": "Askari - jeshi fulani ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान सेना हैं.", "hypothesis": "Hakuna nguvu za wakulima.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक भूमिका निभाते हैं ।", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विक्रेता भोजन कर रहे हैं.", "hypothesis": "Hakuna ogre ni vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर वस्तुएँ हैं.", "hypothesis": "Hakuna mazingaombwe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स भूमिका अदा करते हैं.", "hypothesis": "Hakuna waokaji walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत बातें कर रहे हैं.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर प्राणी हैं.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक वैज्ञानिक वैज्ञानिक हैं ।", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट प्राणी हैं.", "hypothesis": "Baadhi ya karoti ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स योद्धाओं हैं.", "hypothesis": "Hakuna waokaji walio mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी योद्धा हैं.", "hypothesis": "Baadhi ya wanafunzi ni wapiganaji.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना खाने वाले जीव हैं.", "hypothesis": "Hakuna dinosa ambao ni viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जीव हैं.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स तकनीक हैं।", "hypothesis": "Tekinolojia fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दोस्त भूमिका निभा रहे हैं.", "hypothesis": "Hakuna watunza - farasi walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वेश्याएं सब्ज़ियाँ हैं.", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mboga ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी होती हैं.", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दोस्त भूमिका निभा रहे हैं.", "hypothesis": "Baadhi ya watumishi wa nyumbani hutimiza majukumu yao.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मरियमएं काल्पनिक हैं.", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrutas काल्पनिक हैं.", "hypothesis": "Baadhi ya ngano ni watunza - farasi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक जीव हैं.", "hypothesis": "Hakuna askari - jeshi walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू सब्ज़ियाँ हैं.", "hypothesis": "Maharamia fulani ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान उपकरण हैं.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक धारणाएँ हैं ।", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक चीज़ें हैं ।", "hypothesis": "Wanasayansi fulani ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान भोजन कर रहे हैं.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी सब्जियां हैं.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार मनुष्य हैं.", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स धारणाएँ हैं.", "hypothesis": "Hakuna majoka walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी पेशेवर हैं.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर मनुष्य हैं.", "hypothesis": "Kompyuta fulani zina uhai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी arowakaks औज़ार हैं.", "hypothesis": "Baadhi ya wafanyakazi ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर यंत्र हैं.", "hypothesis": "Baadhi ya vifaa ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बातें कर रहे हैं.", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस जानवर हैं.", "hypothesis": "Wapelelezi fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर उपकरण हैं.", "hypothesis": "Hakuna wachawi walio na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक समझदार हैं ।", "hypothesis": "Hakuna walimu walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर संरचनाएँ हैं.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी भोजन कर रहे हैं.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर जाति हैं.", "hypothesis": "Spishi fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चिह्न सिस्टम हैं.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर अक्षर हैं.", "hypothesis": "Kompyuta fulani ni herufi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों जानवर हैं.", "hypothesis": "Wanyama fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी जाति हैं.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मेरशी पेशेवर हैं.", "hypothesis": "Hakuna watunza - anasa walio stadi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर निगम हैं.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत काम कर रहे हैं.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार तकनीक हैं.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स संरचनाएँ हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स प्राणी हैं.", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर अक्षर हैं.", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत भूमिका निभाते हैं.", "hypothesis": "Mizuka fulani ni wajibu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार पेशेवर हैं.", "hypothesis": "Wanamuziki fulani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर प्राणी हैं.", "hypothesis": "Viumbe fulani ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर वस्तुओं के हैं.", "hypothesis": "Vitu fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स सिस्टम हैं.", "hypothesis": "Mifumo fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी होती हैं.", "hypothesis": "Hakuna wapishi walio na majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपीय धारणाएँ हैं.", "hypothesis": "Hakuna wapishi walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी मशीनों हैं.", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स बुद्धि हैं.", "hypothesis": "Hakuna waokaji walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर सेना हैं.", "hypothesis": "Nyani fulani huwa na nguvu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस व्यापार कर रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान सिस्टम हैं.", "hypothesis": "Mifumo fulani ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान उपकरण हैं.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ब्लॉलिन्जियाँ हैं.", "hypothesis": "Baadhi ya mboga ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर चीज़ें हैं.", "hypothesis": "Vitu fulani ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स भूमिका अदा करते हैं.", "hypothesis": "Baadhi ya kazi hizo ni kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जीव हैं ।", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान समझदार हैं.", "hypothesis": "Baadhi ya wataalamu ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक तकनीक हैं.", "hypothesis": "Hakuna walimu walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर उपकरण हैं.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मनुष्य हैं ।", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी सब्जियां हैं.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक समझदार हैं ।", "hypothesis": "Baadhi ya watu wenye akili ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी व्यवस्थाएँ हैं।", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर सब्जियां हैं.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों मशीनों हैं.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबोट चक्कर काट रहे हैं.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स वस्तुएँ हैं.", "hypothesis": "Hakuna drakoni walio vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी प्रतीक हैं.", "hypothesis": "Ishara fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मरियमएं काल्पनिक हैं.", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार चिह्न हैं.", "hypothesis": "Ishara nyingine ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी संरचनाएँ हैं.", "hypothesis": "Hakuna dinosa ambao ni majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी हथियार हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जानवर हैं ।", "hypothesis": "Wanasayansi fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची व्यवस्थाएँ हैं.", "hypothesis": "Hakuna wabuni walio na mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को वितरित कर रहे हैं.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों राक्षस हैं.", "hypothesis": "Hakuna ng'ombe walio wakali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों की वस्तुएँ हैं.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची उपकरण हैं.", "hypothesis": "Hakuna wavumbuzi walio na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक शक्‍तिशाली हैं ।", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बुद्धि हैं.", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े मनुष्य हैं.", "hypothesis": "Hakuna mashujaa walio wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर चिह्न हैं.", "hypothesis": "Ishara fulani ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर तकनीक हैं.", "hypothesis": "Nyani fulani ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार अक्षरों हैं.", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जानवर हैं.", "hypothesis": "Wanyama fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार संरचनाएँ हैं.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स निगम हैं.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू जाति हैं.", "hypothesis": "Kuna aina fulani za maharamia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जीव हैं ।", "hypothesis": "Hakuna wanasayansi ambao ni viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर उपकरण हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni nyani.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक बातें कर रहे हैं.", "hypothesis": "Mambo fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर योद्धाओं हैं.", "hypothesis": "Tumbili fulani ni wapiganaji.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक काल्पनिक हैं.", "hypothesis": "Hakuna wanasayansi walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत जानवर हैं.", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी योद्धाओं हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio mashujaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सचिव पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को चिह्न हैं.", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrakakas अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni wanasarakasi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस धारणाएँ हैं.", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर जीव हैं ।", "hypothesis": "Madaktari fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी जीव हैं.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मेरशी पेशेवर हैं.", "hypothesis": "Baadhi ya watumishi wa nyumbani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर संरचनाएँ हैं.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मनुष्य हैं ।", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को बुद्धि हैं.", "hypothesis": "Hakuna karoti zilizo na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को बुद्धि हैं.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Maharamia fulani ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान समझदार हैं.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत अक्षर हैं.", "hypothesis": "Hakuna mazimwi ni wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर उपकरण हैं.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी तकनीक हैं.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स उपकरण हैं.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी यंत्र हैं.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार मनुष्य हैं.", "hypothesis": "Hakuna wavumbuzi walio wanadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mashujaa ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर सिस्टम हैं.", "hypothesis": "Mifumo fulani ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस जानवर हैं.", "hypothesis": "Wanyama fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू बुद्धि हैं.", "hypothesis": "Hakuna maharamia walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान सब्ज़ियाँ हैं.", "hypothesis": "Wakulima fulani ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू व्यापार कर रहे हैं.", "hypothesis": "Hakuna maharamia wanaofanya kazi hiyo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स राक्षस हैं.", "hypothesis": "Baadhi ya waokaji ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी वस्तुएँ हैं.", "hypothesis": "Hakuna mgeni aliye vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े चिह्न हैं.", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत उपकरण हैं.", "hypothesis": "Hakuna zombi ni zana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसर्स काल्पनिक हैं.", "hypothesis": "Baadhi ya dinosa ni hekaya.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स यंत्र हैं.", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी यंत्र हैं.", "hypothesis": "Hakuna mgeni aliye ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत प्राणी हैं.", "hypothesis": "Baadhi ya zombi ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी मनुष्य हैं.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू प्रतीक हैं.", "hypothesis": "Ishara fulani ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार प्राणी हैं.", "hypothesis": "Hakuna wanamuziki walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को बुद्धि हैं.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक निगम हैं ।", "hypothesis": "Hakuna wanasayansi walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस जीव हैं.", "hypothesis": "Hakuna wapelelezi walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार जीव हैं.", "hypothesis": "Hakuna wachoraji walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट चीज़ें हैं.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी मशीनों हैं.", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान तकनीक हैं।", "hypothesis": "Wakulima fulani ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी राजकुमारी बातें कर रहे हैं.", "hypothesis": "Hakuna wapishi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े औज़ार हैं.", "hypothesis": "Baadhi ya vyombo ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर उपकरण हैं.", "hypothesis": "Hakuna juhabahari ni vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर सिस्टम हैं.", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर मशीनों हैं.", "hypothesis": "Mashine fulani ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार तकनीक हैं.", "hypothesis": "Tekinolojia fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर निगम हैं.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार वस्तुओं के हैं.", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू व्यापार कर रहे हैं.", "hypothesis": "Baadhi ya maharamia hufanya kazi mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जाति हैं.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान पेशेवर होते हैं ।", "hypothesis": "Wataalamu fulani ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों काल्पनिक हैं.", "hypothesis": "Baadhi ya ng'ombe ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक जाति हैं ।", "hypothesis": "Spishi fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार सेना हैं.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार कल्पना कर रहे हैं.", "hypothesis": "Hakuna wachoraji walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान भोजन कर रहे हैं.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर वस्तुएँ हैं.", "hypothesis": "Hakuna madaktari walio vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस निगम हैं.", "hypothesis": "Mashirika fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू निगम हैं.", "hypothesis": "Mashirika fulani ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर जानवरों हैं.", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत बातें कर रहे हैं.", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक भोजन हैं ।", "hypothesis": "Wanasayansi fulani ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर जाति हैं.", "hypothesis": "Kompyuta fulani ni aina.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी सिस्टम हैं.", "hypothesis": "Baadhi ya wawindaji ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मशालों काल्पनिक हैं.", "hypothesis": "Baadhi ya ngano ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आंकड़े मनुष्य हैं.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी दल कर रहे हैं.", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक वैज्ञानिक वैज्ञानिक हैं ।", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर पेशेवर हैं.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची वाहन हैं.", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची उपकरण हैं.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत मशीनों हैं.", "hypothesis": "Hakuna zombi za mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत भोजन कर रहे हैं.", "hypothesis": "Vyakula fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya madaktari ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर भूमिकाएँ हैं.", "hypothesis": "Baadhi ya madaraka ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान जीव हैं.", "hypothesis": "Hakuna wakulima ambao ni viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को चिह्न हैं.", "hypothesis": "Hakuna ng'ombe walio mifano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की युक्ति होती है.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मध्यम अक्षर हैं.", "hypothesis": "Hakuna karoti zinazoigiza.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी राजकुमारी उपकरण हैं.", "hypothesis": "Wapishi fulani ni vyombo vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस धारणाएँ हैं.", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची चिह्न हैं.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी उपकरण हैं.", "hypothesis": "Hakuna mgeni anayetumia vifaa hivyo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को वाहन हैं.", "hypothesis": "Baadhi ya ng'ombe ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी जाति हैं.", "hypothesis": "Hakuna ndege kutoka nchi nyingine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों काल्पनिक हैं.", "hypothesis": "Hakuna ng'ombe walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार संरचनाएँ हैं.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत भोजन कर रहे हैं.", "hypothesis": "Mizuka fulani ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस चिह्न हैं.", "hypothesis": "Wapelelezi fulani ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर मनुष्य हैं.", "hypothesis": "Baadhi ya wachawi ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी औजार हैं.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni vifaa vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार योद्धा हैं.", "hypothesis": "Wanamuziki fulani ni wapiganaji.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर खंड हैं.", "hypothesis": "Mashirika fulani ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक यंत्र हैं.", "hypothesis": "Walimu fulani ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर पेशेवर हैं.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी संरचनाएं कर रहे हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio na maumbo kama hayo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार अक्षर हैं.", "hypothesis": "Hakuna wanamuziki walio wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक सिस्टम हैं.", "hypothesis": "Hakuna askari - jeshi walio mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान मनुष्य हैं.", "hypothesis": "Wakulima fulani ni wanadamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स वस्तुएँ हैं.", "hypothesis": "Hakuna roboti zilizo vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों प्रतीक हैं.", "hypothesis": "Ishara fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर धारणाएँ हैं.", "hypothesis": "Tumbili fulani ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni wavumbuzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी संरचनाएं कर रहे हैं.", "hypothesis": "Majengo fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स उपकरण हैं.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस संरचनाएँ कर रहे हैं.", "hypothesis": "Hakuna wapelelezi walio na majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रौदक धारणाएँ हैं.", "hypothesis": "Hakuna waombolezaji walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू भूमिका अदा करते हैं.", "hypothesis": "Baadhi ya majukumu ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू जानवरों हैं.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स भूमिका अदा करते हैं.", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर प्राणी हैं.", "hypothesis": "Hakuna tumbili walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी बुद्धि हैं.", "hypothesis": "Baadhi ya watu wenye akili ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस प्राणी हैं.", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची चिह्न हैं.", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत प्राणी हैं.", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी merruts संरचनाएँ हैं.", "hypothesis": "Hakuna watumishi wa nyumbani walio na majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों संरचनाएँ हैं.", "hypothesis": "Hakuna askari - jeshi walio majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी राजकुमारी बातें कर रहे हैं.", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार यंत्र हैं.", "hypothesis": "Hakuna wanamuziki walio ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची व्यवस्थाएँ हैं.", "hypothesis": "Mifumo fulani ni wabuni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत काम कर रहे हैं.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार समझ रहे हैं.", "hypothesis": "Hakuna wanamuziki walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपीय सेनाओं कर रहे हैं.", "hypothesis": "Baadhi yao ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत पेशा कर रहे हैं.", "hypothesis": "Hakuna zombi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya wavumbuzi ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrakakas अक्षर हैं.", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना - पीना पेशेवर होते हैं ।", "hypothesis": "Hakuna dinosa walio wataalamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जानवर हैं ।", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स मशीनों हैं.", "hypothesis": "Mashine fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सिस्टम हैं.", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक समझदार हैं ।", "hypothesis": "Wanasayansi fulani ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी राक्षस हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सिस्टम हैं.", "hypothesis": "Hakuna wapaka - rangi walio na mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जानाबलिन खंड हैं.", "hypothesis": "Hakuna mashirika ya dawa za kulevya.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों उपकरण हैं.", "hypothesis": "Hakuna askari - jeshi walio vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी संरचनाएँ हैं.", "hypothesis": "Hakuna wageni walio na majengo mapya.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर भूमिका निभाते हैं ।", "hypothesis": "Hakuna madaktari walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन बातें हैं.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी भूमिका निभाते हैं ।", "hypothesis": "Hakuna wanafunzi walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस लोग हैं.", "hypothesis": "Wapelelezi fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े काल्पनिक हैं.", "hypothesis": "Baadhi ya ngano ni mashujaa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों सब्ज़ियाँ हैं.", "hypothesis": "Askari - jeshi fulani ni mboga.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत योद्धा हैं.", "hypothesis": "Baadhi ya mashujaa wa vita ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत हथियार हैं.", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya madaraka ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी काररोट्स उपकरण हैं.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोज़ी - रोटी कमाने के काम कर रहे हैं ।", "hypothesis": "Hakuna wapishi wanaofanya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक सब्ज़ियाँ हैं ।", "hypothesis": "Hakuna wanasayansi ambao ni mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों जीव हैं.", "hypothesis": "Ng'ombe fulani ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन जाति हैं।", "hypothesis": "Spishi fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर पेशेवर हैं.", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक धारणाएँ हैं ।", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत उपकरण हैं.", "hypothesis": "Vifaa fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस उपकरणों रहे हैं.", "hypothesis": "Wapelelezi fulani ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर मशीनों हैं.", "hypothesis": "Mashine nyingine ni wachawi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत सिस्टम हैं.", "hypothesis": "Mifumo fulani ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन योद्धा हैं।", "hypothesis": "Dragoni wengine ni mashujaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत सिस्टम हैं.", "hypothesis": "Mizombi fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर सेनाएं हैं.", "hypothesis": "Baadhi ya kani ni kompyuta.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार पेशेवर हैं.", "hypothesis": "Hakuna mpaka - rangi walio stadi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर समझदार हैं.", "hypothesis": "Hakuna wachawi walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक सिस्टम हैं.", "hypothesis": "Mifumo fulani ni askari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों वस्तुएँ हैं.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर अक्षर हैं.", "hypothesis": "Hakuna tumbili wanaoigiza.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को नौकरी मिल रही है.", "hypothesis": "Hakuna ng'ombe anayefanya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक भूमिका निभाते हैं ।", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू बातें हैं.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrakakas अक्षर हैं.", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े उपकरण हैं.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों राक्षस हैं.", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू वस्तुएँ हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी मशालों काल्पनिक हैं.", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर बुद्धि हैं.", "hypothesis": "Akili fulani ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर शक्‍तियाँ कर रहे हैं ।", "hypothesis": "Baadhi ya madaktari ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों कल्पना कर रहे हैं.", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक शक्‍तियाँ हैं ।", "hypothesis": "Wanasayansi fulani ni kani.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर धारणाएँ हैं.", "hypothesis": "Baadhi ya wachawi ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपीय धारणाएँ हैं.", "hypothesis": "Wapishi fulani ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत बातें कर रहे हैं.", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े जाति हैं.", "hypothesis": "Baadhi ya mashujaa ni spishi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक अक्षर हैं ।", "hypothesis": "Wanasayansi fulani ni wahusika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची वस्तुएँ हैं.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर जीव हैं.", "hypothesis": "Wingu fulani ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वेश्याएं जीव हैं.", "hypothesis": "Hakuna watunza - farasi walio viumbe hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दानव राक्षस हैं.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जानवर हैं ।", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस वाहन हैं.", "hypothesis": "Baadhi ya wapelelezi ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार सब्ज़ियाँ हैं.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत समझ रहे हैं.", "hypothesis": "Mizuka fulani ni watu wenye akili.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू भोजन हैं.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सभ्यताएँ हैं.", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खाना खाने के काम में हिस्सा लेते हैं ।", "hypothesis": "Baadhi ya majukumu hayo ni dinosa.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत समझ रहे हैं.", "hypothesis": "Hakuna mazimwi ni werevu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी समझदार हैं ।", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी प्रतीक हैं.", "hypothesis": "Wanafunzi fulani ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जाति हैं ।", "hypothesis": "Hakuna walimu walio wa jamii mbalimbali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू सब्ज़ियाँ हैं.", "hypothesis": "Hakuna maharamia walio mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स प्राणी हैं।", "hypothesis": "Hakuna majoka walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स सिस्टम हैं.", "hypothesis": "Hakuna waokaji walio mifumo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू तकनीक हैं.", "hypothesis": "Hakuna maharamia walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार सेना हैं.", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी भोजन कर रहे हैं.", "hypothesis": "Wawindaji fulani wa mizuka ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी धारणाएँ हैं.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni dhana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत जाति हैं.", "hypothesis": "Hakuna mizuka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को मनुष्य हैं.", "hypothesis": "Hakuna karoti zilizo binadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर योद्धाओं हैं.", "hypothesis": "Baadhi ya mashujaa wa vita ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni wavumbuzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स निगम हैं.", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदरों की संरचनाएं हैं.", "hypothesis": "Hakuna tumbili walio katika makao hayo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स जानवरों हैं.", "hypothesis": "Wanyama fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह पौराणिक कथाओं हैं.", "hypothesis": "Baadhi ya watu wa ukoo ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू राक्षस हैं.", "hypothesis": "Baadhi ya madubwana ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान काम कर रहे हैं.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni wanajeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स यंत्र हैं.", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन मशीनों हैं।", "hypothesis": "Baadhi ya mashini hizo ni bumba.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान काम कर रहे हैं.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी जीव हैं.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स उपकरण हैं.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स पेशेवर हैं.", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार भूमिकाएँ हैं.", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी भूमिका अदा कर रहे हैं.", "hypothesis": "Baadhi ya majukumu hayo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर लोग हैं.", "hypothesis": "Baadhi ya watu ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों कल्पना कर रहे हैं.", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर उपकरण हैं.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक उपकरण हैं.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस बातें कर रहे हैं.", "hypothesis": "Hakuna wapelelezi walio hivyo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबोट योद्धा हैं.", "hypothesis": "Hakuna roboti zinazopigana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर राक्षस हैं.", "hypothesis": "Hakuna kompyuta zilizo dubwana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स जानवरों हैं.", "hypothesis": "Hakuna roboti ambazo ni wanyama.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन भूमिका निभा रहे हैं.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी zamams अवैध कर रहे हैं.", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की जाति होती है ।", "hypothesis": "Aina fulani za ng'ombe ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स भूमिका अदा करते हैं.", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी महाद्वीपों बुद्धि है.", "hypothesis": "Baadhi ya watu wenye akili ni wapishi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची सब्ज़ियाँ हैं.", "hypothesis": "Hakuna wavumbuzi walio na mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों योद्धाओं हैं.", "hypothesis": "Baadhi ya wapiganaji ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर उपकरण हैं.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू बातें हैं.", "hypothesis": "Baadhi ya maharamia ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू उपकरण हैं.", "hypothesis": "Baadhi ya maharamia ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक संरचनाएँ हैं ।", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू जानवरों हैं.", "hypothesis": "Maharamia fulani ni wanyama.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों यंत्र हैं.", "hypothesis": "Baadhi ya askari - jeshi ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी प्राणी हैं.", "hypothesis": "Viumbe fulani ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े वस्तुओं की हैं.", "hypothesis": "Hakuna mashujaa walio vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी योद्धाओं हैं.", "hypothesis": "Baadhi ya wapiganaji ni wageni.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार खंड हैं.", "hypothesis": "Mashirika fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी संरचनाएं कर रहे हैं.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कारों को भोजन है.", "hypothesis": "Baadhi ya karoti ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान काम कर रहे हैं.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक व्यवस्थाएँ हैं ।", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की युक्ति होती है.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स उपकरण हैं.", "hypothesis": "Dragoni wengine ni vyombo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सब्ज़ियाँ हैं.", "hypothesis": "Baadhi ya mboga ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों पेशेवर हैं.", "hypothesis": "Hakuna ng'ombe walio wataalamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक काल्पनिक हैं.", "hypothesis": "Wanasayansi fulani ni ngano.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर लोग हैं.", "hypothesis": "Hakuna waokaji waliohai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी zamams अवैध कर रहे हैं.", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार वाहन हैं.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी प्राणी हैं.", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार मनुष्य हैं.", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत पेशा कर रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी यंत्र हैं.", "hypothesis": "Baadhi ya vifaa ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत मशीनों हैं.", "hypothesis": "Mashine nyingine ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर लोग हैं.", "hypothesis": "Na wachawi hawatakuwa wenye kughafilika na hayo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ईमानवाले राक्षस हैं.", "hypothesis": "Hakuna karoti zilizo madubwana.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू जानवरों हैं.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी arowakas चिह्न हैं.", "hypothesis": "Baadhi ya wafanyakazi ni ishara.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों की वस्तुएँ हैं.", "hypothesis": "Baadhi ya ng'ombe ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रेत मानव हैं.", "hypothesis": "Hakuna zombies walio binadamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को नौकरी मिल रही है.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी पेशेवर हैं.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर राक्षस हैं.", "hypothesis": "Madaktari fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों समझ रहे हैं.", "hypothesis": "Baadhi ya askari - jeshi ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक सब्ज़ियाँ हैं ।", "hypothesis": "Baadhi ya mboga ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन सिस्टम हैं।", "hypothesis": "Hakuna pepo zinazotoweka.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार्य हैं.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर प्राणी हैं.", "hypothesis": "Baadhi ya viumbe ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी जीव हैं ।", "hypothesis": "Baadhi ya viumbe ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सजावटी होती हैं.", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya madaraka ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर व्यापार कर रहे हैं.", "hypothesis": "Baadhi ya wachawi hufanya kazi mbalimbali.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी दोस्त लोग हैं.", "hypothesis": "Hakuna watunza - farasi walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गोदाम औज़ार हैं.", "hypothesis": "Hakuna wapishi walio vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी बुद्धि है.", "hypothesis": "Baadhi ya dinosa ni watu wenye akili.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स प्राणी हैं।", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर सब्ज़ियाँ हैं ।", "hypothesis": "Baadhi ya mboga ni madaktari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जीव हैं.", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी कल्पना कर रहे हैं.", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स बातें कर रहे हैं.", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrowaks काम कर रहे हैं.", "hypothesis": "Kazi fulani ni za sulubu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर खंड हैं.", "hypothesis": "Tumbili fulani ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी काररोट्स उपकरण हैं.", "hypothesis": "Baadhi ya vifaa hivyo ni karoti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े बुद्धि हैं.", "hypothesis": "Baadhi ya mashujaa ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी संगीतकार वस्तुओं के हैं.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिक जानवर हैं.", "hypothesis": "Wanyama fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कार्य हैं.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वाहन हैं.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े मशीनों हैं.", "hypothesis": "Hakuna mashujaa wa kazi walio mashine.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रकार के अक्षर हैं.", "hypothesis": "Baadhi ya wahusika ni ogres.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी राक्षस हैं.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू भोजन हैं.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर धारणाएँ हैं.", "hypothesis": "Madaktari fulani ni mawazo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी तकनीक हैं.", "hypothesis": "Baadhi ya wageni ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स मनुष्य हैं.", "hypothesis": "Baadhi ya viumbe ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार खंड हैं.", "hypothesis": "Baadhi ya wachoraji ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर प्राणी हैं.", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी घोड़े अक्षर हैं.", "hypothesis": "Hakuna mashujaa walio wahusika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी मशीनों हैं.", "hypothesis": "Mashine fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान काम कर रहे हैं.", "hypothesis": "Kazi fulani ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स जाति हैं.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी खानाोसी प्राणी हैं.", "hypothesis": "Hakuna dinosa walio viumbe.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ग्रह वस्तुएँ हैं.", "hypothesis": "Hakuna opani ni vitu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक व्यवस्थाएँ हैं ।", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी कल्पना कर रहे हैं.", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार वस्तुओं के हैं.", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार तकनीक हैं.", "hypothesis": "Tekinolojia fulani ni wachoraji.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी प्रकार के उपकरण हैं.", "hypothesis": "Hakuna opani ni vyombo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कारों काम कर रहे हैं.", "hypothesis": "Baadhi ya kazi hizo ni wavumbuzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची वस्तुएँ हैं.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक बातें कर रहे हैं ।", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत जानवर हैं.", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी macherkaks संपत्ति कर रहे हैं.", "hypothesis": "Hakuna wafanyakazi walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स मनुष्य हैं.", "hypothesis": "Hakuna roboti zilizo hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी स्वादिष्ट भोजन हैं.", "hypothesis": "Hakuna wapishi walio vyakula.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर तकनीक हैं.", "hypothesis": "Hakuna wachawi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची समझ रहे हैं.", "hypothesis": "Baadhi ya wavumbuzi ni watu wenye akili.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर वाहन हैं.", "hypothesis": "Madaktari fulani ni magari.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान बातें कर रहे हैं.", "hypothesis": "Baadhi ya vitu ni wakulima.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी भूमिका निभाते हैं ।", "hypothesis": "Baadhi ya wanafunzi wana madaraka.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर यंत्र हैं.", "hypothesis": "Hakuna tumbili walio ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सेना हैं.", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर मशीनों हैं.", "hypothesis": "Mashine fulani ni nyani.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर काल्पनिक हैं.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सैनिकों समझ रहे हैं.", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू बातें हैं.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी Merrowaks काम कर रहे हैं.", "hypothesis": "Hakuna wafanyakazi wanaofanya kazi hiyo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस भोजन कर रहे हैं.", "hypothesis": "Baadhi ya wapelelezi ni vyakula.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान समझदार हैं.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर सिस्टम हैं.", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक वाहन हैं.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी जाति हैं.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक जानवर हैं ।", "hypothesis": "Wanyama fulani ni walimu.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स प्राणी हैं.", "hypothesis": "Viumbe fulani ni roboti.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक पेशेवर होते हैं ।", "hypothesis": "Walimu fulani ni wataalamu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विदेशी तकनीक हैं.", "hypothesis": "Hakuna nchi nyingine zinazotumia teknolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर मनुष्य हैं.", "hypothesis": "Hakuna tumbili walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी गायों को भोजन मिलता है ।", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत चिह्न हैं.", "hypothesis": "Mifano mingine ni mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू तकनीक हैं.", "hypothesis": "Baadhi ya maharamia ni tekinolojia.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेकर्स निगम हैं.", "hypothesis": "Baadhi ya waokaji ni mashirika.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर उपकरण हैं.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार तकनीक हैं.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत उपकरण हैं.", "hypothesis": "Hakuna mazimwi ni vifaa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी लेफ्टिनेंट जीव हैं.", "hypothesis": "Baadhi ya karoti ni viumbe hai.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर वाहन हैं.", "hypothesis": "Magari fulani ni mazingaombwe.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची उपकरण हैं.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस पेशेवर हैं.", "hypothesis": "Hakuna wapelelezi walio wataalamu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी merruts प्रजाति हैं.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर उपकरण हैं.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ब्लिनलिन जीव हैं।", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत जीव हैं.", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत शिकारी सेना हैं.", "hypothesis": "Baadhi ya nguvu hizo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी शिक्षक राक्षस हैं.", "hypothesis": "Walimu fulani ni madubwana.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी ड्रैगन्स समझदार हैं.", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत काम कर रहे हैं.", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी कंप्यूटर संरचनाएँ हैं.", "hypothesis": "Hakuna kompyuta ambazo zimeundwa kwa njia yoyote ile.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची अक्षर हैं.", "hypothesis": "Hakuna wavumbuzi wanaoigiza.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी चित्रकार मनुष्य हैं.", "hypothesis": "Hakuna mpaka - rangi walio hai.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विशेषज्ञ पेशेवर हैं.", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी किसान संरचनाएँ हैं.", "hypothesis": "Hakuna wakulima walio na majengo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक सब्ज़ियाँ हैं ।", "hypothesis": "Baadhi ya mboga ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी रोबॉट्स संरचनाएँ हैं.", "hypothesis": "Hakutakuwa na roboti za hali ya juu.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी आविष्कारों एंटिटी हैं.", "hypothesis": "Hakuna wabuni walio mashirika.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी समुद्री डाकू मनुष्य हैं.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी zamams यंत्र हैं.", "hypothesis": "Vyombo vingine ni zombies.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर धारणाएँ हैं.", "hypothesis": "Hakuna madaktari walio na mawazo.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जादूगर व्यापार कर रहे हैं.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जासूस संरचनाएँ कर रहे हैं.", "hypothesis": "Majengo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थियों की संरचनाएँ होती हैं ।", "hypothesis": "Wanafunzi fulani ni majengo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी वैज्ञानिक मशीनों हैं.", "hypothesis": "Baadhi ya mashine ni wanasayansi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी जोकर वस्तुएँ हैं.", "hypothesis": "Vitu fulani ni vicheshi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी काररोट्स उपकरण हैं.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर सिस्टम हैं.", "hypothesis": "Nyani fulani ni mifumo.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बंदर काल्पनिक हैं.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी macherkaks संपत्ति कर रहे हैं.", "hypothesis": "Mashirika fulani ni watumishi wa nyumbani.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी बेबलिन उपकरण हैं।", "hypothesis": "Hakuna vibumba vilivyo na ala za muziki.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी राजकुमारी बातें कर रहे हैं.", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी भूत सब्ज़ियाँ हैं.", "hypothesis": "No mizuka ni mboga.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी सूची उपकरण हैं.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी डॉक्टर कल्पना कर रहे हैं.", "hypothesis": "Hakuna madaktari walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}
+{"premise": "सभी विद्यार्थी तकनीक हैं.", "hypothesis": "Tekinolojia fulani ni wanafunzi.", "label": "neutral", "lang_premise": "hi", "lang_hypothesis": "sw", "codeswitch_type": "hi_prem_sw_hyp"}

@@ -1,0 +1,1000 @@
+{"premise": "كل الأجانب هم وحوش.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي مركبات", "hypothesis": "कुछ वाहनों Merwaks कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين محترفون", "hypothesis": "कुछ जोकर पेशेवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين حيوانات", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان رموز", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم شخصيات", "hypothesis": "कोई विजार्ड अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "कुछ बेकर्स जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم قوى", "hypothesis": "कोई वैज्ञानिक शक्‍तियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب محترفون", "hypothesis": "कोई विद्यार्थी पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين كائنات حية.", "hypothesis": "कोई शिक्षक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "कुछ शिक्षक चीज़ें हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي حيوانات", "hypothesis": "कुछ प्रेत जानवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين عبارة عن هياكل.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المزارعين وحوش", "hypothesis": "कुछ किसान राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "कोई डॉक्टर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "कुछ शिक्षक वाहन हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء هم أنظمة", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي هم قوى", "hypothesis": "कुछ सेनाओं zmamams कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم أشياء", "hypothesis": "कुछ चीजें जोकर कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح مركبات", "hypothesis": "कुछ वाहन भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين رموز", "hypothesis": "कोई बेकर्स चिह्न हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي أغذية.", "hypothesis": "कुछ भोजन भोजन खाना खाना - पीना होता है ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان كائنات حية", "hypothesis": "कुछ घोड़े जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي حيوانات", "hypothesis": "कुछ गायों जानवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "कोई ड्रैगन्स बुद्धि हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي ماكينات", "hypothesis": "कुछ गायों की मशीनों हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين رموز", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين رموز", "hypothesis": "कोई ड्रैगन्स चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أشياء.", "hypothesis": "कुछ विद्यार्थी बातें कर रहे हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح كائنات", "hypothesis": "कुछ लोग भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "कुछ संरचना किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مركبات", "hypothesis": "कोई जासूस वाहन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي هياكل", "hypothesis": "कुछ संरचनाएं भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أساطير.", "hypothesis": "कोई शिक्षक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الحواسب قوّات.", "hypothesis": "कोई कंप्यूटर सेनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "कोई बंदर कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أنظمة.", "hypothesis": "कोई विद्यार्थी सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "कुछ घोड़े उपकरणों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود مخلوقات", "hypothesis": "कुछ सैनिक प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين بشر", "hypothesis": "कोई शिक्षक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت مهنُ.", "hypothesis": "कुछ बेबलिन चक्कर काट रहे हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المزارعين كيانات.", "hypothesis": "कुछ किसान निगम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح هي تكنولوجيات.", "hypothesis": "कोई भूत शिकारी तकनीक नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "कुछ वैज्ञानिक जाति हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "कोई जोकर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي ماكينات.", "hypothesis": "कुछ मशीनों रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت ماكينات.", "hypothesis": "कोई जानाबलिन मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدواتُ.", "hypothesis": "कोई जानाबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "कुछ जीव बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان حيوانات", "hypothesis": "कुछ घोड़े जानवरों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي مركبات.", "hypothesis": "कुछ वाहनों काररोस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أغذية.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة عبارة عن هياكل", "hypothesis": "कुछ संरचनाएं जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت محاربون.", "hypothesis": "कुछ योद्धा गोबलिन हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أدوات", "hypothesis": "कुछ भूत शिकारी यंत्र हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر عبارة عن هياكل", "hypothesis": "कोई लेफ्टिनेंट संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات هي أشياء.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم مهن", "hypothesis": "कुछ व्यापार जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "कुछ किसान इमारतें बनाते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود هم مركبات", "hypothesis": "कोई सैनिक वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي كائنات حية.", "hypothesis": "कोई कंप्यूटर प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر عبارة عن قوى", "hypothesis": "कुछ मशालें शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "कोई बेकर्स पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أدوات.", "hypothesis": "कुछ वैज्ञानिक औज़ार हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات أطعمة", "hypothesis": "कुछ मेरची भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود كُلّ كَيان.", "hypothesis": "कुछ निगम सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم حيوانات", "hypothesis": "कुछ जानवर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "कुछ औज़ार किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي خضروات.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت إستخبارات.", "hypothesis": "कोई जानाबलिन बुद्धि नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي أدوات.", "hypothesis": "कुछ कारों उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ المُتَوَجِّهات تَكنولوجيات.", "hypothesis": "कोई शहर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين بشر", "hypothesis": "कुछ मानव जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح صائدي الأشباح هي مركبات.", "hypothesis": "कुछ वाहन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي أنواع.", "hypothesis": "कुछ मशालियाँ प्रजाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم قوات", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم أدوات", "hypothesis": "कुछ बेकर्स उपकरणों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الحواسب محاربون.", "hypothesis": "कुछ कंप्यूटर योद्धा हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "कोई विदेशी मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات وحوش", "hypothesis": "कुछ राक्षसों खाना देने वाले हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العفاريت كائنات", "hypothesis": "कुछ गोबोलिन लोग हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي هي أشياء.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي هياكل", "hypothesis": "कोई ड्रैगन्स की संरचना नहीं हैं।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم حيوانات", "hypothesis": "कोई सैनिक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم مركبات.", "hypothesis": "कोई फिल्टरों के वाहन हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "कुछ समझदार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء عبارة عن هياكل.", "hypothesis": "कुछ संरचनाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة كائنات", "hypothesis": "कोई राजकुमारी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المشعوذين عبارة عن مفاهيم.", "hypothesis": "कोई भूत - विद्या नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة محاربون", "hypothesis": "कुछख़ुदार योद्धा हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود حيوانات", "hypothesis": "कुछ जानवर बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "कुछ शिक्षक जानवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أشياء", "hypothesis": "कुछ Merroks बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين مخابرات", "hypothesis": "कुछ बेकर्स बुद्धि हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء محترفون", "hypothesis": "कुछ डॉक्टर पेशेवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أشياء.", "hypothesis": "कुछ बातें विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان محترفون", "hypothesis": "कुछ लेखक पेशेवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "कोई समुद्री डाकू बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين مخلوقات", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين أدوار.", "hypothesis": "कुछ संगीतकार भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين عبارة عن هياكل", "hypothesis": "कुछ संरचनाें बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين وحوش", "hypothesis": "कोई बेकर्स राक्षस हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود أدواتُ.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي شخصيات", "hypothesis": "कुछ अक्षर गायों हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "कोई संगीतकार उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين رموز", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هم مهن.", "hypothesis": "कुछ बेकर्स चक्कर काट रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين حيوانات", "hypothesis": "कोई बेकर्स जानवर हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء أدوات.", "hypothesis": "कोई वैज्ञानिक यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم خضروات.", "hypothesis": "कोई बिल्ली सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة كائنات حية", "hypothesis": "कोई स्वादिष्ट प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي تكنولوجيات.", "hypothesis": "कोई आविष्कार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة كيانات.", "hypothesis": "कोई समुद्री डाकू निगम हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي حيوانات.", "hypothesis": "कुछ जानवर कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار كائنات", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب مفاهيم.", "hypothesis": "कोई विदेशी विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب كائنات", "hypothesis": "कुछ विद्यार्थी मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود أدوار.", "hypothesis": "कोई सैनिक भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم شخصيات", "hypothesis": "कोई विद्यार्थी अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أساطير.", "hypothesis": "कुछ पौराणिक कथाओं कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء أطعمة", "hypothesis": "कुछ भोजन वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أشياءُ.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "कुछ भूत शिकारी प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين عبارة عن هياكل", "hypothesis": "कोई जोकर संरचना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة محاربون", "hypothesis": "कुछ योद्धाओं जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين أطعمة", "hypothesis": "कुछ भोजन जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "कुछ भोजन समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة كائنات حية", "hypothesis": "कुछ जीव स्वादिष्ट होते हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود عبارة عن هياكل", "hypothesis": "कुछ संरचना सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "कुछ बंदर अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين مفاهيم.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "कुछ मनुष्य वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح بشر", "hypothesis": "कोई भूत शिकारी मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة مخلوقات", "hypothesis": "कुछ स्वादिष्ट प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين مهن.", "hypothesis": "कुछ शिक्षक काम कर रहे हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مخلوقات", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم شخصيات", "hypothesis": "कुछ अक्षर घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين رموز", "hypothesis": "कुछ चिह्न चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم شخصيات.", "hypothesis": "कोई समुद्री डाकू अक्षर हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "कोई भूत शिकारी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب كائنات", "hypothesis": "कुछ लोग विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي أدوات.", "hypothesis": "कोई खानाोसर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أشياء.", "hypothesis": "कोई सैनिक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار كائنات", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب وحوش", "hypothesis": "कुछ राक्षसों विद्यार्थी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة محترفون.", "hypothesis": "कोई समुद्री डाकू पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي مفاهيم", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر بشر", "hypothesis": "कुछ चुड़ैल मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هم مهن", "hypothesis": "कुछ जासूस व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان عبارة عن مفاهيم", "hypothesis": "कुछ घोड़े धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين كائنات", "hypothesis": "कुछ लोग जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي مهن.", "hypothesis": "कुछ खाना खाने के काम कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي مخلوقات", "hypothesis": "कुछ प्राणी जिम्मी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات هي قوى", "hypothesis": "कुछ शक्‍तियाँ रोबोट हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجواسيس من الأنواع.", "hypothesis": "कोई जासूस जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "कोई विद्यार्थी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر حيوانات", "hypothesis": "कुछ चुड़ैल जानवरों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي مخابرات", "hypothesis": "कुछ प्रेत बुद्धि रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة مخلوقات", "hypothesis": "नहीं जादूगर प्राणी हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأجانب صكوك.", "hypothesis": "कुछ विदेशी यंत्र हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم شخصيات", "hypothesis": "कुछ अक्षर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار بشر", "hypothesis": "कुछ गायों को मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم شخصيات", "hypothesis": "कोई जोकर अक्षर हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي خضروات.", "hypothesis": "कोई गायों सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم أدوات.", "hypothesis": "कुछ यंत्र जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي كيانات", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود رموز", "hypothesis": "कोई बंदर चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين أدوات", "hypothesis": "कुछ यंत्र बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "कोई जोकर सब्जियां नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أغذية.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "कुछ औज़ार चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي تكنولوجيات", "hypothesis": "कुछ भूत तकनीक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات وحوش", "hypothesis": "कुछ राक्षसों रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين بشر", "hypothesis": "कुछ मानव ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة كائنات حية.", "hypothesis": "कुछ समुद्री डाकू जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود أجهزه.", "hypothesis": "कुछ सैनिक उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي حيوانات", "hypothesis": "कुछ ड्रैगन्स जानवरों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب أدوات.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب كائنات.", "hypothesis": "कुछ वस्तुएँ विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ القراصنة محاربون.", "hypothesis": "कोई समुद्री डाकू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مركبات.", "hypothesis": "कुछ गाड़ियाँ गायों की हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات كائنات", "hypothesis": "कुछ आम लोग हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي أنواع.", "hypothesis": "कुछ जातियाँ खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي أنواع.", "hypothesis": "कुछ जड़ी - बूटियों की जाति होती है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة بشر", "hypothesis": "कुछ मनुष्य किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي هياكل", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي شخصيات.", "hypothesis": "कोई कम्प्यूटर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم شخصيات", "hypothesis": "कुछ बेकर्स अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أجهزة.", "hypothesis": "कुछ यंत्र कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم حيوانات", "hypothesis": "कोई किसान जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود محترفون", "hypothesis": "कुछ सैनिक पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم تكنولوجيات.", "hypothesis": "कुछ तकनीकों के होते हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "कोई रोबॉट्स औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم أجهزة.", "hypothesis": "कोई विजार्ड उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي هياكل", "hypothesis": "कुछ संरचना ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب بشر", "hypothesis": "कुछ मनुष्य विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس بشر", "hypothesis": "कोई जासूस मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس وحوش", "hypothesis": "कुछ जासूस राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "कोई चित्रकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "कुछ वैज्ञानिक मनुष्य हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم مركبات", "hypothesis": "कुछ विद्यार्थी वाहन हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "कुछ घोड़े वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة محترفون", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين مخلوقات", "hypothesis": "कोई सूची प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي أنواع.", "hypothesis": "कुछ आविष्कार प्रजाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأطباء كَانوا أجهزةَ.", "hypothesis": "कुछ उपकरण डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "कोई छात्र समझदार हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين إستخبارات", "hypothesis": "कोई चित्रकार बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الطلاب كيانات.", "hypothesis": "कुछ विद्यार्थी निगम हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم خضروات", "hypothesis": "कोई छात्र सब्ज़ियाँ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "कोई चित्रकार औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مخابرات", "hypothesis": "कुछ जासूस समझदार हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات محاربون", "hypothesis": "कुछ रोबोट योद्धा हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين بشر", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين مفاهيم.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي أشياء.", "hypothesis": "कुछ बेकर्स वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "कुछ प्रेत उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي كائنات حية", "hypothesis": "कोई प्रेत जीव हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس أنظمة", "hypothesis": "कुछ व्यवस्थाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "कुछ ड्रैगन्स प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العفاريت مخلوقات", "hypothesis": "कोई गोबलिन प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "कोई वैज्ञानिक जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "कुछ तकनीक वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم مركبات", "hypothesis": "नहीं जादूगर वाहन हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح كائنات", "hypothesis": "कुछ भूत हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "कुछ रोबॉट्स मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحوريات هي أنواع.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي قوى", "hypothesis": "कुछ ड्रैगन्स सेना हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح أطعمة", "hypothesis": "कुछ भोजन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر عبارة عن قوى", "hypothesis": "कुछ सेनाओं को गोली मार रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين كائنات", "hypothesis": "कुछ जोकर मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مخابرات", "hypothesis": "कोई जासूस बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود رموز", "hypothesis": "कुछ बंदर चिह्न हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أساطير.", "hypothesis": "कुछ पौराणिक कथाओं के शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هم خضروات.", "hypothesis": "कोई विदेशी सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أدوار.", "hypothesis": "कोई किसान भूमिका नहीं अदा करता ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي شخصيات.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة أدوات.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجزر محاربون.", "hypothesis": "कोई आलू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "कुछ व्यवस्थाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أساطير", "hypothesis": "कोई भूत शिकारी कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الملوك مُهنّ.", "hypothesis": "कोई हल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هم شخصيات", "hypothesis": "कोई जासूस अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب هم شخصيات", "hypothesis": "कुछ अक्षर विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم تكنولوجيات.", "hypothesis": "कोई कार्टून तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوجُه هي رموز.", "hypothesis": "कोई तूफान चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس ماكينات", "hypothesis": "कोई जासूस मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين حيوانات", "hypothesis": "कुछ जानवरों का निर्माण किया जाता है.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي مهن.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "कोई बेकर्स बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المزارعين كائنات", "hypothesis": "कुछ लोग किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل أشباحها وحوش", "hypothesis": "कोई भूत राक्षस हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "कोई वैज्ञानिक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي انظمة", "hypothesis": "कुछ सिस्टम भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي كيانات.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي خضروات.", "hypothesis": "कुछ सब्ज़ियाँ रोबॉट्स हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي هم قوى", "hypothesis": "कुछ प्रेत सेना हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب من الأنواع.", "hypothesis": "कुछ विद्यार्थी जाति हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين هي تكنولوجيات.", "hypothesis": "कुछ संगीतकार तकनीक हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات محاربون", "hypothesis": "कोई खानार योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأطباء من الأنواع.", "hypothesis": "कुछ डॉक्टर जाति हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي شخصيات.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشباح", "hypothesis": "कुछ भूत अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات رموز.", "hypothesis": "कुछ चिह्न रोबॉट्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هي أشياء", "hypothesis": "कुछ जासूस बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "कुछ जीव उड़ रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأجانب مهنيون.", "hypothesis": "कोई विदेशी पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أشياء", "hypothesis": "कोई भूत शिकारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات حية.", "hypothesis": "कुछ संगीतकार जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ المُتَوَجِّهات تَكنولوجيات.", "hypothesis": "कुछ तकनीकें तो तूफानी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي إستخبارات", "hypothesis": "कुछ बुद्धि गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين مفاهيم.", "hypothesis": "कुछ धारणाएँ बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين مخلوقات", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي كائنات.", "hypothesis": "कुछ चीज़ें काररोट्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أجهزة", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الغيلان كائنات.", "hypothesis": "कुछ ज्वालामुखी मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هم سيارات", "hypothesis": "कुछ विदेशी वाहन हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي خضروات", "hypothesis": "कुछ प्रेत सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "कुछ विद्यार्थी काल्पनिक हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس أدوات", "hypothesis": "कुछ यंत्र जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم آلات.", "hypothesis": "कुछ शिक्षक मशीनों पर काम करते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأجانب كيانات.", "hypothesis": "कोई विदेशी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع العفاريت هي أجهزة.", "hypothesis": "कोई गोबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أساطير", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين مفاهيم.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة وحوش", "hypothesis": "कुछ राक्षसों चकमक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين أدوات.", "hypothesis": "कुछ औज़ार बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوجُهِ كُلّ القوات.", "hypothesis": "कोई तूफान बल हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي تكنولوجيات.", "hypothesis": "कोई खानाोसी तकनीक नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم مهن", "hypothesis": "कुछ व्यवसाय भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم حيوانات", "hypothesis": "कुछ किसान जानवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم شخصيات.", "hypothesis": "कुछ अक्षर शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجواسيس من الأنواع.", "hypothesis": "कुछ जासूस जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي ماكينات", "hypothesis": "कोई भूत मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود بشر", "hypothesis": "कुछ बंदर मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "कुछ प्राणियों घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "कोई चित्रकार एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم قوات", "hypothesis": "कोई बेकर्स सेना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أنظمة", "hypothesis": "कुछ सिस्टमों मुझे तंग कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الوحوش وحوش.", "hypothesis": "कुछ राक्षसों कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هم سيارات", "hypothesis": "कोई विदेशी वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة مخلوقات", "hypothesis": "कुछ प्राणी जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم خضروات", "hypothesis": "कुछ विद्यार्थियों को सब्ज़ियाँ मिलती हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم آلات.", "hypothesis": "कोई शिक्षक मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأجانب كيانات.", "hypothesis": "कुछ निगम विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي تكنولوجيات.", "hypothesis": "कुछ तकनीकएं जिम्मी होती हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "कोई प्रेत सिस्टम हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود ماكينات.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخضروات هي خضروات.", "hypothesis": "कोई मेंढक सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات محاربين", "hypothesis": "कुछ Merrowaks योद्धाओं हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي أنواع.", "hypothesis": "कोई गैस की जातियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "कुछ धारणाएँ आविष्कारक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء أدوار", "hypothesis": "कुछ भूमिकायाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "कुछ उपकरणों जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب مفاهيم.", "hypothesis": "कुछ विदेशी धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "कुछ भूमिकाएं बेबलिन हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي أدوات.", "hypothesis": "कुछ खानाोसी यंत्र हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "कुछ औज़ार कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العفاريت كائنات", "hypothesis": "कुछ लोग गोबलिन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم أشياء.", "hypothesis": "कोई जादूगर कुछ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي مفاهيم", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المعلمين مخلوقات", "hypothesis": "कुछ प्राणी शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي هياكل.", "hypothesis": "कुछ बंदरों संरचनाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي ماكينات", "hypothesis": "कुछ मशीनों भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم مركبات.", "hypothesis": "कुछ गाड़ियों के टायर होते हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "कोई घोड़े भोजन कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي مفاهيم.", "hypothesis": "कुछ मशालें धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود وحوش", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي شخصيات", "hypothesis": "कुछ ड्रैगन्स अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر أدوار", "hypothesis": "कुछ मशालों की भूमिका होती है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي خضروات", "hypothesis": "कोई प्रेत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوار", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "कुछ संरचनायाँ घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الغيلان حيوانات.", "hypothesis": "कुछ जानवर जंगली हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء مخابرات", "hypothesis": "कोई डॉक्टर बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي آلات", "hypothesis": "कुछ बेकर्स मशीनों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب أطعمة", "hypothesis": "कुछ भोजन - वस्तुएँ विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود محترفون", "hypothesis": "कुछ बंदर पेशेवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "कुछ संगीतकार शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم حيوانات", "hypothesis": "कुछ फिल्टरों जानवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح كائنات حية", "hypothesis": "कोई भूत जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين مفاهيم.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة كائنات", "hypothesis": "कुछ जादूगर जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي هياكل", "hypothesis": "कुछ भूत संरचनाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أنواع.", "hypothesis": "कुछ रोबॉट्स जाति हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس قوات", "hypothesis": "कोई जासूस सेना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان خضروات", "hypothesis": "कोई घोड़े सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم شخصيات.", "hypothesis": "कुछ अक्षर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم قوى", "hypothesis": "कुछ सेनाओं जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة أدوار", "hypothesis": "कुछ भूमिकायाँ भूमिकाएँ होती हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان مخلوقات", "hypothesis": "कुछ प्राणी घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "कुछ फिल्टरों की व्यवस्थाएँ हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "कुछ भूत यंत्र हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "कुछ प्राणी भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم مركبات", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هم مهن.", "hypothesis": "कोई बेकर्स काम कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء مخلوقات", "hypothesis": "कुछ प्राणी वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين بشر", "hypothesis": "कुछ चित्रकार मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع البوقات هي آلات.", "hypothesis": "कोई खेत नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أساطير", "hypothesis": "कुछ मिथक भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة ماكينات", "hypothesis": "कुछ जादूगर मशीनों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم من الخضروات.", "hypothesis": "कोई शिक्षक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مفاهيم.", "hypothesis": "कुछ धारणाएँ गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي تكنولوجيات.", "hypothesis": "कुछ तकनीकें खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين محاربون", "hypothesis": "कुछ योद्धा सूची बना रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم قوى", "hypothesis": "कोई जादूगर सेना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم شخصيات", "hypothesis": "कुछ चकमक के अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس محاربون", "hypothesis": "कोई जासूस योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "कुछ जोकर सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الغيليات هي أشياء.", "hypothesis": "कोई तूफानी बातें नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأطباء أدوات", "hypothesis": "कोई डॉक्टर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأطباء أدوارُ.", "hypothesis": "कुछ डॉक्टरों की भूमिका होती है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين ماكينات", "hypothesis": "कुछ मशीनों संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود كائنات", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب هم شخصيات", "hypothesis": "कुछ विदेशी अक्षर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح محترفة", "hypothesis": "कुछ भूत पेशेवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار وحوش", "hypothesis": "कुछ राक्षसों गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت مهنُ.", "hypothesis": "कुछ चक्कर आ रहे हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوغرافات هي أجهزةُ.", "hypothesis": "कुछ उपकरण तो तूफानी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود وحوش", "hypothesis": "कोई बंदर राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود أطعمة", "hypothesis": "कुछ भोजन - वस्तुएँ सैनिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين وحوش", "hypothesis": "कोई ड्रैगन्स राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود رموز", "hypothesis": "कुछ सैनिक प्रतीक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المزارعين هم قوات", "hypothesis": "कोई किसान सेना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "कोई मेंढक भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المشعوذين هي كائنات.", "hypothesis": "कोई जादूगर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "कोई बेकर्स भूमिका अदा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين مخلوقات", "hypothesis": "कोई जोकर प्राणी हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر مخلوقات", "hypothesis": "कुछ मशालें प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين محاربون", "hypothesis": "कोई बेकर्स योद्धाओं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب محاربون", "hypothesis": "कुछ विद्यार्थी योद्धा हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي كائنات حية.", "hypothesis": "कोई खाना खाने के लिए जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي تكنولوجيات.", "hypothesis": "कुछ तकनीक ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات أدوار", "hypothesis": "कोई सलाहकार भूमिका नहीं दे रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود هم خضروات.", "hypothesis": "कुछ सब्ज़ियाँ सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات أدوار", "hypothesis": "कुछ मेकरी भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أساطير", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أساطير", "hypothesis": "कुछ पौराणिक कथाओं मैंकरी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود كائنات حية", "hypothesis": "कोई सैनिक जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم من الخضروات.", "hypothesis": "कुछ समुद्री डाकू सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء مفاهيم.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أشياء.", "hypothesis": "कुछ वैज्ञानिकों के पास कुछ चीज़ें हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي خضروات.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين بشر", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي مفاهيم", "hypothesis": "कोई ड्रैगन्स धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحواسيب كائنات", "hypothesis": "कुछ कंप्यूटर मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أدوات.", "hypothesis": "कुछ Merrokaka सामान कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي أدوات.", "hypothesis": "कुछ यंत्र बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجوارس حيوانات", "hypothesis": "कुछ जासूस जानवर हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المشعوذين أدوات.", "hypothesis": "कोई जादूगर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب هم وحوش.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم إستخبارات.", "hypothesis": "कोई शिक्षक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي أنواع.", "hypothesis": "कुछ जातियाँ बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي أنظمة", "hypothesis": "कुछ मेरची सिस्टम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي شخصيات.", "hypothesis": "कुछ कंप्यूटर अक्षर होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي حيوانات", "hypothesis": "कुछ जानवर गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات محترفة", "hypothesis": "कोई पेशेवर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأطباء كيانات.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي هياكل.", "hypothesis": "कुछ संरचनाएँ रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح أدوار", "hypothesis": "कुछ भूत भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين محترفين", "hypothesis": "कुछ संगीतकार पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي مخلوقات", "hypothesis": "कुछ प्राणी कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي كائنات.", "hypothesis": "कुछ वस्तुएँ बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أنظمة.", "hypothesis": "कुछ तंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "कोई फिल्टरों की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم مفاهيم.", "hypothesis": "कोई सजावटी धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين مخابرات", "hypothesis": "कोई बेकर्स समझ रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي قوى", "hypothesis": "कुछ बंदर सेना हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هم مهن", "hypothesis": "कुछ व्यापार जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أنظمة.", "hypothesis": "कुछ सिस्टम किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العفاريت هي خضروات.", "hypothesis": "कुछ ब्लिनलिन सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم أشياء.", "hypothesis": "कुछ चीजें जादूगर कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "कुछ भूमिकायाँ बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء كائنات حية", "hypothesis": "कुछ जीव वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "कुछ बुद्धि किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين هم تكنولوجيات.", "hypothesis": "कोई शिक्षक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "कुछ औज़ार जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي خضروات.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي خضروات.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود ماكينات.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي مهن.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي كائنات", "hypothesis": "कोई ड्रैगन्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب رموز", "hypothesis": "कुछ चिह्न विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أساطير", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين رموز", "hypothesis": "कुछ चिह्न संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي هياكل.", "hypothesis": "कोई खाना बनाने की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أدوات", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي هي أشياء.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء حيوانات", "hypothesis": "कुछ वैज्ञानिक जानवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم أنظمة", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي كيانات.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار وحوش", "hypothesis": "कोई गायों राक्षसों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي كائنات.", "hypothesis": "कुछ कारों की वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين أدوات", "hypothesis": "कोई सूची उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم قوات", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان بشر", "hypothesis": "कोई घोड़े मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء رموز", "hypothesis": "कुछ चिह्न डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي تكنولوجيات.", "hypothesis": "कुछ बंदर तकनीक हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين حيوانات", "hypothesis": "कुछ जानवर बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي هياكل.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة من الأنواع.", "hypothesis": "कुछ समुद्री डाकू जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء كائنات حية", "hypothesis": "कोई वैज्ञानिक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "कुछ उपकरणों बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أشياء.", "hypothesis": "कुछ बातें सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود محاربون", "hypothesis": "कुछ बंदर योद्धाओं हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أساطير", "hypothesis": "कोई वैज्ञानिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل أشباحها حيوانات", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدو الأشباح محاربون", "hypothesis": "कोई भूत शिकारी योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة محترفون", "hypothesis": "कुछ पेशेवर किसान होते हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "कुछ अक्षर मैंकरी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هي مفاهيم", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء كائنات حية", "hypothesis": "कुछ डॉक्टर जीव हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب كائنات حية.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات محترفة", "hypothesis": "कुछ मेरशी पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء كائنات", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "कोई दस्तावेजर दिमागी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة بشر", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشباح", "hypothesis": "कोई भूत अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح هي تكنولوجيات.", "hypothesis": "कुछ भूत शिकारी तकनीक कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "कोई विद्यार्थी वाद्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات هي أشياء.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين بشر", "hypothesis": "कोई आविष्कार मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان خضروات", "hypothesis": "कुछ घोड़े सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي أنظمة.", "hypothesis": "कुछ सिस्टम बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجوارس حيوانات", "hypothesis": "कुछ जानवर जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح محترفة", "hypothesis": "कुछ पेशेवर भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم مخابرات.", "hypothesis": "कोई समुद्री डाकू बुद्धि हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم من الخضروات.", "hypothesis": "कुछ किसान सब्ज़ियाँ खाते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم من المحترفين.", "hypothesis": "कोई समुद्री डाकू काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين وحوش", "hypothesis": "कुछ बेकर्स राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب كائنات.", "hypothesis": "कोई विदेशी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان رموز", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات هي أساطير", "hypothesis": "कुछ खानाोसी कल्पनाएं हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي أدوات", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأجانب صكوك.", "hypothesis": "कोई विदेशी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي مخلوقات", "hypothesis": "कुछ प्रेत प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح بشر", "hypothesis": "कुछ भूत शिकारी मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "कुछ चिह्न समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات حية.", "hypothesis": "कोई संगीतकार प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هي كيانات", "hypothesis": "वैज्ञानिकों में से कोई भी निगम नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس كائنات حية", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين كائنات حية", "hypothesis": "कोई चित्रकार जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي أشياء.", "hypothesis": "कुछ चुड़ैल चीज़ें हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود كائنات", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المزارعين هم تكنولوجيات.", "hypothesis": "कुछ किसान तकनीक हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "कोई राजकुमारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان أدوات", "hypothesis": "कुछ यंत्रों घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "कोई जोकर औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء هم أنظمة", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين ماكينات", "hypothesis": "कुछ मशीनों जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي تكنولوجيات.", "hypothesis": "कुछ तकनीकों का आविष्कार किया जाता है।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الأطباء كيانات.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم من المحترفين.", "hypothesis": "कुछ समुद्री डाकू व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المزارعين محترفون.", "hypothesis": "कुछ पेशेवर किसान हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي أساطير", "hypothesis": "कुछ गायों काल्पनिक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "कुछ जातियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين هم أساطير", "hypothesis": "कोई चित्रकार कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "कोई डॉक्टर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس كيانات", "hypothesis": "कुछ निगम जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة كيانات.", "hypothesis": "कुछ निगम समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين حيوانات", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء أطعمة", "hypothesis": "कुछ वैज्ञानिक भोजन करते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أنواع.", "hypothesis": "कुछ कंप्यूटर जाति हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم أنظمتهم", "hypothesis": "कुछ भूत शिकारी सिस्टम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين محترفة", "hypothesis": "कुछ पेशेवर ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "कुछ पौराणिक कथाओं में भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الغيلان كائنات.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم كيانات", "hypothesis": "कोई भूत शिकारी दल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم مركبات", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي ماكينات", "hypothesis": "कोई प्रेत मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي أطعمة", "hypothesis": "कुछ भोजन zammams हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء هم أساطير", "hypothesis": "कुछ डॉक्टर कल्पना कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب أدوار.", "hypothesis": "कुछ भूमिकाएँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين كائنات حية.", "hypothesis": "कोई किसान जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "कोई गायों को चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي أدوات.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي شخصيات.", "hypothesis": "कोई दस्तावेजर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أدوات", "hypothesis": "कुछ महाद्वीपीय उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هي مفاهيم", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هم أدوات.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مركبات.", "hypothesis": "कुछ गायों के वाहन हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخلوقات الغريبة هي أنواع.", "hypothesis": "कोई विदेशी जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار هي أساطير", "hypothesis": "कोई गायों कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي هياكل.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل أشباح الأطعمة", "hypothesis": "कुछ भूत भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس رموز", "hypothesis": "कुछ जासूस चिह्न हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة بشر", "hypothesis": "कुछ जादूगर मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح أدوات.", "hypothesis": "कुछ भूत शिकारी औजार हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين محاربين", "hypothesis": "कुछ संगीतकार योद्धा हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع الحواسيب هي كيانات.", "hypothesis": "कुछ निगम कंप्यूटर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين أدوات.", "hypothesis": "कुछ शिक्षक यंत्र होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "कोई भूत शिकारी संरचनाएं नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين هم شخصيات.", "hypothesis": "कोई संगीतकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أنظمة", "hypothesis": "कोई सैनिक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين بشر", "hypothesis": "कुछ किसान मनुष्य हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي كائنات.", "hypothesis": "कोई रोबॉट्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود رموز", "hypothesis": "कुछ चिह्न सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي مفاهيم.", "hypothesis": "कुछ बंदर धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين محترفين", "hypothesis": "कुछ पेशेवर निर्मित होते हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "कुछ संरचना भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس عبارة عن هياكل", "hypothesis": "कोई जासूस संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي مفاهيم.", "hypothesis": "कोई गुप्तता नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "فجميع القراصنة أدوار.", "hypothesis": "कुछ भूमिकाएँ समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود مخلوقات", "hypothesis": "कोई बंदर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم إستخبارات", "hypothesis": "कुछ बुद्धि भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مخلوقات", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح كائنات", "hypothesis": "कुछ लोग भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء وحوش", "hypothesis": "कुछ राक्षसों डॉक्टर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحوريات هي هياكل.", "hypothesis": "कोई गुप्त संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود عبارة عن هياكل", "hypothesis": "कोई सैनिक संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين أدوات.", "hypothesis": "कोई संगीतकार यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم أنظمة", "hypothesis": "कुछ व्यवस्थाएँ निर्मित हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين إستخبارات", "hypothesis": "कोई संगीतकार बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم قوات", "hypothesis": "कुछ शक्‍तियाँख़ुदा के हाथ में हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هم مهن.", "hypothesis": "कोई प्रेत पेशा कर रहे हैं।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم خضروات", "hypothesis": "कुछ आविष्कारक सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الديناصورات هي احترافية.", "hypothesis": "कोई खाना खाने के लिए पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي ماكينات", "hypothesis": "कुछ मशीनों ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم أنظمة", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "कुछ वैज्ञानिक समझदार हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين هم أنظمة", "hypothesis": "कोई चित्रकार सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت كيانات.", "hypothesis": "कोई गोबलिन एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود أجهزه.", "hypothesis": "कोई सैनिक उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب عبارة عن هياكل.", "hypothesis": "कोई विदेशी संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأطباء أدوارُ.", "hypothesis": "कोई डॉक्टर भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أشياءُ.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب أدوار", "hypothesis": "कोई विद्यार्थी भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "कुछ जासूस लोग हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أساطير", "hypothesis": "कुछ पौराणिक कथाओं के घोड़े हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود هم خضروات.", "hypothesis": "कुछ सैनिक सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح محاربون", "hypothesis": "कुछ योद्धाओं भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس أدوار", "hypothesis": "कुछ भूमिकायाँ जासूस हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم مهن.", "hypothesis": "कोई मौज - मस्ती नहीं कर रहे हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم خضروات", "hypothesis": "कोई वैज्ञानिक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار كائنات حية.", "hypothesis": "कुछ गायें जीव हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي أنواع.", "hypothesis": "कुछ जातियाँ ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء مفاهيم.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "कुछ उपकरणों zmmams रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس أدوات", "hypothesis": "कुछ जासूस उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة ماكينات", "hypothesis": "कुछ मशीनों जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "कुछ सिस्टम zmamams रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين محاربون", "hypothesis": "कुछ ड्रैगन्स योद्धा हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "कुछ प्रेत सिस्टम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الحواسب قوّات.", "hypothesis": "कुछ शक्‍तियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين محترفين", "hypothesis": "कोई चित्रकार पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم إستخبارات", "hypothesis": "कोई जादूगर बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أنظمة", "hypothesis": "कुछ सिस्टम सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الجنود أدواتُ.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "कोई बंदर अक्षर हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "कोई गायों का पेशा नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود وحوش", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم أجسام.", "hypothesis": "कोई समुद्री डाकू वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين مخابرات", "hypothesis": "कुछ बुद्धि जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء هم قوات", "hypothesis": "कुछ शक्‍तियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أساطير", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم قوى", "hypothesis": "कुछ वैज्ञानिक शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المشعوذين عبارة عن مفاهيم.", "hypothesis": "कुछ जादूगर धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطهاة هم مفاهيم.", "hypothesis": "कुछ महाद्वीपीय धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان من الأنواع", "hypothesis": "कुछ घोड़े जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "कुछ वैज्ञानिक अक्षर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي كائنات.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة كائنات حية", "hypothesis": "कुछ जादूगर जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات كائنات حية", "hypothesis": "कोई वार्मूट जीव नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أجهزة.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الوحوش وحوش.", "hypothesis": "कोई दानव राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس مركبات", "hypothesis": "कुछ जासूस वाहन हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأشباح هي إستخبارات", "hypothesis": "कुछ भूत समझ रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات أدوار", "hypothesis": "कुछ भूमिकायाँ खाना - पीना होती हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأشباح هي إستخبارات", "hypothesis": "कोई भूत समझ रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب رموز", "hypothesis": "कुछ विद्यार्थी प्रतीक हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم من الأنواع.", "hypothesis": "कोई शिक्षक जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم من الخضروات.", "hypothesis": "कोई समुद्री डाकू सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "कोई ड्रैगन्स प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي أنظمة", "hypothesis": "कोई बेकर्स सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة تكنولوجيات.", "hypothesis": "कोई समुद्री डाकू तकनीक हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح أطعمة", "hypothesis": "कुछ भूत शिकारी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح هم مفاهيم", "hypothesis": "कुछ भूत शिकारी धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي نوع من الأنواع.", "hypothesis": "कोई भूत जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر بشر", "hypothesis": "कोई बदमाश मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود محاربون", "hypothesis": "कुछ योद्धाओं बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين أدوات", "hypothesis": "कुछ उपकरण सूची कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي كيانات", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي هياكل.", "hypothesis": "कोई बंदर संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات حيوانات", "hypothesis": "कुछ जानवर रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأساطير هي أساطير.", "hypothesis": "कुछ मेंढक कथा हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "कुछ राक्षसों समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجنود محترفون", "hypothesis": "कुछ पेशेवर सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي أدوات", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت ماكينات.", "hypothesis": "कुछ मशीनों ब्ललिन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب كائنات حية.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين أدوار", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل صائدي الأشباح أدوار", "hypothesis": "कुछ भूमिकाएं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين كائنات", "hypothesis": "कुछ लोग बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم أساطير", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أجهزة.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أجهزة.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس هي أشياء", "hypothesis": "कोई जासूस बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات محاربون", "hypothesis": "कोई रोबॉट्स योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحواسب وحوش", "hypothesis": "कोई कंप्यूटर राक्षस हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات حيوانات", "hypothesis": "कोई रोबॉट्स जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي كيانات", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي أنواع.", "hypothesis": "कुछ जातियाँ गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم إستخبارات", "hypothesis": "कुछ मानसिक होते हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم خضروات", "hypothesis": "कोई सूची सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود محاربون", "hypothesis": "कुछ योद्धाओं सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "कुछ समुद्री डाकू बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة هم أجهزة.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين عبارة عن هياكل.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "कुछ समुद्री डाकू जानवरों हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود أدوات", "hypothesis": "कुछ सैनिक यंत्र हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "कुछ प्राणी विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "कोई घोड़े की वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب هم محاربون", "hypothesis": "कुछ योद्धाओं विदेशी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي أشياء.", "hypothesis": "कुछ वस्तुएँ गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "कुछ निगम चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "कुछ भूत शिकारी संरचनाएं कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الجزر هي الأطعمة.", "hypothesis": "कुछ गाड़ियाँ भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي أدوات.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي أدوات.", "hypothesis": "कुछ ड्रैगन्स उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "कुछ सब्ज़ियाँ जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار محترفة", "hypothesis": "कोई गायों पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم أساطير", "hypothesis": "कुछ वैज्ञानिक पौराणिक कथाओं के हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين كائنات", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي كيانات", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الزومبي هم مهن.", "hypothesis": "कुछ पेशा zmams रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "कुछ औज़ार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي ماكينات", "hypothesis": "कुछ मशीनों zmmams कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة كائنات", "hypothesis": "कोई जादूगर लोग नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر وحوش", "hypothesis": "कोई आलू राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات رموز", "hypothesis": "कुछ चिह्न कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي أشياء.", "hypothesis": "कुछ गायों की संपत्ति होती है ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي بشر", "hypothesis": "कोई प्रेत मनुष्य हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء وحوش", "hypothesis": "कुछ डॉक्टर राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "कुछ सैनिकों समझ रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم من الخضروات.", "hypothesis": "कुछ सब्ज़ियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أنظمة.", "hypothesis": "कोई गोबलिन सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء مخلوقات", "hypothesis": "कुछ प्राणी डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب كائنات حية", "hypothesis": "कुछ जीव विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "कुछ भूमिकाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "कुछ विशेषज्ञ व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات كائنات", "hypothesis": "कोई उपद्रवी लोग नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة أدوات", "hypothesis": "कोई फायदा नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات هي إستخبارات", "hypothesis": "कुछ खानाोसी बुद्धि है.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء خضروات", "hypothesis": "कुछ सब्ज़ियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي مهن", "hypothesis": "कुछ पेशा Mrods कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي كيانات.", "hypothesis": "कुछ बंदर खंड हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "कुछ औज़ार गाड़ीे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "कुछ घोड़े बुद्धि हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الموسيقيين كائنات.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود هم حيوانات", "hypothesis": "कुछ जानवर सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان ماكينات", "hypothesis": "कोई घोड़े मशीनों हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ الغيلان شخصياتُ.", "hypothesis": "कुछ अक्षर निवास कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء عبارة عن مفاهيم.", "hypothesis": "कुछ डॉक्टर धारणाएँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هي تكنولوجيات.", "hypothesis": "कुछ विदेशी तकनीक हैं।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "कुछ लोग रोबोट हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "कुछ चित्रकार खंड हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين مخلوقات", "hypothesis": "कुछ जोकर प्राणी हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الفرسان هم شخصيات", "hypothesis": "कोई घोड़े अक्षर हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب ماكينات", "hypothesis": "कुछ मशीनों के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "कुछ व्यवसाय किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الديناصورات مخلوقات", "hypothesis": "कोई खाना देने वाले जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوغرافات هي كائنات.", "hypothesis": "कोई तूफानी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "कुछ तकनीकों चित्रकार हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ أوغرافات هي أجهزةُ.", "hypothesis": "कोई तूफान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم مهن", "hypothesis": "कुछ व्यवसाय आविष्कार कर रहे हैं।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي كائنات.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل أشباحها حيوانات", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي كيانات", "hypothesis": "कोई खराबी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "कोई रोबॉट्स मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة أطعمة", "hypothesis": "कोई स्वादिष्ट भोजन नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع السحرة هي تكنولوجيات.", "hypothesis": "कोई जादूगर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين إستخبارات", "hypothesis": "कुछ सूची समझ रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأطباء هم مركبات.", "hypothesis": "कुछ डॉक्टर वाहन हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المزارعين هم أشياء.", "hypothesis": "कुछ चीजें किसान हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطلاب أدوار", "hypothesis": "कुछ विद्यार्थी भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي أدوات.", "hypothesis": "कोई बंदर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم قوى", "hypothesis": "कोई जोकर सेना हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي ماكينات.", "hypothesis": "कुछ मशीनों बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي مهن", "hypothesis": "कोई Merroks काम कर रहे हैं।", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس أطعمة", "hypothesis": "कुछ जासूस भोजन कर रहे हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم أنظمة", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "कुछ जानवर शिक्षक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "कुछ प्राणी रोबोट हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع المعلمين محترفون.", "hypothesis": "कुछ टीचर पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الأجانب هي تكنولوجيات.", "hypothesis": "कोई विदेशी तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود كائنات", "hypothesis": "कोई बंदर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح رموز", "hypothesis": "कुछ चिह्न भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "وجميع القراصنة تكنولوجيات.", "hypothesis": "कुछ समुद्री डाकू तकनीक हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "कुछ बेकर्स निगम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح عبارة عن ادوات", "hypothesis": "कोई भूत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر كائنات حية", "hypothesis": "कुछ मोटर - गाड़ीें जीव हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم مركبات", "hypothesis": "कुछ वाहन जादूगर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس محترفون", "hypothesis": "कोई जासूस पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحوريات هي أنواع.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العفاريت كائنات حية", "hypothesis": "कुछ जीव गोबोलिन हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح كائنات حية", "hypothesis": "कुछ जीव भूत हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع أشباح الصيادين هم قوى", "hypothesis": "कुछ सेनाओं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المعلمين وحوش", "hypothesis": "कुछ शिक्षक राक्षस हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "कोई कंप्यूटर संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعين هم شخصيات", "hypothesis": "कोई सूची अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "कोई चित्रकार नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة محترفون", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "कोई किसान संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء هم خضروات", "hypothesis": "कुछ सब्ज़ियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الروبوتات هي هياكل.", "hypothesis": "कोई रोबॉट्स संरचना नहीं है.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع المخترعين هي كيانات.", "hypothesis": "कोई सूची व्यवस्थाएं निगम नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "कुछ यंत्र zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء عبارة عن مفاهيم.", "hypothesis": "कोई डॉक्टर विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجواسيس عبارة عن هياكل", "hypothesis": "कुछ संरचनाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب عبارة عن هياكل.", "hypothesis": "कुछ विद्यार्थियों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل العلماء آلات", "hypothesis": "कुछ मशीनों के वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المهرجين هم أشياء.", "hypothesis": "कुछ वस्तुएँ जोकर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع القرود هي أنظمة.", "hypothesis": "कुछ बंदर सिस्टम हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الحوريات هي كيانات", "hypothesis": "कुछ निगम Merraks कर रहे हैं.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كُلّ العفاريت أدواتُ.", "hypothesis": "कोई जानाबलिन यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الاشباح هي خضروات", "hypothesis": "कोई भूत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "كل الأطباء هم أساطير", "hypothesis": "कोई डॉक्टर कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}
+{"premise": "جميع الطلاب هم تكنولوجيات.", "hypothesis": "कुछ तकनीक विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "hi", "codeswitch_type": "ar_prem_hi_hyp"}

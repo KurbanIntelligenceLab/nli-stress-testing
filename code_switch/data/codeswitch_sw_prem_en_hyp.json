@@ -1,0 +1,1000 @@
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "Some monsters are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Abiria wote ni magari.", "hypothesis": "Some vehicles are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni wastadi.", "hypothesis": "Some clowns are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "Some animals are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "No knights are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni wahusika.", "hypothesis": "No wizards are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "Some painters are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "Some bakers are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "No scientists are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wataalamu.", "hypothesis": "No students are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni viumbe hai.", "hypothesis": "No teachers are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni vitu.", "hypothesis": "Some teachers are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni wanyama.", "hypothesis": "Some zombies are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "Some teachers are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "No scientists are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni wanyama wakubwa sana.", "hypothesis": "Some farmers are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "No doctors are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "Some teachers are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "Some doctors are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "Some forces are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vicheshi vyote ni vitu.", "hypothesis": "Some things are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni magari.", "hypothesis": "Some vehicles are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "Some things are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni ishara.", "hypothesis": "No bakers are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni vyakula.", "hypothesis": "Some foods are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "Some knights are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "Some cows are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "No dragons are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "No monkeys are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "No zombies are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "Some vegetables are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni mashine.", "hypothesis": "Some cows are machines.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "Some teachers are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mifano.", "hypothesis": "No dragons are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "Some students are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni viumbe.", "hypothesis": "Some beings are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "Some structures are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "No spies are vehicles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "Some structures are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "No teachers are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "No goblins are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "No computers are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "No monkeys are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mifumo.", "hypothesis": "No students are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "Some knights are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "Some objects are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "Some soldiers are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanadamu.", "hypothesis": "No teachers are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "Some goblins are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni mashirika.", "hypothesis": "Some farmers are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "Some knights are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "No ghost hunters are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "Some scientists are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "No clowns are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "No monkeys are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni mashine.", "hypothesis": "Some machines are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "No goblins are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni vyombo.", "hypothesis": "No goblins are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "Some organisms are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "No ghost hunters are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "Some objects are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni wanyama.", "hypothesis": "Some knights are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni magari.", "hypothesis": "Some vehicles are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "No computers are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi zote ni majengo.", "hypothesis": "Some structures are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyang'anyi wote ni mashujaa.", "hypothesis": "Some warriors are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "Some ghost hunters are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni majengo.", "hypothesis": "No carrots are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "Some things are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "No pirates are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni kazi za mikono.", "hypothesis": "Some occupations are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "Some farmers are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni magari.", "hypothesis": "No soldiers are vehicles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "No computers are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "Some carrots are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "No knights are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "No bakers are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "Some scientists are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Malaya wote ni vyakula.", "hypothesis": "Some mermaids are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mashirika.", "hypothesis": "Some entities are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "No ogres are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wanyama.", "hypothesis": "Some animals are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "Some tools are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "Some vegetables are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni werevu.", "hypothesis": "No goblins are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni vifaa vya kuchezea.", "hypothesis": "Some carrots are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "No ogres are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni wanadamu.", "hypothesis": "Some humans are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni magari.", "hypothesis": "Some vehicles are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "Some carrots are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "Some forces are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "Some bakers are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni mashujaa.", "hypothesis": "Some computers are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "No aliens are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tangau wote ni madubwana.", "hypothesis": "Some monsters are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "Some goblins are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "Some things are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "No dragons are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "No soldiers are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "No chefs are vehicles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "Some intelligences are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni majengo.", "hypothesis": "Some structures are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "No chefs are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "No farmers are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "No wizards are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mashujaa.", "hypothesis": "Some chefs are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wanyama.", "hypothesis": "Some animals are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "Some teachers are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni vitu.", "hypothesis": "Some mermaids are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "Some bakers are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni wataalamu.", "hypothesis": "Some doctors are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "No carrots are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "Some things are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "No painters are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni wataalamu.", "hypothesis": "Some knights are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "No pirates are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "No bakers are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni washiriki.", "hypothesis": "Some musicians are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni majengo.", "hypothesis": "Some structures are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "Some symbols are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "No bakers are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "Some soldiers are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wahusika.", "hypothesis": "Some characters are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "Some foods are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "Some ogres are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "Some vehicles are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "No musicians are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "Some teachers are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "Some bakers are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "No bakers are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "Some monsters are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "No scientists are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mboga.", "hypothesis": "No chefs are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "Some inventors are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "No chefs are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "No farmers are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "Some foods are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "No inventors are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "No pirates are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni wanyama.", "hypothesis": "Some animals are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "No cows are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "Some farmers are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "No aliens are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "Some students are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote wana madaraka.", "hypothesis": "No soldiers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "No students are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "Some vehicles are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni hekaya.", "hypothesis": "Some myths are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "Some dragons are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "Some foods are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "Some goblins are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "Some ghost hunters are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vicheshi vyote ni majengo.", "hypothesis": "No clowns are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni wapiganaji.", "hypothesis": "Some warriors are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "Some instruments are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "Some organisms are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni vyakula.", "hypothesis": "Some foods are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "Some foods are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "Some cows are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "Some characters are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "Some organisms are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "Some structures are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "Some monkeys are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "Some concepts are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "Some humans are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "No ghost hunters are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "Some chefs are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote wanafanya kazi mbalimbali.", "hypothesis": "Some teachers are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "Some students are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "No spies are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "Some characters are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "Some bakers are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni ishara.", "hypothesis": "Some symbols are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "No pirates are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "No ghost hunters are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "Some beings are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "Some organisms are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni vifaa.", "hypothesis": "No dinosaurs are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "No soldiers are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "No pirates are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "No cows are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni madubwana.", "hypothesis": "Some monsters are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wataalamu.", "hypothesis": "No pirates are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "Some concepts are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "Some carrots are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "Some intelligences are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "Some spies are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni mawazo.", "hypothesis": "Some knights are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "Some beings are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni mali za wanyama.", "hypothesis": "Some dinosaurs are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "Some creatures are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "Some monsters are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni kani.", "hypothesis": "Some forces are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "Some pirates are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "No spies are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni vifaa.", "hypothesis": "No students are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "Some creatures are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Fahali zote ni wanyama.", "hypothesis": "Some carrots are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "Some animals are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni akili.", "hypothesis": "Some zombies are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "No wizards are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "Some aliens are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "Some characters are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wanadamu.", "hypothesis": "Some cows are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "Some foods are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni wahusika.", "hypothesis": "No clowns are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni mboga.", "hypothesis": "No cows are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "No bakers are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wzinga wote ni vyombo.", "hypothesis": "Some instruments are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "No dragons are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "Some students are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "No monkeys are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "Some instruments are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "No clowns are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "No computers are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "Some vegetables are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "Some tools are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni tekinolojia.", "hypothesis": "Some ghosts are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni kubwa sana.", "hypothesis": "Some monsters are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni wanadamu.", "hypothesis": "Some humans are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "No students are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "Some pirates are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "Some soldiers are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni wanyama.", "hypothesis": "Some dragons are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "No aliens are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "Some objects are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wapiganaji.", "hypothesis": "No pirates are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "Some vehicles are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "Some beings are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "Some characters are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "Some vehicles are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "Some species are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "Some dinosaurs are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni wanadamu.", "hypothesis": "Some humans are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni majengo.", "hypothesis": "No inventors are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "No computers are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wahusika.", "hypothesis": "Some bakers are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "Some instruments are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "Some musicians are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "No farmers are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "Some soldiers are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "Some technologies are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "No robots are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wigizi wote ni vyombo.", "hypothesis": "No wizards are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "Some structures are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wanadamu.", "hypothesis": "Some humans are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wanadamu.", "hypothesis": "No spies are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni madubwana.", "hypothesis": "Some spies are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "Some ogres are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "No painters are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "No zombies are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "Some scientists are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni magari.", "hypothesis": "Some students are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "Some knights are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "No wizards are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni viumbe.", "hypothesis": "No inventors are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni spishi.", "hypothesis": "Some inventors are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni vifaa.", "hypothesis": "Some devices are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "No students are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "Some myths are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni werevu.", "hypothesis": "No painters are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mashirika.", "hypothesis": "Some students are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "No students are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "No painters are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "Some spies are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "Some pirates are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "Some robots are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "Some knights are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "Some humans are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "No teachers are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "Some bakers are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "No painters are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "No teachers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "Some zombies are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "No zombies are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mifumo.", "hypothesis": "Some systems are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "Some dragons are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "Some forces are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "Some beings are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wanaotembelea eneo hilo ni viumbe.", "hypothesis": "No goblins are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "No scientists are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "Some technologies are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "No wizards are vehicles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "Some ghosts are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "Some robots are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "Some mermaids are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni nguvu.", "hypothesis": "Some dragons are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "Some foods are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "Some forces are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "Some clowns are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "No spies are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "Some monkeys are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "Some myths are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni mboga.", "hypothesis": "No aliens are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "Some myths are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "No aliens are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wana madaraka.", "hypothesis": "No farmers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "Some characters are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "Some characters are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "Some animals are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "No farmers are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "Some robots are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vifaa.", "hypothesis": "Some pirates are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Fahali zote ni mashujaa.", "hypothesis": "No carrots are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "Some systems are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "No ghost hunters are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mbwa wote wa opagni wanafanya kazi mbalimbali.", "hypothesis": "No ogres are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wahusika.", "hypothesis": "No spies are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "Some characters are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "No chefs are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni ishara.", "hypothesis": "No ogres are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mashine.", "hypothesis": "No spies are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "Some myths are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wanyama.", "hypothesis": "Some animals are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "Some occupations are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "No bakers are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "Some beings are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni madubwana.", "hypothesis": "No ghosts are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "No mermaids are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "No scientists are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mifumo.", "hypothesis": "Some systems are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "Some knights are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "Some entities are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni mboga.", "hypothesis": "Some vegetables are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "Some zombies are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni aina mbalimbali.", "hypothesis": "Some students are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni tekinolojia.", "hypothesis": "Some musicians are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "Some vegetables are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni wapiganaji.", "hypothesis": "No dinosaurs are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni spishi.", "hypothesis": "Some doctors are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "No pirates are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "Some painters are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "Some characters are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "Some ghosts are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni ishara.", "hypothesis": "Some symbols are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "Some spies are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "Some organisms are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni wataalamu.", "hypothesis": "No aliens are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mambo.", "hypothesis": "No ghost hunters are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "Some musicians are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "Some technologies are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "Some objects are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "No chefs are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni werevu.", "hypothesis": "Some intelligences are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mawazo.", "hypothesis": "Some concepts are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "No bakers are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "Some objects are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyombo.", "hypothesis": "No ghost hunters are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "Some ogres are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "Some aliens are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "Some zombies are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "No ogres are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "Some students are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "Some instruments are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "Some teachers are machines.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "No aliens are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni vifaa.", "hypothesis": "No goblins are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "No mermaids are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "No teachers are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni madubwana.", "hypothesis": "Some monsters are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "Some tools are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "Some intelligences are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote ni wanajeshi.", "hypothesis": "No ogres are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "No dinosaurs are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "Some structures are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni shughuli za kila siku.", "hypothesis": "Some occupations are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "Some farmers are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wahusika.", "hypothesis": "Some characters are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "Some spies are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "No ghosts are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wanadamu.", "hypothesis": "Some monkeys are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "Some monsters are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "Some aliens are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "Some beings are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "No painters are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni kani.", "hypothesis": "No bakers are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "Some systems are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "Some monsters are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "No aliens are vehicles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "Some creatures are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "Some students are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "No teachers are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "Some objects are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "Some entities are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni tekinolojia.", "hypothesis": "Some technologies are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "No zombies are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "Some machines are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "Some vehicles are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni mboga.", "hypothesis": "No ogres are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maaskari wote ni wapiganaji.", "hypothesis": "Some mermaids are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "No carrots are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "Some concepts are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote wana madaraka.", "hypothesis": "Some roles are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "Some devices are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "Some aliens are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "Some roles are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "No wizards are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni ala za muziki.", "hypothesis": "Some dinosaurs are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "Some tools are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "Some beings are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "No wizards are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "Some concepts are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni viumbe.", "hypothesis": "Some creatures are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "Some monkeys are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "Some machines are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "Some vehicles are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "No knights are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni mawazo.", "hypothesis": "Some carrots are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "Some soldiers are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni wahusika.", "hypothesis": "Some dragons are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni wajibu.", "hypothesis": "Some carrots are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "No zombies are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "Some painters are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "Some structures are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "Some knights are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "Some ogres are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kondoo wote ni wanyama.", "hypothesis": "Some animals are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni werevu.", "hypothesis": "No doctors are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mashine.", "hypothesis": "Some bakers are machines.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "Some foods are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni vyakula.", "hypothesis": "Some foods are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wataalamu.", "hypothesis": "Some monkeys are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "Some musicians are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni wanyama.", "hypothesis": "Some chefs are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "No ghosts are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "Some cows are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "Some concepts are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni spishi.", "hypothesis": "Some wizards are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "Some ghosts are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "No teachers are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni aina mbalimbali.", "hypothesis": "Some robots are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni majeshi.", "hypothesis": "No spies are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "No knights are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "Some characters are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "Some forces are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote wana madaraka.", "hypothesis": "Some roles are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "Some creatures are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "No goblins are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "Some computers are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "Some chefs are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "Some ghosts are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "Some creatures are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "Some inventors are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "No bakers are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "Some creatures are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wanadamu.", "hypothesis": "Some painters are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Nyeoli zote ni mashine.", "hypothesis": "No ogres are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "Some myths are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "Some wizards are machines.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "No teachers are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "No ghosts are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "Some intelligences are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote wana mawazo fulani.", "hypothesis": "Some concepts are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "Some technologies are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wapiganaji.", "hypothesis": "Some warriors are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Pepo zote ni nguvu.", "hypothesis": "No wizards are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni wahusika.", "hypothesis": "Some chefs are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wapiganaji.", "hypothesis": "No spies are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "Some clowns are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "No ogres are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "Some characters are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni vyombo.", "hypothesis": "No doctors are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "Some doctors are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni mashine.", "hypothesis": "Some machines are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "Some beings are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "Some aliens are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "Some ghosts are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "Some monsters are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "Some intelligences are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "Some occupations are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "Some devices are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "Some knights are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wanyama wakubwa sana.", "hypothesis": "No monkeys are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "Some musicians are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "Some pirates are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vyakula.", "hypothesis": "Some foods are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "No ghosts are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni madubwana.", "hypothesis": "No dragons are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "No mermaids are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "Some soldiers are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni nguvu.", "hypothesis": "No farmers are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "No teachers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "No ogres are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni vitu.", "hypothesis": "No wizards are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "No bakers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "No ghosts are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "No clowns are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "No scientists are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni viumbe.", "hypothesis": "Some carrots are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mashujaa.", "hypothesis": "No bakers are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wapiganaji.", "hypothesis": "Some students are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "No dinosaurs are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "Some bakers are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni tekinolojia.", "hypothesis": "Some technologies are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "No mermaids are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "No mermaids are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "Some vegetables are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "Some chefs are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "Some mermaids are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "Some chefs are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "Some myths are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe hai.", "hypothesis": "No soldiers are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "Some pirates are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "No farmers are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "Some pirates are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "Some concepts are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni vitu.", "hypothesis": "Some scientists are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "Some farmers are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "No dinosaurs are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "Some humans are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mawazo.", "hypothesis": "No dragons are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "Some ogres are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote zina uhai.", "hypothesis": "Some computers are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabehewa yote ni vyombo.", "hypothesis": "Some mermaids are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "Some instruments are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "Some knights are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "Some spies are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni vyombo.", "hypothesis": "No wizards are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "Some monsters are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni werevu.", "hypothesis": "No teachers are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "Some computers are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "Some aliens are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wa jamii fulani.", "hypothesis": "Some species are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "Some mermaids are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "Some computers are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "Some animals are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "No ghost hunters are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "No mermaids are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "Some doctors are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "No ghosts are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "No painters are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "Some structures are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "Some robots are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "Some characters are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wajibu.", "hypothesis": "Some ghosts are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni wataalamu.", "hypothesis": "Some musicians are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "Some creatures are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vitu.", "hypothesis": "Some objects are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni mifumo.", "hypothesis": "Some systems are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "No chefs are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "No chefs are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "Some machines are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "No bakers are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni nguvu.", "hypothesis": "Some monkeys are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "Some occupations are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni mifumo.", "hypothesis": "Some systems are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "No farmers are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni mboga.", "hypothesis": "Some goblins are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "Some things are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "Some roles are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "Some organisms are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "Some intelligences are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni tekinolojia.", "hypothesis": "No teachers are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "Some monkeys are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "Some tools are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "No scientists are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "No dinosaurs are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "Some intelligences are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "No chefs are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "Some vegetables are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "Some machines are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "Some occupations are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni vitu.", "hypothesis": "No dragons are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "Some symbols are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "Some chefs are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni ishara.", "hypothesis": "Some symbols are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni majengo.", "hypothesis": "No dinosaurs are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "No ghost hunters are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "Some things are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wanyama.", "hypothesis": "Some scientists are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "No inventors are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "Some entities are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "No cows are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "Some carrots are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "No inventors are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "Some forces are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "Some intelligences are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni wanadamu.", "hypothesis": "No knights are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni ishara.", "hypothesis": "Some symbols are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni tekinolojia.", "hypothesis": "Some monkeys are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "Some characters are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "Some animals are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "No painters are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "No bakers are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wa jamii fulani.", "hypothesis": "Some pirates are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "No scientists are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "Some devices are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "Some things are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "Some monkeys are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "No scientists are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "Some animals are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wapiganaji.", "hypothesis": "No ghost hunters are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni wataalamu.", "hypothesis": "Some professionals are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "Some cows are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "Some characters are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "Some concepts are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "Some doctors are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "Some aliens are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "Some mermaids are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "Some structures are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "Some beings are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "No carrots are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "Some carrots are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wanadamu.", "hypothesis": "Some pirates are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "No farmers are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "No ghosts are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "No computers are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "Some ghost hunters are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "Some instruments are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "No students are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "Some things are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wanadamu.", "hypothesis": "No inventors are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "Some knights are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "Some systems are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "Some animals are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "Some professionals are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni werevu.", "hypothesis": "No pirates are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni mboga.", "hypothesis": "Some farmers are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "No pirates are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "Some bakers are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "No aliens are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "No knights are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "No zombies are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tangau wote ni ngano.", "hypothesis": "Some dinosaurs are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "Some things are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "No dragons are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "No aliens are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "Some zombies are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "Some ghost hunters are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "Some symbols are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "Some beings are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "No musicians are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "Some carrots are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mashirika.", "hypothesis": "No scientists are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "No spies are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni viumbe hai.", "hypothesis": "No painters are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "Some carrots are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "Some beings are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "Some machines are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni tekinolojia.", "hypothesis": "Some farmers are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "No chefs are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "Some instruments are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "No clowns are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "Some doctors are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni mashine.", "hypothesis": "Some machines are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "Some technologies are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "Some doctors are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "Some objects are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "Some pirates are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "Some species are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni wataalamu.", "hypothesis": "Some professionals are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "Some cows are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "Some species are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "Some forces are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni ngano.", "hypothesis": "No painters are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "No farmers are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "No doctors are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mashirika.", "hypothesis": "Some entities are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "Some entities are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "Some animals are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "No ghosts are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "Some scientists are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni aina.", "hypothesis": "Some computers are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote ni mifumo.", "hypothesis": "Some ghost hunters are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni wataalamu.", "hypothesis": "Some professionals are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "Some myths are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "No ogres are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mashirika.", "hypothesis": "No ghost hunters are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "No scientists are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "No computers are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "Some inventors are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "Some inventors are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "No zombies are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maua yote ya zombies ni vyakula.", "hypothesis": "Some foods are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "Some doctors are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote zina wajibu.", "hypothesis": "Some roles are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "No farmers are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "No cows are symbols.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "Some devices are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Makororo yote ni wahusika.", "hypothesis": "No carrots are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "Some chefs are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "Some concepts are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "Some symbols are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote wasiotambuliwa ni vyombo vya kutumiwa.", "hypothesis": "No aliens are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "Some cows are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni wa jamii mbalimbali.", "hypothesis": "No aliens are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "No cows are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "No painters are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni vyakula.", "hypothesis": "Some ghosts are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mifano.", "hypothesis": "Some spies are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni wanadamu.", "hypothesis": "Some wizards are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vifaa vya kazi.", "hypothesis": "Some ghost hunters are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni wapiganaji.", "hypothesis": "Some musicians are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni mashirika.", "hypothesis": "Some entities are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni vyombo.", "hypothesis": "Some teachers are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "No computers are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "No ghost hunters are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni wahusika.", "hypothesis": "No musicians are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "No soldiers are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni wanadamu.", "hypothesis": "Some farmers are humans.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vitu.", "hypothesis": "No robots are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "Some symbols are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mawazo.", "hypothesis": "Some monkeys are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wataalamu.", "hypothesis": "Some professionals are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "Some structures are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "Some instruments are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "No spies are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabegwa wote ni mawazo.", "hypothesis": "No mermaids are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote hutimiza majukumu yao.", "hypothesis": "Some roles are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "Some animals are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "Some bakers are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "No monkeys are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni werevu.", "hypothesis": "Some intelligences are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "No spies are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "Some symbols are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "Some beings are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "Some monsters are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni majengo.", "hypothesis": "No mermaids are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "No soldiers are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "Some chefs are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vyombo.", "hypothesis": "No musicians are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "Some systems are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "No ghosts are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni werevu.", "hypothesis": "No musicians are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni kani.", "hypothesis": "Some forces are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "No zombies are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "Some inventors are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "Some mermaids are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni wataalamu.", "hypothesis": "No dinosaurs are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "No teachers are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mashine.", "hypothesis": "Some machines are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "Some systems are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "Some scientists are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "No ghost hunters are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mifumo.", "hypothesis": "No painters are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni mashirika.", "hypothesis": "No goblins are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "No soldiers are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni majengo.", "hypothesis": "No aliens are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "No doctors are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "Some goblins are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "No students are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "Some spies are beings.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni ngano.", "hypothesis": "Some myths are knights.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "Some soldiers are vegetables.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni mashujaa.", "hypothesis": "Some warriors are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "No ghosts are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote wana madaraka.", "hypothesis": "Some roles are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "Some carrots are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote wanafanya kazi.", "hypothesis": "No chefs are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "No scientists are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni viumbe hai.", "hypothesis": "Some cows are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni spishi.", "hypothesis": "Some species are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "Some myths are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "No computers are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "Some concepts are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "Some professionals are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "Some devices are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "Some spies are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "Some machines are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "Some systems are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mashujaa.", "hypothesis": "Some dragons are warriors.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "Some zombies are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "Some forces are computers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wataalamu.", "hypothesis": "No painters are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni werevu.", "hypothesis": "No wizards are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "Some systems are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "Some soldiers are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "No monkeys are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "No cows are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "No teachers are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "Some things are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "Some mermaids are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "No knights are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "Some soldiers are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "No pirates are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "No carrots are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni werevu.", "hypothesis": "Some intelligences are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni kani.", "hypothesis": "Some forces are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "No soldiers are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "Some scientists are forces.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "Some wizards are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "Some chefs are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "Some things are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni spishi.", "hypothesis": "Some knights are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "Some scientists are characters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "Some inventors are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wingu wote ni viumbe.", "hypothesis": "Some wizards are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Malori wote ni viumbe hai.", "hypothesis": "No mermaids are organisms.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "Some devices are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "No ogres are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "No teachers are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "Some spies are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "No painters are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "Some ghosts are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "Some pirates are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "Some knights are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tangau wote huchangia.", "hypothesis": "Some roles are dinosaurs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "No ghosts are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "Some students are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "Some students are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wa jamii mbalimbali.", "hypothesis": "No teachers are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "No pirates are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "No dragons are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mifumo.", "hypothesis": "No bakers are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "No pirates are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "Some beings are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "Some forces are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "Some ghost hunters are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni dhana tu.", "hypothesis": "Some ghost hunters are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni spishi.", "hypothesis": "No ghosts are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "No carrots are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "Some warriors are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vifaa.", "hypothesis": "Some tools are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "No dragons are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "No monkeys are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "Some animals are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wa ukoo ni hadithi za kutungwa.", "hypothesis": "Some ogres are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "Some monsters are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "No farmers are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "Some professionals are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "No dragons are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "Some machines are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "No farmers are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "Some aliens are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "Some instruments are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "Some professionals are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "Some painters are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka wana madaraka.", "hypothesis": "Some roles are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "Some beings are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "No soldiers are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "Some computers are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "Some devices are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "No spies are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "No robots are warriors.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni kubwa sana.", "hypothesis": "No computers are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "No robots are animals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "No goblins are roles.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "No zombies are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wa aina mbalimbali.", "hypothesis": "Some species are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "Some bakers are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni werevu.", "hypothesis": "Some intelligences are chefs.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "No inventors are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni wapiganaji.", "hypothesis": "Some warriors are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "Some computers are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "Some pirates are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vyombo.", "hypothesis": "Some pirates are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "Some teachers are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "Some pirates are animals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni vyombo.", "hypothesis": "Some soldiers are instruments.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "Some creatures are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "No knights are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wageni wote ni wapiganaji.", "hypothesis": "Some warriors are aliens.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "Some objects are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "Some entities are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "Some ghost hunters are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni vyakula.", "hypothesis": "Some carrots are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "No farmers are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "Some teachers are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "Some devices are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "Some dragons are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "Some vegetables are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni wataalamu.", "hypothesis": "No cows are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "Some scientists are myths.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "No bakers are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "No zombies are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "Some vehicles are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "No aliens are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "Some beings are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "Some occupations are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "Some instruments are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "Some machines are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "No wizards are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabuu yote ni madubwana.", "hypothesis": "No carrots are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "Some animals are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni mifano.", "hypothesis": "Some mermaids are symbols.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "Some cows are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Viumbe wote wa zombies ni wanadamu.", "hypothesis": "No zombies are humans.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "Some cows are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "Some ogres are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "Some doctors are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "Some soldiers are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "Some vegetables are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila moja ya meli hizo ni mifumo.", "hypothesis": "No goblins are systems.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "Some inventors are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "Some creatures are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni viumbe hai.", "hypothesis": "Some organisms are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "Some chefs are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "Some roles are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "Some wizards are occupations.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "No mermaids are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "No chefs are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni watu wenye akili.", "hypothesis": "Some dinosaurs are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "Some creatures are dragons.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mboga.", "hypothesis": "Some vegetables are doctors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "Some bakers are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "No students are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "Some things are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "Some occupations are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mashirika.", "hypothesis": "Some monkeys are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "Some tools are carrots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "Some knights are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "Some objects are musicians.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "Some animals are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "Some inventors are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "Some vehicles are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni mashine.", "hypothesis": "No knights are machines.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za ogre ni wahusika.", "hypothesis": "Some characters are ogres.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "No ghost hunters are monsters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "Some pirates are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "Some doctors are concepts.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "Some aliens are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "Some beings are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "Some painters are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "Some clowns are creatures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "No knights are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni mashine.", "hypothesis": "Some machines are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "Some occupations are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "Some species are bakers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "No dinosaurs are creatures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "No ogres are objects.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "Some teachers are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "Some myths are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "Some objects are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "Some technologies are painters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "No ogres are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wafanyakazi.", "hypothesis": "Some occupations are inventors.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "Some inventors are objects.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "No teachers are things.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "Some animals are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "No mermaids are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "No robots are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vyakula.", "hypothesis": "No chefs are foods.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizungu yote ni tekinolojia.", "hypothesis": "No wizards are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni werevu.", "hypothesis": "Some inventors are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni magari.", "hypothesis": "Some doctors are vehicles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni vitu.", "hypothesis": "Some things are farmers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "Some students are roles.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "No monkeys are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "No clowns are forces.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mashine.", "hypothesis": "Some machines are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "Some myths are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "Some intelligences are soldiers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "Some things are pirates.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "No mermaids are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni vyakula.", "hypothesis": "Some spies are foods.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "No farmers are intelligences.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "Some systems are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "Some vehicles are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "No ghost hunters are species.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "Some animals are teachers.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "Some creatures are robots.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni wataalamu.", "hypothesis": "Some teachers are professionals.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "No aliens are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "No monkeys are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "Some foods are cows.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni mifano.", "hypothesis": "Some symbols are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "Some pirates are technologies.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "Some bakers are entities.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "Some monkeys are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "No painters are technologies.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni vifaa.", "hypothesis": "No ghosts are devices.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Viboko vyote ni viumbe hai.", "hypothesis": "Some carrots are organisms.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "Some vehicles are wizards.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "Some inventors are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni wataalamu.", "hypothesis": "No spies are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "Some mermaids are species.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "No computers are tools.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walabli wote ni viumbe hai.", "hypothesis": "Some organisms are goblins.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "Some organisms are ghosts.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni kani.", "hypothesis": "Some forces are ghost hunters.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Walimu wote ni madubwana.", "hypothesis": "Some teachers are monsters.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "Some dragons are intelligences.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "No ghosts are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "No computers are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni wahusika.", "hypothesis": "No inventors are characters.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachoraji wote ni wahai.", "hypothesis": "No painters are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "No wizards are professionals.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "No farmers are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "Some vegetables are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "No robots are structures.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni mashirika.", "hypothesis": "No inventors are entities.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "No pirates are beings.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizombi yote ni ala za muziki.", "hypothesis": "Some instruments are zombies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "No doctors are concepts.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "No wizards are occupations.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "Some objects are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "Some structures are spies.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni majengo.", "hypothesis": "Some students are structures.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanasayansi wote ni mashine.", "hypothesis": "Some machines are scientists.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wachekeshaji wote ni vitu.", "hypothesis": "Some objects are clowns.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "Some carrots are tools.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "Some monkeys are systems.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "Some myths are monkeys.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "Some entities are mermaids.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Vichaka vyote ni vyombo.", "hypothesis": "No goblins are instruments.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "Some chefs are things.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Mizuka wote ni mboga.", "hypothesis": "No ghosts are vegetables.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "Some inventors are devices.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "No doctors are myths.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}
+{"premise": "Wanafunzi wote ni tekinolojia.", "hypothesis": "Some technologies are students.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "en", "codeswitch_type": "sw_prem_en_hyp"}

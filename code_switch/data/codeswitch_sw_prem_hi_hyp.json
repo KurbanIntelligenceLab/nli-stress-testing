@@ -1,0 +1,1000 @@
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Abiria wote ni magari.", "hypothesis": "कुछ वाहनों Merwaks कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni wastadi.", "hypothesis": "कुछ जोकर पेशेवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni wahusika.", "hypothesis": "कोई विजार्ड अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "कुछ बेकर्स जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "कोई वैज्ञानिक शक्‍तियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wataalamu.", "hypothesis": "कोई विद्यार्थी पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni viumbe hai.", "hypothesis": "कोई शिक्षक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni vitu.", "hypothesis": "कुछ शिक्षक चीज़ें हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni wanyama.", "hypothesis": "कुछ प्रेत जानवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni wanyama wakubwa sana.", "hypothesis": "कुछ किसान राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "कोई डॉक्टर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "कुछ शिक्षक वाहन हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "कुछ सेनाओं zmamams कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vicheshi vyote ni vitu.", "hypothesis": "कुछ चीजें जोकर कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni magari.", "hypothesis": "कुछ वाहन भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni ishara.", "hypothesis": "कोई बेकर्स चिह्न हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni vyakula.", "hypothesis": "कुछ भोजन भोजन खाना खाना - पीना होता है ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "कुछ घोड़े जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "कुछ गायों जानवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "कोई ड्रैगन्स बुद्धि हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni mashine.", "hypothesis": "कुछ गायों की मशीनों हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mifano.", "hypothesis": "कोई ड्रैगन्स चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "कुछ विद्यार्थी बातें कर रहे हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni viumbe.", "hypothesis": "कुछ लोग भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "कुछ संरचना किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "कोई जासूस वाहन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "कुछ संरचनाएं भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "कोई शिक्षक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "कोई कंप्यूटर सेनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "कोई बंदर कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mifumo.", "hypothesis": "कोई विद्यार्थी सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "कुछ घोड़े उपकरणों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "कुछ सैनिक प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanadamu.", "hypothesis": "कोई शिक्षक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "कुछ बेबलिन चक्कर काट रहे हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni mashirika.", "hypothesis": "कुछ किसान निगम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "कोई भूत शिकारी तकनीक नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "कुछ वैज्ञानिक जाति हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "कोई जोकर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "कोई बंदर जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni mashine.", "hypothesis": "कुछ मशीनों रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "कोई जानाबलिन मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni vyombo.", "hypothesis": "कोई जानाबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni viumbe hai.", "hypothesis": "कुछ जीव बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni wanyama.", "hypothesis": "कुछ घोड़े जानवरों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni magari.", "hypothesis": "कुछ वाहनों काररोस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi zote ni majengo.", "hypothesis": "कुछ संरचनाएं जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyang'anyi wote ni mashujaa.", "hypothesis": "कुछ योद्धा गोबलिन हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "कुछ भूत शिकारी यंत्र हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni majengo.", "hypothesis": "कोई लेफ्टिनेंट संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni kazi za mikono.", "hypothesis": "कुछ व्यापार जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "कुछ किसान इमारतें बनाते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni magari.", "hypothesis": "कोई सैनिक वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "कोई कंप्यूटर प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "कुछ मशालें शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "कोई बेकर्स पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "कुछ वैज्ञानिक औज़ार हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Malaya wote ni vyakula.", "hypothesis": "कुछ मेरची भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mashirika.", "hypothesis": "कुछ निगम सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wanyama.", "hypothesis": "कुछ जानवर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "कुछ औज़ार किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni werevu.", "hypothesis": "कोई जानाबलिन बुद्धि नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni vifaa vya kuchezea.", "hypothesis": "कुछ कारों उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "कोई शहर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni wanadamu.", "hypothesis": "कुछ मानव जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni magari.", "hypothesis": "कुछ वाहन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "कुछ मशालियाँ प्रजाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "कुछ बेकर्स उपकरणों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni mashujaa.", "hypothesis": "कुछ कंप्यूटर योद्धा हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "कोई विदेशी मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tangau wote ni madubwana.", "hypothesis": "कुछ राक्षसों खाना देने वाले हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "कुछ गोबोलिन लोग हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "कोई ड्रैगन्स की संरचना नहीं हैं।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "कोई सैनिक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "कोई फिल्टरों के वाहन हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "कुछ समझदार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni majengo.", "hypothesis": "कुछ संरचनाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "कोई राजकुमारी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "कोई भूत - विद्या नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mashujaa.", "hypothesis": "कुछख़ुदार योद्धा हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wanyama.", "hypothesis": "कुछ जानवर बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "कुछ शिक्षक जानवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni vitu.", "hypothesis": "कुछ Merroks बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "कुछ बेकर्स बुद्धि हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni wataalamu.", "hypothesis": "कुछ डॉक्टर पेशेवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mambo.", "hypothesis": "कुछ बातें विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni wataalamu.", "hypothesis": "कुछ लेखक पेशेवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "कोई समुद्री डाकू बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni washiriki.", "hypothesis": "कुछ संगीतकार भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni majengo.", "hypothesis": "कुछ संरचनाें बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "कोई बेकर्स राक्षस हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wahusika.", "hypothesis": "कुछ अक्षर गायों हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "कोई संगीतकार उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mifano.", "hypothesis": "कुछ शिक्षक प्रतीक हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "कुछ बेकर्स चक्कर काट रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "कोई बेकर्स जानवर हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni vyombo.", "hypothesis": "कोई वैज्ञानिक यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mboga.", "hypothesis": "कोई बिल्ली सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "कोई स्वादिष्ट प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "कुछ भोजन विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "कोई आविष्कार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "कोई समुद्री डाकू निगम हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni wanyama.", "hypothesis": "कुछ जानवर कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "कोई विदेशी विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "कुछ विद्यार्थी मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote wana madaraka.", "hypothesis": "कोई सैनिक भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "कोई विद्यार्थी अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni hekaya.", "hypothesis": "कुछ पौराणिक कथाओं कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "कुछ भोजन वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "कुछ भूत शिकारी प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vicheshi vyote ni majengo.", "hypothesis": "कोई जोकर संरचना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni wapiganaji.", "hypothesis": "कुछ योद्धाओं जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni vyakula.", "hypothesis": "कुछ भोजन जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "कुछ भोजन समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "कुछ जीव स्वादिष्ट होते हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "कुछ संरचना सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "कुछ बंदर अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "कुछ मनुष्य वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "कोई भूत शिकारी मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni viumbe.", "hypothesis": "कुछ स्वादिष्ट प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote wanafanya kazi mbalimbali.", "hypothesis": "कुछ शिक्षक काम कर रहे हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "कुछ अक्षर घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni ishara.", "hypothesis": "कुछ चिह्न चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "कोई समुद्री डाकू अक्षर हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "कोई भूत शिकारी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wahai.", "hypothesis": "कुछ लोग विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "कुछ जीव बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni vifaa.", "hypothesis": "कोई खानाोसर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "कोई सैनिक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni viumbe.", "hypothesis": "कोई गायों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni madubwana.", "hypothesis": "कुछ राक्षसों विद्यार्थी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wataalamu.", "hypothesis": "कोई समुद्री डाकू पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "कुछ चुड़ैल मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "कुछ जासूस व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni mawazo.", "hypothesis": "कुछ घोड़े धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "कुछ लोग जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni mali za wanyama.", "hypothesis": "कुछ खाना खाने के काम कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "कुछ प्राणी जिम्मी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni kani.", "hypothesis": "कुछ शक्‍तियाँ रोबोट हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "कोई जासूस जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni vifaa.", "hypothesis": "कोई विद्यार्थी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Fahali zote ni wanyama.", "hypothesis": "कुछ चुड़ैल जानवरों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni akili.", "hypothesis": "कुछ प्रेत बुद्धि रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "नहीं जादूगर प्राणी हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "कुछ विदेशी यंत्र हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wahusika.", "hypothesis": "कुछ अक्षर विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wanadamu.", "hypothesis": "कुछ गायों को मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni wahusika.", "hypothesis": "कोई जोकर अक्षर हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni mboga.", "hypothesis": "कोई गायों सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wzinga wote ni vyombo.", "hypothesis": "कुछ यंत्र जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "कोई बंदर चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "कुछ यंत्र बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "कोई जोकर सब्जियां नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vyakula.", "hypothesis": "कोई कंप्यूटर भोजन नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "कुछ औज़ार चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni tekinolojia.", "hypothesis": "कुछ भूत तकनीक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni kubwa sana.", "hypothesis": "कुछ राक्षसों रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni wanadamu.", "hypothesis": "कुछ मानव ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कुछ समुद्री डाकू जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "कुछ सैनिक उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni wanyama.", "hypothesis": "कुछ ड्रैगन्स जानवरों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "कुछ वस्तुएँ विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wapiganaji.", "hypothesis": "कोई समुद्री डाकू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "कुछ गाड़ियाँ गायों की हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "कुछ आम लोग हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "कुछ जातियाँ खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni za wanyama.", "hypothesis": "कुछ जड़ी - बूटियों की जाति होती है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni wanadamu.", "hypothesis": "कुछ मनुष्य किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni majengo.", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "कोई कम्प्यूटर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wahusika.", "hypothesis": "कुछ बेकर्स अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कुछ यंत्र कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "कोई किसान जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "कुछ सैनिक पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "कुछ तकनीकों के होते हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "कोई रोबॉट्स औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wigizi wote ni vyombo.", "hypothesis": "कोई विजार्ड उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni majengo.", "hypothesis": "कुछ संरचना ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wanadamu.", "hypothesis": "कुछ मनुष्य विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wanadamu.", "hypothesis": "कोई जासूस मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni madubwana.", "hypothesis": "कुछ जासूस राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "कोई चित्रकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "कुछ वैज्ञानिक मनुष्य हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni magari.", "hypothesis": "कुछ विद्यार्थी वाहन हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "कुछ घोड़े वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni viumbe.", "hypothesis": "कोई सूची प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni spishi.", "hypothesis": "कुछ आविष्कार प्रजाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni vifaa.", "hypothesis": "कुछ उपकरण डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "कोई छात्र समझदार हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni werevu.", "hypothesis": "कोई चित्रकार बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mashirika.", "hypothesis": "कुछ विद्यार्थी निगम हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "कोई छात्र सब्ज़ियाँ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "कोई चित्रकार औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "कुछ जासूस समझदार हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "कुछ रोबोट योद्धा हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "कुछ बेकर्स वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "कुछ प्रेत उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "कोई प्रेत जीव हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mifumo.", "hypothesis": "कुछ व्यवस्थाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "कुछ ड्रैगन्स प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wanaotembelea eneo hilo ni viumbe.", "hypothesis": "कोई गोबलिन प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "कोई वैज्ञानिक जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "कुछ तकनीक वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "नहीं जादूगर वाहन हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "कुछ भूत हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "कुछ रोबॉट्स मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni nguvu.", "hypothesis": "कुछ ड्रैगन्स सेना हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "कुछ भोजन भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni kani.", "hypothesis": "कुछ सेनाओं को गोली मार रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wacheshi wote ni viumbe.", "hypothesis": "कुछ जोकर मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni werevu.", "hypothesis": "कोई जासूस बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mifano.", "hypothesis": "कुछ बंदर चिह्न हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं के शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni mboga.", "hypothesis": "कोई विदेशी सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wana madaraka.", "hypothesis": "कोई किसान भूमिका नहीं अदा करता ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni wanyama.", "hypothesis": "कुछ जानवर डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vifaa.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Fahali zote ni mashujaa.", "hypothesis": "कोई आलू योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "कुछ व्यवस्थाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "कोई भूत शिकारी कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mbwa wote wa opagni wanafanya kazi mbalimbali.", "hypothesis": "कोई हल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wahusika.", "hypothesis": "कोई जासूस अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "कुछ अक्षर विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni tekinolojia.", "hypothesis": "कोई कार्टून तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni ishara.", "hypothesis": "कोई तूफान चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mashine.", "hypothesis": "कोई जासूस मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wanyama.", "hypothesis": "कुछ जानवरों का निर्माण किया जाता है.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "कोई बेकर्स बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "कुछ लोग किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni madubwana.", "hypothesis": "कोई भूत राक्षस हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "कोई वैज्ञानिक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mifumo.", "hypothesis": "कुछ सिस्टम भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ रोबॉट्स हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni kani.", "hypothesis": "कुछ प्रेत सेना हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni aina mbalimbali.", "hypothesis": "कुछ विद्यार्थी जाति हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni tekinolojia.", "hypothesis": "कुछ संगीतकार तकनीक हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni wapiganaji.", "hypothesis": "कोई खानार योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni spishi.", "hypothesis": "कुछ डॉक्टर जाति हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "कोई समुद्री डाकू प्रतीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni vyombo.", "hypothesis": "कुछ चित्रकार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni wahusika.", "hypothesis": "कुछ अक्षर खाना पसंद करते हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "कुछ भूत अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni ishara.", "hypothesis": "कुछ चिह्न रोबॉट्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "कुछ जासूस बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "कुछ जीव उड़ रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni wataalamu.", "hypothesis": "कोई विदेशी पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mambo.", "hypothesis": "कोई भूत शिकारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "कुछ संगीतकार जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wenye matatizo hayo ni tekinolojia.", "hypothesis": "कुछ तकनीकें तो तूफानी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni werevu.", "hypothesis": "कुछ बुद्धि गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mawazo.", "hypothesis": "कुछ धारणाएँ बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "कुछ चीज़ें काररोट्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyombo.", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "कुछ ज्वालामुखी मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "कुछ विदेशी वाहन हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "कुछ प्रेत सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wa ogre ni viumbe.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "कुछ विद्यार्थी काल्पनिक हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "कुछ यंत्र जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "कुछ शिक्षक मशीनों पर काम करते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "कोई विदेशी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni vifaa.", "hypothesis": "कोई गोबलिन उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mawazo.", "hypothesis": "कोई शिक्षक विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni madubwana.", "hypothesis": "कुछ राक्षसों चकमक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vyombo.", "hypothesis": "कुछ औज़ार बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "कुछ बुद्धि ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote ni wanajeshi.", "hypothesis": "कोई तूफान बल हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "कोई खानाोसी तकनीक नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni shughuli za kila siku.", "hypothesis": "कुछ व्यवसाय भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni wanyama.", "hypothesis": "कुछ किसान जानवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wahusika.", "hypothesis": "कुछ अक्षर शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni spishi.", "hypothesis": "कुछ जासूस जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "कोई भूत मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wanadamu.", "hypothesis": "कुछ बंदर मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "कुछ राक्षस भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "कुछ प्राणियों घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "कोई चित्रकार एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni kani.", "hypothesis": "कोई बेकर्स सेना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "कुछ सिस्टमों मुझे तंग कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "कुछ राक्षसों कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni magari.", "hypothesis": "कोई विदेशी वाहन नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "कुछ प्राणी जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mboga.", "hypothesis": "कुछ विद्यार्थियों को सब्ज़ियाँ मिलती हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mashine.", "hypothesis": "कोई शिक्षक मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "कुछ चीज़ें डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote kutoka nchi nyingine ni mashirika.", "hypothesis": "कुछ निगम विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni tekinolojia.", "hypothesis": "कुछ तकनीकएं जिम्मी होती हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "कोई प्रेत सिस्टम हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni mboga.", "hypothesis": "कोई मेंढक सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maaskari wote ni wapiganaji.", "hypothesis": "कुछ Merrowaks योद्धाओं हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabuu yote ni aina ya karoti.", "hypothesis": "कोई गैस की जातियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "कुछ धारणाएँ आविष्कारक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote wana madaraka.", "hypothesis": "कुछ भूमिकायाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vicheshi vyote ni vyombo vya kuchezea.", "hypothesis": "कुछ उपकरणों जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni mawazo.", "hypothesis": "कुछ विदेशी धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "कुछ भूमिकाएं बेबलिन हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni ala za muziki.", "hypothesis": "कुछ खानाोसी यंत्र हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कुछ औज़ार कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wanaojitenga na watu ni viumbe.", "hypothesis": "कुछ लोग गोबलिन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "कोई जादूगर कुछ नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mawazo.", "hypothesis": "कुछ धारणाएँ भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni viumbe.", "hypothesis": "कुछ प्राणी शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "कुछ बंदरों संरचनाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni mashine.", "hypothesis": "कुछ मशीनों भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni magari.", "hypothesis": "कुछ गाड़ियों के टायर होते हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "कोई घोड़े भोजन कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni mawazo.", "hypothesis": "कुछ मशालें धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni wahusika.", "hypothesis": "कुछ ड्रैगन्स अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni wajibu.", "hypothesis": "कुछ मशालों की भूमिका होती है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maua yote ya zombies ni mboga.", "hypothesis": "कोई प्रेत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "कुछ संरचनायाँ घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyakula.", "hypothesis": "कुछ घोड़े भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "कुछ मेंढक भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kondoo wote ni wanyama.", "hypothesis": "कुछ जानवर जंगली हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni werevu.", "hypothesis": "कोई डॉक्टर बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mashine.", "hypothesis": "कुछ बेकर्स मशीनों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni vyakula.", "hypothesis": "कुछ भोजन - वस्तुएँ विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wataalamu.", "hypothesis": "कुछ बंदर पेशेवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "कुछ संगीतकार शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni wanyama.", "hypothesis": "कुछ फिल्टरों जानवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "कोई भूत जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni mawazo.", "hypothesis": "कुछ धारणाएँ संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni spishi.", "hypothesis": "कुछ जादूगर जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni majengo.", "hypothesis": "कुछ भूत संरचनाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni aina mbalimbali.", "hypothesis": "कुछ रोबॉट्स जाति हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni majeshi.", "hypothesis": "कोई जासूस सेना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "कोई घोड़े सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wahusika.", "hypothesis": "कुछ अक्षर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "कुछ सेनाओं जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote wana madaraka.", "hypothesis": "कुछ भूमिकायाँ भूमिकाएँ होती हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni viumbe.", "hypothesis": "कुछ प्राणी घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "कुछ फिल्टरों की व्यवस्थाएँ हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "कुछ भूत यंत्र हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni viumbe.", "hypothesis": "कुछ प्राणी भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni kazi za mikono.", "hypothesis": "कोई बेकर्स काम कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "कुछ प्राणी वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wanadamu.", "hypothesis": "कुछ चित्रकार मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Nyeoli zote ni mashine.", "hypothesis": "कोई खेत नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni ngano.", "hypothesis": "कुछ मिथक भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "कुछ जादूगर मशीनों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "कोई शिक्षक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote wana mawazo fulani.", "hypothesis": "कुछ धारणाएँ गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tangau wote ni tekinolojia.", "hypothesis": "कुछ तकनीकें खाना पसंद करती हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wapiganaji.", "hypothesis": "कुछ योद्धा सूची बना रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Pepo zote ni nguvu.", "hypothesis": "कोई जादूगर सेना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni wahusika.", "hypothesis": "कुछ चकमक के अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wapiganaji.", "hypothesis": "कोई जासूस योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "कुछ जोकर सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "कोई तूफानी बातें नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "कुछ अक्षर वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni vyombo.", "hypothesis": "कोई डॉक्टर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "कुछ डॉक्टरों की भूमिका होती है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni mashine.", "hypothesis": "कुछ मशीनों संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wasiotambuliwa ni wahusika.", "hypothesis": "कुछ विदेशी अक्षर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "कुछ भूत पेशेवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "कुछ राक्षसों गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kazi za kila siku ni shughuli za kila aina.", "hypothesis": "कुछ चक्कर आ रहे हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "कुछ उपकरण तो तूफानी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wanyama wakubwa sana.", "hypothesis": "कोई बंदर राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vidude.", "hypothesis": "कुछ संगीतकार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "कुछ समुद्री डाकू राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vyakula.", "hypothesis": "कुछ भोजन - वस्तुएँ सैनिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni madubwana.", "hypothesis": "कोई ड्रैगन्स राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "कुछ सैनिक प्रतीक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni nguvu.", "hypothesis": "कोई किसान सेना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni vyakula.", "hypothesis": "कोई मेंढक भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni vitu.", "hypothesis": "कोई जादूगर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "कोई बेकर्स भूमिका अदा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "कोई जोकर प्राणी हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni viumbe.", "hypothesis": "कुछ मशालें प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mashujaa.", "hypothesis": "कोई बेकर्स योद्धाओं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wapiganaji.", "hypothesis": "कुछ विद्यार्थी योद्धा हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "कोई खाना खाने के लिए जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni tekinolojia.", "hypothesis": "कुछ तकनीक ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "कोई सलाहकार भूमिका नहीं दे रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Malori wote ni mboga.", "hypothesis": "कोई लड़की सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani hutimiza majukumu yao.", "hypothesis": "कुछ मेकरी भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni hadithi tu.", "hypothesis": "कुछ पौराणिक कथाओं मैंकरी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe hai.", "hypothesis": "कोई सैनिक जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "कुछ समुद्री डाकू सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni vitu.", "hypothesis": "कुछ वैज्ञानिकों के पास कुछ चीज़ें हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "कुछ किसान भोजन करते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni wanadamu.", "hypothesis": "कुछ मनुष्य संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mawazo.", "hypothesis": "कोई ड्रैगन्स धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote zina uhai.", "hypothesis": "कुछ कंप्यूटर मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabehewa yote ni vyombo.", "hypothesis": "कुछ Merrokaka सामान कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "कुछ यंत्र बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote mashujaa ni mambo.", "hypothesis": "कुछ घोड़े बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "कुछ जासूस जानवर हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni vyombo.", "hypothesis": "कोई जादूगर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni madubwana.", "hypothesis": "कुछ राक्षस विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni werevu.", "hypothesis": "कोई शिक्षक बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "कुछ कंप्यूटरों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyakula.", "hypothesis": "कुछ विदेशी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wa jamii fulani.", "hypothesis": "कुछ जातियाँ बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mifumo.", "hypothesis": "कुछ मेरची सिस्टम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni herufi.", "hypothesis": "कुछ कंप्यूटर अक्षर होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wanyama.", "hypothesis": "कुछ जानवर गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "कोई पेशेवर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "कुछ संरचनाएँ रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "कुछ रोबोट प्राणी हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "कुछ अक्षर बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wajibu.", "hypothesis": "कुछ भूत भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni wataalamu.", "hypothesis": "कुछ संगीतकार पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni viumbe.", "hypothesis": "कुछ प्राणी कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vitu.", "hypothesis": "कुछ वस्तुएँ बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni mifumo.", "hypothesis": "कुछ तंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "कोई फिल्टरों की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "कोई सजावटी धारणाएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni werevu.", "hypothesis": "कोई बेकर्स समझ रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni nguvu.", "hypothesis": "कुछ बंदर सेना हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote wanafanya kazi.", "hypothesis": "कुछ व्यापार जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni mifumo.", "hypothesis": "कुछ सिस्टम किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vifaa.", "hypothesis": "कोई किसान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni mboga.", "hypothesis": "कुछ ब्लिनलिन सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vitu vyote vya uchawi ni vitu.", "hypothesis": "कुछ चीजें जादूगर कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "कुछ भूमिकायाँ बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "कुछ जीव वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "कुछ बुद्धि किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni tekinolojia.", "hypothesis": "कोई शिक्षक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "कुछ औज़ार जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wanadamu.", "hypothesis": "कोई वैज्ञानिक मनुष्य नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni mboga.", "hypothesis": "कोई खाना खाने के लिए सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mifumo.", "hypothesis": "कोई निरीक्षक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mashine.", "hypothesis": "कुछ मशीनों सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote zinafanya kazi.", "hypothesis": "कुछ व्यवसाय रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni vitu.", "hypothesis": "कोई ड्रैगन्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "कुछ चिह्न विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni ngano.", "hypothesis": "कुछ रहमानी काल्पनिक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni ishara.", "hypothesis": "कुछ चिह्न संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni majengo.", "hypothesis": "कोई खाना बनाने की संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni vyombo.", "hypothesis": "कोई भूत शिकारी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vitu.", "hypothesis": "कुछ चीजें zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wanyama.", "hypothesis": "कुछ वैज्ञानिक जानवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "कोई सूची व्यवस्थाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni mashirika.", "hypothesis": "कुछ निगमों उपद्रव कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni madubwana.", "hypothesis": "कोई गायों राक्षसों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "कुछ कारों की वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "कोई सूची उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanajeshi.", "hypothesis": "कुछ शक्‍तियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "कुछ बुद्धि घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni wanadamu.", "hypothesis": "कोई घोड़े मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni ishara.", "hypothesis": "कुछ चिह्न डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni tekinolojia.", "hypothesis": "कुछ बंदर तकनीक हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wahusika.", "hypothesis": "कुछ अक्षर चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wanyama.", "hypothesis": "कुछ जानवर बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "कोई बेकर्स निगम हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wa jamii fulani.", "hypothesis": "कुछ समुद्री डाकू जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "कोई वैज्ञानिक जीव नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "कुछ उपकरणों बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mambo.", "hypothesis": "कुछ बातें सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "कुछ बंदर योद्धाओं हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "कोई वैज्ञानिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wapiganaji.", "hypothesis": "कोई भूत शिकारी योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni wataalamu.", "hypothesis": "कुछ पेशेवर किसान होते हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "कुछ गायों को प्रतीक कहा जाता है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "कुछ अक्षर मैंकरी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "कुछ डॉक्टर जीव हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wataalamu.", "hypothesis": "कुछ मेरशी पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "कुछ संरचनाएँ कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni viumbe.", "hypothesis": "कुछ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "कोई दस्तावेजर दिमागी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wanadamu.", "hypothesis": "कुछ समुद्री डाकू मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wahusika.", "hypothesis": "कोई भूत अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni tekinolojia.", "hypothesis": "कुछ भूत शिकारी तकनीक कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "कोई विद्यार्थी वाद्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni vitu.", "hypothesis": "कुछ चीजें Mososaz कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wanadamu.", "hypothesis": "कोई आविष्कार मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni mboga.", "hypothesis": "कुछ घोड़े सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "कुछ सिस्टम बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wanyama.", "hypothesis": "कुछ जानवर जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wataalamu.", "hypothesis": "कुछ पेशेवर भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni werevu.", "hypothesis": "कोई समुद्री डाकू बुद्धि हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni mboga.", "hypothesis": "कुछ किसान सब्ज़ियाँ खाते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "कोई समुद्री डाकू काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni madubwana.", "hypothesis": "कुछ बेकर्स राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vitu.", "hypothesis": "कोई विदेशी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni ishara.", "hypothesis": "कोई घोड़े चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vifaa vya kazi.", "hypothesis": "कोई प्रेत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tangau wote ni ngano.", "hypothesis": "कुछ खानाोसी कल्पनाएं हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni vyombo.", "hypothesis": "कोई विदेशी यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni viumbe.", "hypothesis": "कुछ प्रेत प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanadamu.", "hypothesis": "कुछ भूत शिकारी मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mifano.", "hypothesis": "कुछ चिह्न समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni viumbe hai.", "hypothesis": "कोई संगीतकार प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabohari yote ni akili.", "hypothesis": "कुछ कार्बोस मानसिक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mashirika.", "hypothesis": "वैज्ञानिकों में से कोई भी निगम नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni viumbe hai.", "hypothesis": "कोई चित्रकार जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni vitu.", "hypothesis": "कुछ चुड़ैल चीज़ें हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni viumbe.", "hypothesis": "कुछ लोग सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni mashine.", "hypothesis": "कुछ मशीनों विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni tekinolojia.", "hypothesis": "कुछ किसान तकनीक हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "कोई राजकुमारी बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "कुछ यंत्रों घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni vyombo.", "hypothesis": "कोई जोकर औज़ार नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mifumo.", "hypothesis": "कुछ डॉक्टर सिस्टम हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni mashine.", "hypothesis": "कुछ मशीनों जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni tekinolojia.", "hypothesis": "कुछ तकनीकों का आविष्कार किया जाता है।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mashirika.", "hypothesis": "कुछ डॉक्टर निगम हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote wanafanya kazi mbalimbali.", "hypothesis": "कुछ समुद्री डाकू व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni wataalamu.", "hypothesis": "कुछ पेशेवर किसान हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "कुछ गायों काल्पनिक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni spishi.", "hypothesis": "कुछ जातियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni ngano.", "hypothesis": "कोई चित्रकार कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vyakula.", "hypothesis": "कोई किसान भोजन नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni vitu.", "hypothesis": "कोई डॉक्टर वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mashirika.", "hypothesis": "कुछ निगम जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mashirika.", "hypothesis": "कुछ निगम समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni wanyama.", "hypothesis": "कुछ जानवर जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "कोई भूत की बातें नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni vyakula.", "hypothesis": "कुछ वैज्ञानिक भोजन करते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni aina.", "hypothesis": "कुछ कंप्यूटर जाति हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote ni mifumo.", "hypothesis": "कुछ भूत शिकारी सिस्टम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni wataalamu.", "hypothesis": "कुछ पेशेवर ड्रैगन्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं में भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote ni viumbe.", "hypothesis": "कोई प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni mashirika.", "hypothesis": "कोई भूत शिकारी दल नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni tekinolojia.", "hypothesis": "कोई वैज्ञानिक तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni magari.", "hypothesis": "कुछ आविष्कारों वाहन हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "कोई प्रेत मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maua yote ya zombies ni vyakula.", "hypothesis": "कुछ भोजन zammams हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "कुछ डॉक्टर कल्पना कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote zina wajibu.", "hypothesis": "कुछ भूमिकाएँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni viumbe.", "hypothesis": "कोई किसान जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni mifano.", "hypothesis": "कोई गायों को चिह्न नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Makororo yote ni wahusika.", "hypothesis": "कोई दस्तावेजर अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "कुछ महाद्वीपीय उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mawazo.", "hypothesis": "कुछ धारणाएँ जासूस हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote wasiotambuliwa ni vyombo vya kutumiwa.", "hypothesis": "कोई विदेशी उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni magari.", "hypothesis": "कुछ गायों के वाहन हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni wa jamii mbalimbali.", "hypothesis": "कोई विदेशी जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni ngano.", "hypothesis": "कोई गायों कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wasanii wote ni majengo.", "hypothesis": "कोई चित्रकार संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni vyakula.", "hypothesis": "कुछ भूत भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mifano.", "hypothesis": "कुछ जासूस चिह्न हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni wanadamu.", "hypothesis": "कुछ जादूगर मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vifaa vya kazi.", "hypothesis": "कुछ भूत शिकारी औजार हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni wapiganaji.", "hypothesis": "कुछ संगीतकार योद्धा हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni mashirika.", "hypothesis": "कुछ निगम कंप्यूटर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni vyombo.", "hypothesis": "कुछ शिक्षक यंत्र होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "कोई भूत शिकारी संरचनाएं नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni wahusika.", "hypothesis": "कोई संगीतकार अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "कोई सैनिक सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni wanadamu.", "hypothesis": "कुछ किसान मनुष्य हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vitu.", "hypothesis": "कोई रोबॉट्स वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mifano.", "hypothesis": "कुछ चिह्न सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mawazo.", "hypothesis": "कुछ बंदर धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wataalamu.", "hypothesis": "कुछ पेशेवर निर्मित होते हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "कुछ संरचना भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "कोई जासूस संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabegwa wote ni mawazo.", "hypothesis": "कोई गुप्तता नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote hutimiza majukumu yao.", "hypothesis": "कुछ भूमिकाएँ समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "कोई बंदर जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni werevu.", "hypothesis": "कुछ बुद्धि भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "कोई जासूस प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni ishara.", "hypothesis": "कुछ चिन्हों का आविष्कार किया जाता है ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "कुछ लोग भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "कुछ राक्षसों डॉक्टर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni majengo.", "hypothesis": "कोई गुप्त संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni majengo.", "hypothesis": "कोई सैनिक संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vyombo.", "hypothesis": "कोई संगीतकार यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni mifumo.", "hypothesis": "कुछ व्यवस्थाएँ निर्मित हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni werevu.", "hypothesis": "कोई संगीतकार बुद्धि नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni kani.", "hypothesis": "कुछ शक्‍तियाँख़ुदा के हाथ में हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "कोई प्रेत पेशा कर रहे हैं।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "कुछ आविष्कारक सब्ज़ियाँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni wataalamu.", "hypothesis": "कोई खाना खाने के लिए पेशेवर नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mashine.", "hypothesis": "कुछ मशीनों ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni werevu.", "hypothesis": "कुछ वैज्ञानिक समझदार हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mifumo.", "hypothesis": "कोई चित्रकार सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni mashirika.", "hypothesis": "कोई गोबलिन एंटिटी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vifaa vya kijeshi.", "hypothesis": "कोई सैनिक उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni majengo.", "hypothesis": "कोई विदेशी संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote wana madaraka.", "hypothesis": "कोई डॉक्टर भूमिका नहीं अदा करते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote ni viumbe wa rohoni.", "hypothesis": "कुछ बेबलिन चीज़ें हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "कोई विद्यार्थी भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni viumbe.", "hypothesis": "कुछ जासूस लोग हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं के घोड़े हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mboga.", "hypothesis": "कुछ सैनिक सब्ज़ियाँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni mashujaa.", "hypothesis": "कुछ योद्धाओं भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni vyombo.", "hypothesis": "कोई भूत यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote wana madaraka.", "hypothesis": "कुछ भूमिकायाँ जासूस हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote wanafanya kazi.", "hypothesis": "कोई मौज - मस्ती नहीं कर रहे हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "कोई वैज्ञानिक सब्ज़ियाँ नहीं हैं ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni viumbe hai.", "hypothesis": "कुछ गायें जीव हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni spishi.", "hypothesis": "कुछ जातियाँ ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni hadithi za kubuniwa.", "hypothesis": "कुछ पौराणिक कथाओं समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni za wataalamu.", "hypothesis": "कोई कंप्यूटर पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mawazo.", "hypothesis": "कुछ धारणाएँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni vifaa.", "hypothesis": "कुछ उपकरणों zmmams रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni vyombo.", "hypothesis": "कुछ जासूस उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni mashine.", "hypothesis": "कुछ मशीनों जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "कुछ सिस्टम zmamams रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mashujaa.", "hypothesis": "कुछ ड्रैगन्स योद्धा हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni mifumo.", "hypothesis": "कुछ प्रेत सिस्टम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni kani.", "hypothesis": "कुछ शक्‍तियाँ कंप्यूटर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wataalamu.", "hypothesis": "कोई चित्रकार पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni werevu.", "hypothesis": "कोई जादूगर बुद्धि नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni mifumo.", "hypothesis": "कुछ सिस्टम सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vitu.", "hypothesis": "कुछ सैनिक वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wahusika.", "hypothesis": "कोई बंदर अक्षर हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "कोई गायों का पेशा नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "कोई शिक्षक भूमिका नहीं निभाते ।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni waigizaji.", "hypothesis": "कुछ चिह्न हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vyombo.", "hypothesis": "कोई घोड़े उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni madubwana.", "hypothesis": "कुछ सैनिक राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "कोई समुद्री डाकू वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Makorondo yote ni ngano.", "hypothesis": "कोई उपद्रवी कल्पना नहीं कर रहे हैं।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni werevu.", "hypothesis": "कुछ बुद्धि जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni kani.", "hypothesis": "कुछ शक्‍तियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni kani.", "hypothesis": "कुछ वैज्ञानिक शक्‍तियाँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizungu yote ni mawazo.", "hypothesis": "कुछ जादूगर धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni mawazo.", "hypothesis": "कुछ महाद्वीपीय धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mambo.", "hypothesis": "कुछ बातें भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni spishi.", "hypothesis": "कुछ घोड़े जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni wahusika.", "hypothesis": "कुछ वैज्ञानिक अक्षर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wingu wote ni viumbe.", "hypothesis": "कुछ जादूगर जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Malori wote ni viumbe hai.", "hypothesis": "कोई वार्मूट जीव नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni madubwana.", "hypothesis": "कोई दानव राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "कोई शिक्षक जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni magari.", "hypothesis": "कुछ जासूस वाहन हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mboga.", "hypothesis": "कोई चित्रकार सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "कुछ भूत समझ रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni majengo.", "hypothesis": "कुछ घोड़े संरचनाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tangau wote huchangia.", "hypothesis": "कुछ भूमिकायाँ खाना - पीना होती हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni watu wenye akili.", "hypothesis": "कोई भूत समझ रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni werevu.", "hypothesis": "कुछ विद्यार्थी समझदार होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ishara.", "hypothesis": "कुछ विद्यार्थी प्रतीक हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wa jamii mbalimbali.", "hypothesis": "कोई शिक्षक जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni mboga.", "hypothesis": "कोई समुद्री डाकू सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "कोई ड्रैगन्स प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mifumo.", "hypothesis": "कोई बेकर्स सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "कोई समुद्री डाकू तकनीक हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni nguvu.", "hypothesis": "कुछ शक्‍तियाँ संगीतकार हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni vyakula.", "hypothesis": "कुछ भूत शिकारी भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni dhana tu.", "hypothesis": "कुछ भूत शिकारी धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni spishi.", "hypothesis": "कोई भूत जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vigari vyote ni wanadamu.", "hypothesis": "कोई बदमाश मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni wapiganaji.", "hypothesis": "कुछ योद्धाओं बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vifaa.", "hypothesis": "कुछ उपकरण सूची कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni mashirika.", "hypothesis": "कोई ड्रैगन्स निगम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Nyani wote ni majengo.", "hypothesis": "कोई बंदर संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "कुछ जानवर रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wa ukoo ni hadithi za kutungwa.", "hypothesis": "कुछ मेंढक कथा हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni madubwana.", "hypothesis": "कुछ राक्षसों समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni wataalamu.", "hypothesis": "कुछ पेशेवर सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "कोई ड्रैगन्स यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila aina ya bumba ni mashine.", "hypothesis": "कुछ मशीनों ब्ललिन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe hai.", "hypothesis": "कुछ विदेशी जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni vifaa.", "hypothesis": "कुछ यंत्र रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wastadi.", "hypothesis": "कुछ पेशेवर बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni washiriki.", "hypothesis": "कुछ चित्रकार भूमिकाओं कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka wana madaraka.", "hypothesis": "कुछ भूमिकाएं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "कुछ लोग बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni ngano.", "hypothesis": "कोई सैनिक कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni vifaa.", "hypothesis": "कुछ औज़ार शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni mambo.", "hypothesis": "कोई जासूस बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni wapiganaji.", "hypothesis": "कोई रोबॉट्स योद्धा नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni kubwa sana.", "hypothesis": "कोई कंप्यूटर राक्षस हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni wanyama.", "hypothesis": "कोई रोबॉट्स जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maskani yote ni wajibu.", "hypothesis": "कोई जानाबलिन भूमिका नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wa aina mbalimbali.", "hypothesis": "कुछ जातियाँ गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wenye madaraka.", "hypothesis": "कुछ बेकर्स भूमिका अदा करते हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni werevu.", "hypothesis": "कुछ मानसिक होते हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni mboga.", "hypothesis": "कोई सूची सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni wapiganaji.", "hypothesis": "कुछ योद्धाओं सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कुछ कंप्यूटर उपकरण हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "कुछ समुद्री डाकू बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vyombo.", "hypothesis": "कुछ समुद्री डाकू उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni majengo.", "hypothesis": "कुछ शिक्षक संरचनाएँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "कुछ समुद्री डाकू जानवरों हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni vyombo.", "hypothesis": "कुछ सैनिक यंत्र हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "कुछ प्राणी विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni vitu.", "hypothesis": "कोई घोड़े की वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wageni wote ni wapiganaji.", "hypothesis": "कुछ योद्धाओं विदेशी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "कुछ वस्तुएँ गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "कुछ निगम चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni majengo.", "hypothesis": "कुछ भूत शिकारी संरचनाएं कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni vyakula.", "hypothesis": "कुछ गाड़ियाँ भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "कोई किसान काम नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vifaa.", "hypothesis": "कुछ उपकरणों गायों हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni vyombo.", "hypothesis": "कुछ ड्रैगन्स उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wacheshi wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni wataalamu.", "hypothesis": "कोई गायों पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni ngano.", "hypothesis": "कुछ वैज्ञानिक पौराणिक कथाओं के हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni wahai.", "hypothesis": "कोई बेकर्स कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mashirika yote ya zombies ni mashirika.", "hypothesis": "कोई zmamames कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni magari.", "hypothesis": "कुछ वाहन चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanyama wote wasiotambuliwa ni viumbe.", "hypothesis": "कोई विदेशी प्राणी नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni viumbe.", "hypothesis": "कुछ लोग संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni shughuli.", "hypothesis": "कुछ पेशा zmams रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni vyombo.", "hypothesis": "कुछ औज़ार विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni mashine.", "hypothesis": "कुछ मशीनों zmmams कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Lozi wote ni viumbe.", "hypothesis": "कोई जादूगर लोग नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabuu yote ni madubwana.", "hypothesis": "कोई आलू राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni wanyama.", "hypothesis": "कुछ जानवर समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni mifano.", "hypothesis": "कुछ चिह्न कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vitu.", "hypothesis": "कुछ गायों की संपत्ति होती है ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Viumbe wote wa zombies ni wanadamu.", "hypothesis": "कोई प्रेत मनुष्य हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote wana shughuli nyingi.", "hypothesis": "कुछ गायों का पेशा है.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watu wote wa ogre ni wataalamu.", "hypothesis": "कुछ प्रकार के पेशेवर हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni madubwana.", "hypothesis": "कुछ डॉक्टर राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "कुछ सैनिकों समझ रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila moja ya meli hizo ni mifumo.", "hypothesis": "कोई गोबलिन सिस्टम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni viumbe.", "hypothesis": "कुछ प्राणी डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni viumbe hai.", "hypothesis": "कुछ जीव विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni majengo.", "hypothesis": "कुछ फिल्टरों की संरचनाएँ होती हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wajibu.", "hypothesis": "कुछ भूमिकाएँ शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "कुछ विशेषज्ञ व्यापार कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni wahai.", "hypothesis": "कोई उपद्रवी लोग नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vyombo.", "hypothesis": "कोई फायदा नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni watu wenye akili.", "hypothesis": "कुछ खानाोसी बुद्धि है.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni viumbe.", "hypothesis": "कुछ प्राणी ड्रैगन हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ डॉक्टर हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni viumbe hai.", "hypothesis": "कुछ बेकर्स जीव हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "कोई विद्यार्थी कल्पना नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni vitu.", "hypothesis": "कुछ चीजें बेकर्स हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "कुछ पेशा Mrods कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mashirika.", "hypothesis": "कुछ बंदर खंड हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "कुछ औज़ार गाड़ीे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni werevu.", "hypothesis": "कुछ घोड़े बुद्धि हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanamuziki wote ni vitu.", "hypothesis": "कुछ चीज़ें संगीतकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni wanyama.", "hypothesis": "कुछ जानवर सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni dhana.", "hypothesis": "कुछ आविष्कार धारणाएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni mashine.", "hypothesis": "कोई घोड़े मशीनों हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za ogre ni wahusika.", "hypothesis": "कुछ अक्षर निवास कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni wanyama wakubwa sana.", "hypothesis": "कोई भूत शिकारी राक्षस नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vyakula.", "hypothesis": "कुछ समुद्री डाकू भोजन कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "कुछ डॉक्टर धारणाएँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "कुछ विदेशी तकनीक हैं।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "कुछ लोग रोबोट हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni mashirika.", "hypothesis": "कुछ चित्रकार खंड हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni viumbe.", "hypothesis": "कुछ जोकर प्राणी हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakuu wote ni wahusika.", "hypothesis": "कोई घोड़े अक्षर हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni mashine.", "hypothesis": "कुछ मशीनों के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote wanafanya kazi.", "hypothesis": "कुछ व्यवसाय किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni spishi.", "hypothesis": "कुछ जातियाँ बेकर्स कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Aina zote za dinosa ni viumbe.", "hypothesis": "कोई खाना देने वाले जानवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wote wenye pembe moja ni vitu.", "hypothesis": "कोई तूफानी वस्तुएँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mifumo.", "hypothesis": "कुछ शिक्षक व्यवस्थाएँ हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं के विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wasanii wote ni vitu.", "hypothesis": "कुछ वस्तुएँ चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "कुछ तकनीकों चित्रकार हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Nyeoli zote ni vifaa.", "hypothesis": "कोई तूफान उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wafanyakazi.", "hypothesis": "कुछ व्यवसाय आविष्कार कर रहे हैं।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vitu.", "hypothesis": "कुछ आविष्कार वस्तुएँ हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni mambo.", "hypothesis": "कोई शिक्षक बातें नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni wanyama.", "hypothesis": "कुछ जानवर भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "कोई खराबी निगम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote zina uhai.", "hypothesis": "कोई रोबॉट्स मनुष्य नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vyakula.", "hypothesis": "कोई स्वादिष्ट भोजन नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizungu yote ni tekinolojia.", "hypothesis": "कोई जादूगर तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni werevu.", "hypothesis": "कुछ सूची समझ रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni magari.", "hypothesis": "कुछ डॉक्टर वाहन हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni vitu.", "hypothesis": "कुछ चीजें किसान हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni wajibu.", "hypothesis": "कुछ विद्यार्थी भूमिका निभाते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vyombo.", "hypothesis": "कोई बंदर यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni nguvu.", "hypothesis": "कोई जोकर सेना हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mashine.", "hypothesis": "कुछ मशीनों बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Askari - jeshi wote ni werevu.", "hypothesis": "कुछ बुद्धि सैनिक हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni vitu.", "hypothesis": "कुछ चीजें समुद्री डाकू हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani wanafanya kazi mbalimbali.", "hypothesis": "कोई Merroks काम कर रहे हैं।", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni vyakula.", "hypothesis": "कुछ जासूस भोजन कर रहे हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni werevu.", "hypothesis": "कोई किसान बुद्धि नहीं दे रहा है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni mifumo.", "hypothesis": "कुछ सिस्टम जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni magari.", "hypothesis": "कुछ वाहन शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni spishi.", "hypothesis": "कोई भूत शिकारी जाति नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wanyama.", "hypothesis": "कुछ जानवर शिक्षक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni viumbe.", "hypothesis": "कुछ प्राणी रोबोट हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni wataalamu.", "hypothesis": "कुछ टीचर पेशेवर होते हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mambo yote yasiyo ya kawaida ni tekinolojia.", "hypothesis": "कोई विदेशी तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni viumbe.", "hypothesis": "कोई बंदर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ng'ombe wote ni vyakula.", "hypothesis": "कुछ भोजन गाय - बैल हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni mifano.", "hypothesis": "कुछ चिह्न भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni tekinolojia.", "hypothesis": "कुछ समुद्री डाकू तकनीक हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Waokaji wote ni mashirika.", "hypothesis": "कुछ बेकर्स निगम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni vifaa.", "hypothesis": "कुछ बंदर उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni tekinolojia.", "hypothesis": "कोई चित्रकार तकनीक नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni vifaa.", "hypothesis": "कोई भूत उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Viboko vyote ni viumbe hai.", "hypothesis": "कुछ मोटर - गाड़ीें जीव हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni magari.", "hypothesis": "कुछ वाहन जादूगर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni wataalamu.", "hypothesis": "कोई जासूस पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Ndege wote ni wa jamii fulani.", "hypothesis": "कुछ वेश्याल जाति हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni vifaa.", "hypothesis": "कोई कंप्यूटर उपकरण नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walabli wote ni viumbe hai.", "hypothesis": "कुछ जीव गोबोलिन हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni viumbe.", "hypothesis": "कुछ जीव भूत हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wawindaji wote wa mizuka ni kani.", "hypothesis": "कुछ सेनाओं भूत शिकारी हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Walimu wote ni madubwana.", "hypothesis": "कुछ शिक्षक राक्षस हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Dragoni wote ni werevu.", "hypothesis": "कुछ ड्रैगन्स बुद्धि हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka yote ni kazi.", "hypothesis": "कोई भूत काम कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kompyuta zote ni majengo.", "hypothesis": "कोई कंप्यूटर संरचना नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni wahusika.", "hypothesis": "कोई सूची अक्षर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachoraji wote ni wahai.", "hypothesis": "कोई चित्रकार नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachawi wote ni wastadi.", "hypothesis": "कोई विशेषज्ञ पेशेवर नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wakulima wote ni majengo.", "hypothesis": "कोई किसान संरचनाएं नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mboga.", "hypothesis": "कुछ सब्ज़ियाँ वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Roboti zote ni majengo.", "hypothesis": "कोई रोबॉट्स संरचना नहीं है.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni mashirika.", "hypothesis": "कोई सूची व्यवस्थाएं निगम नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Maharamia wote ni viumbe.", "hypothesis": "कोई समुद्री डाकू नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizombi yote ni ala za muziki.", "hypothesis": "कुछ यंत्र zmamms कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni mawazo.", "hypothesis": "कोई डॉक्टर विचार नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Kila mchawi hufanya kazi.", "hypothesis": "कोई विशेषज्ञ पेशा नहीं कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni vitu.", "hypothesis": "कुछ चीज़ें जासूस हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapelelezi wote ni majengo.", "hypothesis": "कुछ संरचनाएँ जासूस हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni majengo.", "hypothesis": "कुछ विद्यार्थियों की संरचनाएँ होती हैं ।", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanasayansi wote ni mashine.", "hypothesis": "कुछ मशीनों के वैज्ञानिक हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wachekeshaji wote ni vitu.", "hypothesis": "कुछ वस्तुएँ जोकर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mabweta yote ni vifaa vya kazi.", "hypothesis": "कुछ गाड़ियाँ उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni mifumo.", "hypothesis": "कुछ बंदर सिस्टम हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Tumbili wote ni ngano.", "hypothesis": "कुछ पौराणिक कथाओं बंदर हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Watumishi wote wa nyumbani ni mashirika.", "hypothesis": "कुछ निगम Merraks कर रहे हैं.", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Vichaka vyote ni vyombo.", "hypothesis": "कोई जानाबलिन यंत्र नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wapishi wote ni vitu.", "hypothesis": "कुछ राजकुमारी बातें कर रहे हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Mizuka wote ni mboga.", "hypothesis": "कोई भूत सब्ज़ियाँ नहीं हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wavumbuzi wote ni vyombo.", "hypothesis": "कुछ आविष्कार उपकरण हैं.", "label": "entailment", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Madaktari wote ni ngano.", "hypothesis": "कोई डॉक्टर कल्पना कर रहे हैं.", "label": "contradiction", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}
+{"premise": "Wanafunzi wote ni tekinolojia.", "hypothesis": "कुछ तकनीक विद्यार्थी हैं ।", "label": "neutral", "lang_premise": "sw", "lang_hypothesis": "hi", "codeswitch_type": "sw_prem_hi_hyp"}

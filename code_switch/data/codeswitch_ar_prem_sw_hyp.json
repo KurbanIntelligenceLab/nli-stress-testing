@@ -1,0 +1,1000 @@
+{"premise": "كل الأجانب هم وحوش.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي مركبات", "hypothesis": "Baadhi ya magari ni maleaya.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين محترفون", "hypothesis": "Wachekeshaji fulani ni wastadi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين حيوانات", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان رموز", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم شخصيات", "hypothesis": "Hakuna wachawi walio wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "Baadhi ya waokaji ni aina mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم قوى", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب محترفون", "hypothesis": "Hakuna wanafunzi walio wataalamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين كائنات حية.", "hypothesis": "Hakuna walimu walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "Baadhi ya walimu ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي حيوانات", "hypothesis": "Mizombi fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين عبارة عن هياكل.", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المزارعين وحوش", "hypothesis": "Wakulima fulani ni wanyama wakubwa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "Hakuna madaktari walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "Walimu fulani ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء هم أنظمة", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي هم قوى", "hypothesis": "Baadhi ya kani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم أشياء", "hypothesis": "Baadhi ya vitu hivyo ni vichekeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح مركبات", "hypothesis": "Baadhi ya magari ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين رموز", "hypothesis": "Hakuna waokaji walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي أغذية.", "hypothesis": "Vyakula fulani ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان كائنات حية", "hypothesis": "Baadhi ya mashujaa ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي حيوانات", "hypothesis": "Ng'ombe fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "Hakuna majoka walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي ماكينات", "hypothesis": "Ng'ombe fulani ni mashine.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين رموز", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين رموز", "hypothesis": "Hakuna majoka walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أشياء.", "hypothesis": "Baadhi ya wanafunzi ni mambo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح كائنات", "hypothesis": "Wanyama fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "Majengo fulani ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مركبات", "hypothesis": "Hakuna wapelelezi walio magari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي هياكل", "hypothesis": "Majengo fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أساطير.", "hypothesis": "Hakuna walimu walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الحواسب قوّات.", "hypothesis": "Hakuna nguvu za kompyuta.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "Hakuna tumbili walio wa kuwaziwa tu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أنظمة.", "hypothesis": "Hakuna wanafunzi walio na mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "Baadhi ya mashujaa ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود مخلوقات", "hypothesis": "Askari - jeshi fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين بشر", "hypothesis": "Hakuna walimu walio wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت مهنُ.", "hypothesis": "Baadhi ya maeneo hayo yana shughuli nyingi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المزارعين كيانات.", "hypothesis": "Wakulima fulani ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح هي تكنولوجيات.", "hypothesis": "Hakuna wawindaji wa mazimwi ni tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "Wanasayansi fulani ni spishi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "Hakuna tumbili walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي ماكينات.", "hypothesis": "Mashine fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت ماكينات.", "hypothesis": "Hakuna vipande vya mbao vilivyo kama mashini.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدواتُ.", "hypothesis": "Hakuna mikahawa ambayo ina vifaa vya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود كائنات حية.", "hypothesis": "Baadhi ya viumbe ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان حيوانات", "hypothesis": "Baadhi ya mashujaa ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي مركبات.", "hypothesis": "Magari mengine ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أغذية.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة عبارة عن هياكل", "hypothesis": "Baadhi ya nyumba hizo ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت محاربون.", "hypothesis": "Baadhi ya wapiganaji ni wanyang'anyi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أدوات", "hypothesis": "Baadhi ya wawindaji ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر عبارة عن هياكل", "hypothesis": "Hakuna karoti zilizojengwa kwa muundo wa karoti.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات هي أشياء.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم مهن", "hypothesis": "Baadhi ya kazi hizo ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "Wakulima fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود هم مركبات", "hypothesis": "Hakuna askari - jeshi walio magari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي كائنات حية.", "hypothesis": "Hakuna kompyuta zilizo hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر عبارة عن قوى", "hypothesis": "Baadhi ya karoti ni kani.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "Hakuna waokaji walio wataalamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أدوات.", "hypothesis": "Wanasayansi fulani ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات أطعمة", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود كُلّ كَيان.", "hypothesis": "Mashirika fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم حيوانات", "hypothesis": "Wanyama fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "Baadhi ya vifaa ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي خضروات.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت إستخبارات.", "hypothesis": "Hakuna watu wanaowasiliana na pepo ambao wana akili nyingi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي أدوات.", "hypothesis": "Baadhi ya karoti ni vifaa vya kuchezea.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ المُتَوَجِّهات تَكنولوجيات.", "hypothesis": "Hakuna opago ni tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين بشر", "hypothesis": "Wanadamu fulani ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح صائدي الأشباح هي مركبات.", "hypothesis": "Baadhi ya magari ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي أنواع.", "hypothesis": "Baadhi ya karoti ni aina ya ndege.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم قوات", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم أدوات", "hypothesis": "Baadhi ya waokaji ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الحواسب محاربون.", "hypothesis": "Kompyuta fulani ni wapiganaji.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "Hakuna wageni walio na mashini.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات وحوش", "hypothesis": "Baadhi ya wanyama wakubwa ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العفاريت كائنات", "hypothesis": "Wengine ni viumbe wa blibli.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي هي أشياء.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي هياكل", "hypothesis": "Hakuna majoka ambayo ni majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم حيوانات", "hypothesis": "Hakuna askari - jeshi walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم مركبات.", "hypothesis": "Hakuna wapishi walio na magari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "Akili fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء عبارة عن هياكل.", "hypothesis": "Baadhi ya majengo hayo ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة كائنات", "hypothesis": "Hakuna wapishi walio vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المشعوذين عبارة عن مفاهيم.", "hypothesis": "Hakuna wachawi walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة محاربون", "hypothesis": "Wapishi fulani ni mashujaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود حيوانات", "hypothesis": "Wanyama fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "Walimu fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أشياء", "hypothesis": "Baadhi ya watumishi wa nyumbani ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين مخابرات", "hypothesis": "Baadhi ya waokaji ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء محترفون", "hypothesis": "Madaktari fulani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أشياء.", "hypothesis": "Mambo fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان محترفون", "hypothesis": "Baadhi ya mashujaa ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين مخلوقات", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين أدوار.", "hypothesis": "Wanamuziki fulani ni washiriki.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين عبارة عن هياكل", "hypothesis": "Baadhi ya vyombo hivyo ni visao vya kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين وحوش", "hypothesis": "Hakuna waokaji walio madubwana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود أدواتُ.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي شخصيات", "hypothesis": "Baadhi ya wahusika ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "Hakuna wanamuziki walio na vifaa vya kuchezea.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين رموز", "hypothesis": "Walimu fulani ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هم مهن.", "hypothesis": "Baadhi ya waokaji ni wafanyakazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين حيوانات", "hypothesis": "Hakuna waokaji walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء أدوات.", "hypothesis": "Hakuna wanasayansi walio vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم خضروات.", "hypothesis": "Hakuna wapishi walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة كائنات حية", "hypothesis": "Hakuna wapishi walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "Vyakula fulani ni kigeni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي تكنولوجيات.", "hypothesis": "Hakuna wavumbuzi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة كيانات.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي حيوانات.", "hypothesis": "Wanyama fulani ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار كائنات", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب مفاهيم.", "hypothesis": "Hakuna mgeni yeyote aliye na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب كائنات", "hypothesis": "Wanafunzi fulani ni wahai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود أدوار.", "hypothesis": "Hakuna askari - jeshi walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم شخصيات", "hypothesis": "Hakuna wanafunzi walio wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أساطير.", "hypothesis": "Baadhi ya hekaya ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء أطعمة", "hypothesis": "Baadhi ya vyakula hivyo ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أشياءُ.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "Baadhi ya wawindaji ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين عبارة عن هياكل", "hypothesis": "Hakuna juhabahari ni majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة محاربون", "hypothesis": "Baadhi ya wapiganaji ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين أطعمة", "hypothesis": "Vyakula fulani ni vicheshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "Vyakula fulani ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة كائنات حية", "hypothesis": "Viumbe fulani ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود عبارة عن هياكل", "hypothesis": "Majengo fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "Tumbili fulani ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين مفاهيم.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "Wanadamu fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح بشر", "hypothesis": "Hakuna wawindaji wa mizuka walio binadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة مخلوقات", "hypothesis": "Wapishi fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين مهن.", "hypothesis": "Walimu fulani wanafanya kazi mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مخلوقات", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم شخصيات", "hypothesis": "Baadhi ya wahusika ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين رموز", "hypothesis": "Baadhi ya alama hizo ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم شخصيات.", "hypothesis": "Hakuna maharamia wanaohusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "Hakuna wawindaji wa mizuka walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب كائنات", "hypothesis": "Baadhi ya watu ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "Baadhi ya viumbe ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي أدوات.", "hypothesis": "Hakuna dinosa walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أشياء.", "hypothesis": "Hakuna askari - jeshi walio mambo hayo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار كائنات", "hypothesis": "Hakuna ng'ombe walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب وحوش", "hypothesis": "Baadhi ya madubwana ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة محترفون.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي مفاهيم", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر بشر", "hypothesis": "Baadhi ya karoti ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هم مهن", "hypothesis": "Baadhi ya wapelelezi wana shughuli mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان عبارة عن مفاهيم", "hypothesis": "Baadhi ya mashujaa ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين كائنات", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي مهن.", "hypothesis": "Baadhi ya dinosa ni mali yao.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي مخلوقات", "hypothesis": "Viumbe fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات هي قوى", "hypothesis": "Baadhi ya nguvu hizo ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجواسيس من الأنواع.", "hypothesis": "Hakuna wapelelezi walio wa aina mbalimbali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر حيوانات", "hypothesis": "Baadhi ya karoti ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي مخابرات", "hypothesis": "Baadhi ya zombi ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة مخلوقات", "hypothesis": "Na wachawi hawatakuwa na kiumbe yeyote.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأجانب صكوك.", "hypothesis": "Baadhi ya wageni ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم شخصيات", "hypothesis": "Baadhi ya wahusika ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار بشر", "hypothesis": "Ng'ombe fulani ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم شخصيات", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي خضروات.", "hypothesis": "Hakuna ng'ombe walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم أدوات.", "hypothesis": "Baadhi ya ala hizo ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي كيانات", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود رموز", "hypothesis": "Hakuna tumbili walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين أدوات", "hypothesis": "Baadhi ya vyombo ni visao vya kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "Hakuna juhabahari walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أغذية.", "hypothesis": "Hakuna kompyuta zilizo vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "Baadhi ya vifaa hivyo ni vya rangi mbalimbali.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي تكنولوجيات", "hypothesis": "Mizuka fulani ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات وحوش", "hypothesis": "Baadhi ya madubwana ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين بشر", "hypothesis": "Wanadamu fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة كائنات حية.", "hypothesis": "Maharamia fulani ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود أجهزه.", "hypothesis": "Baadhi ya askari - jeshi ni vifaa vya kutumiwa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي حيوانات", "hypothesis": "Dragoni wengine ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب أدوات.", "hypothesis": "Hakuna mgeni aliye na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب كائنات.", "hypothesis": "Vitu fulani ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ القراصنة محاربون.", "hypothesis": "Hakuna maharamia walio mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مركبات.", "hypothesis": "Magari fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات كائنات", "hypothesis": "Baadhi ya watu ni watumishi wa nyumbani.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي أنواع.", "hypothesis": "Aina fulani za wanyama ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي أنواع.", "hypothesis": "Baadhi ya dinosa ni jamii za wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة بشر", "hypothesis": "Wanadamu fulani ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي هياكل", "hypothesis": "Hakuna wavumbuzi walio na majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي شخصيات.", "hypothesis": "Hakuna kompyuta zinazoigiza.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم شخصيات", "hypothesis": "Baadhi ya waokaji ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أجهزة.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم حيوانات", "hypothesis": "Hakuna wakulima walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود محترفون", "hypothesis": "Baadhi ya askari - jeshi ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "Hakuna roboti zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم أجهزة.", "hypothesis": "Hakuna vyombo vya uchawi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي هياكل", "hypothesis": "Majengo fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب بشر", "hypothesis": "Wanadamu fulani ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس بشر", "hypothesis": "Hakuna wapelelezi walio wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس وحوش", "hypothesis": "Wapelelezi fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "Hakuna wachoraji wanaoigiza.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "Hakuna zombi za umeme.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "Wanasayansi fulani ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم مركبات", "hypothesis": "Wanafunzi fulani ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "Baadhi ya mashujaa ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة محترفون", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين مخلوقات", "hypothesis": "Hakuna wavumbuzi walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي أنواع.", "hypothesis": "Baadhi ya wavumbuzi ni spishi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأطباء كَانوا أجهزةَ.", "hypothesis": "Baadhi ya vifaa ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "Hakuna wanafunzi walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين إستخبارات", "hypothesis": "Hakuna wachoraji walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الطلاب كيانات.", "hypothesis": "Baadhi ya wanafunzi ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم خضروات", "hypothesis": "Hakuna wanafunzi walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "Hakuna wapaka - rangi walio na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مخابرات", "hypothesis": "Wapelelezi fulani ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات محاربون", "hypothesis": "Roboti fulani ni wapiganaji.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين بشر", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين مفاهيم.", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي أشياء.", "hypothesis": "Baadhi ya waokaji ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "Baadhi ya zombi ni vyombo vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي كائنات حية", "hypothesis": "Hakuna zombies ambao ni viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس أنظمة", "hypothesis": "Mifumo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "Dragoni wengine ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العفاريت مخلوقات", "hypothesis": "Hakuna viumbe wanaotoweka katika eneo hilo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "Hakuna wanasayansi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم مركبات", "hypothesis": "Hakuna wachawi wanaoendesha magari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح كائنات", "hypothesis": "Mizuka fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "Roboti fulani zina uhai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحوريات هي أنواع.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي قوى", "hypothesis": "Baadhi ya majoka ni nguvu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح أطعمة", "hypothesis": "Vyakula fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر عبارة عن قوى", "hypothesis": "Nguvu nyingine ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين كائنات", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مخابرات", "hypothesis": "Hakuna wapelelezi walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود رموز", "hypothesis": "Tumbili fulani ni mifano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أساطير.", "hypothesis": "Baadhi ya ngano ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هم خضروات.", "hypothesis": "Hakuna wageni walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أدوار.", "hypothesis": "Hakuna wakulima wanaotimiza majukumu yao.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي شخصيات.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء حيوانات", "hypothesis": "Wanyama fulani ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة أدوات.", "hypothesis": "Baadhi ya maharamia ni vifaa vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجزر محاربون.", "hypothesis": "Hakuna karoti zilizo mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "Mifumo fulani ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أساطير", "hypothesis": "Hakuna wawindaji wa mizuka walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الملوك مُهنّ.", "hypothesis": "Hakuna mtu anayefanya kazi za mikono.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هم شخصيات", "hypothesis": "Hakuna wapelelezi walio wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب هم شخصيات", "hypothesis": "Watu fulani ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم تكنولوجيات.", "hypothesis": "Hakuna wapishi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوجُه هي رموز.", "hypothesis": "Hakuna opeo zilizo alama za mfano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس ماكينات", "hypothesis": "Hakuna wapelelezi walio mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين حيوانات", "hypothesis": "Wanyama fulani ni wavumbuzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي مهن.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "Hakuna waokaji ni vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المزارعين كائنات", "hypothesis": "Baadhi ya viumbe ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل أشباحها وحوش", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "Hakuna wanasayansi walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي انظمة", "hypothesis": "Mifumo fulani ni mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي كيانات.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي خضروات.", "hypothesis": "Baadhi ya mboga ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي هم قوى", "hypothesis": "Mizombi fulani ni kani.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب من الأنواع.", "hypothesis": "Baadhi ya wanafunzi ni aina.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين هي تكنولوجيات.", "hypothesis": "Wanamuziki fulani ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "Baadhi ya mboga ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات محاربون", "hypothesis": "Hakuna dinosa walio mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأطباء من الأنواع.", "hypothesis": "Baadhi ya madaktari ni aina.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "Hakuna maharamia walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوات", "hypothesis": "Baadhi ya wachoraji ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي شخصيات.", "hypothesis": "Baadhi ya watu ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشباح", "hypothesis": "Mizuka fulani ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات رموز.", "hypothesis": "Ishara nyingine ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هي أشياء", "hypothesis": "Baadhi ya wapelelezi ni mambo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "Baadhi ya viumbe ni ogre.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأجانب مهنيون.", "hypothesis": "Hakuna mgeni aliye stadi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أشياء", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات حية.", "hypothesis": "Wanamuziki fulani ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ المُتَوَجِّهات تَكنولوجيات.", "hypothesis": "Tekinolojia fulani zina kasoro fulani.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي إستخبارات", "hypothesis": "Akili fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين مفاهيم.", "hypothesis": "Mawazo fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين مخلوقات", "hypothesis": "Hakuna waokaji walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي كائنات.", "hypothesis": "Vitu fulani ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أجهزة", "hypothesis": "Hakuna wawindaji wa mizuka walio kama vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الغيلان كائنات.", "hypothesis": "Baadhi ya ogres ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هم سيارات", "hypothesis": "Baadhi ya wageni ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي خضروات", "hypothesis": "Maua fulani ya zombies ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوجراف هي كائنات حيّة.", "hypothesis": "Hakuna nguruwe walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "Baadhi ya wanafunzi ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس أدوات", "hypothesis": "Baadhi ya vifaa ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم آلات.", "hypothesis": "Walimu fulani ni mashine.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأجانب كيانات.", "hypothesis": "Hakuna mashirika ya kigeni.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع العفاريت هي أجهزة.", "hypothesis": "Hakuna kitu chochote kinachoweza kutumiwa kutengeneza dawa za kulevya.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أساطير", "hypothesis": "Hakuna watunza - farasi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين مفاهيم.", "hypothesis": "Hakuna walimu walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة وحوش", "hypothesis": "Baadhi ya madubwana ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين أدوات.", "hypothesis": "Baadhi ya vifaa ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "Akili fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوجُهِ كُلّ القوات.", "hypothesis": "Hakuna watu wanaoitwa ogre.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي تكنولوجيات.", "hypothesis": "Hakuna dinosa walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم مهن", "hypothesis": "Baadhi ya kazi hizo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم حيوانات", "hypothesis": "Wakulima fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم شخصيات.", "hypothesis": "Wahusika fulani ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجواسيس من الأنواع.", "hypothesis": "Baadhi ya wapelelezi ni aina.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي ماكينات", "hypothesis": "Hakuna mazimwi ni mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود بشر", "hypothesis": "Tumbili fulani ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "Baadhi ya madubwana ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "Baadhi ya watu hao ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "Hakuna wapaka - rangi walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم قوات", "hypothesis": "Hakuna waokaji walio na nguvu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أنظمة", "hypothesis": "Mifumo fulani ni watunza - farasi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الوحوش وحوش.", "hypothesis": "Baadhi ya wanyama wakubwa ni ogres.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هم سيارات", "hypothesis": "Hakuna mgeni yeyote aliye na magari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة مخلوقات", "hypothesis": "Viumbe fulani ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم خضروات", "hypothesis": "Baadhi ya wanafunzi ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم آلات.", "hypothesis": "Hakuna walimu walio mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "Vitu fulani ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأجانب كيانات.", "hypothesis": "Mashirika fulani ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "Hakuna mifumo ya zombi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود ماكينات.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخضروات هي خضروات.", "hypothesis": "Nogres ni mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات محاربين", "hypothesis": "Baadhi ya watunza - farasi ni mashujaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي أنواع.", "hypothesis": "Hakuna karoti za aina hiyo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "Mawazo fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء أدوار", "hypothesis": "Baadhi ya majukumu hayo ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "Baadhi ya vifaa hivyo ni vya kuchekesha.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب مفاهيم.", "hypothesis": "Baadhi ya wageni ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "Baadhi ya majukumu ni ya wizi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي أدوات.", "hypothesis": "Baadhi ya dinosa ni ala za muziki.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "Baadhi ya vifaa hivyo ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العفاريت كائنات", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم أشياء.", "hypothesis": "Hakuna wachawi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي مفاهيم", "hypothesis": "Mawazo fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المعلمين مخلوقات", "hypothesis": "Baadhi ya viumbe ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي هياكل.", "hypothesis": "Nyani fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي ماكينات", "hypothesis": "Mashine fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم مركبات.", "hypothesis": "Magari fulani ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "Hakuna mashujaa walio vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي مفاهيم.", "hypothesis": "Baadhi ya karoti ni dhana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود وحوش", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي شخصيات", "hypothesis": "Dragoni wengine ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر أدوار", "hypothesis": "Baadhi ya karoti huwa na madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي خضروات", "hypothesis": "Hakuna mboga za zombi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوار", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "Majengo fulani ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان أطعمة", "hypothesis": "Baadhi ya mashujaa ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "Baadhi ya ogre ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الغيلان حيوانات.", "hypothesis": "Wanyama fulani ni ogres.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء مخابرات", "hypothesis": "Hakuna madaktari walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي آلات", "hypothesis": "Baadhi ya waokaji ni mashine.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب أطعمة", "hypothesis": "Vyakula fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود محترفون", "hypothesis": "Tumbili fulani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "Wanamuziki fulani ni nguvu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم حيوانات", "hypothesis": "Wapishi fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح كائنات حية", "hypothesis": "Hakuna mazimwi ni viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين مفاهيم.", "hypothesis": "Mawazo fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة كائنات", "hypothesis": "Baadhi ya wachawi ni aina za viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي هياكل", "hypothesis": "Mizuka fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أنواع.", "hypothesis": "Roboti fulani ni aina mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس قوات", "hypothesis": "Hakuna wapelelezi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان خضروات", "hypothesis": "Hakuna mashujaa walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم شخصيات.", "hypothesis": "Baadhi ya wahusika ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم قوى", "hypothesis": "Baadhi ya nguvu hizo ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة أدوار", "hypothesis": "Baadhi ya majukumu ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان مخلوقات", "hypothesis": "Viumbe fulani ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "Wapishi fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "Mizuka fulani ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح مخلوقات", "hypothesis": "Baadhi ya viumbe ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم مركبات", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هم مهن.", "hypothesis": "Hakuna waokaji walio na kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء مخلوقات", "hypothesis": "Viumbe fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين بشر", "hypothesis": "Baadhi ya wachoraji ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع البوقات هي آلات.", "hypothesis": "Hakuna tabi ni mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أساطير", "hypothesis": "Baadhi ya ngano ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة ماكينات", "hypothesis": "Baadhi ya wachawi ni mashine.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم من الخضروات.", "hypothesis": "Hakuna walimu walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مفاهيم.", "hypothesis": "Mawazo fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين محاربون", "hypothesis": "Baadhi ya mashujaa wa vita ni wavumbuzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم قوى", "hypothesis": "Hakuna nguvu za uchawi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم شخصيات", "hypothesis": "Wapishi fulani ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس محاربون", "hypothesis": "Hakuna wapelelezi walio mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "Wachekeshaji wengine ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الغيليات هي أشياء.", "hypothesis": "Hakuna opago ni vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "Wahusika fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأطباء أدوات", "hypothesis": "Hakuna madaktari walio vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأطباء أدوارُ.", "hypothesis": "Baadhi ya madaktari wana madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين ماكينات", "hypothesis": "Mashine nyingine ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود كائنات", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب هم شخصيات", "hypothesis": "Baadhi ya wageni ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح محترفة", "hypothesis": "Mizuka fulani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار وحوش", "hypothesis": "Baadhi ya wanyama wakubwa ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت مهنُ.", "hypothesis": "Baadhi ya kazi hizo ni za wizi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوغرافات هي أجهزةُ.", "hypothesis": "Baadhi ya vifaa hivyo vinaitwa ogres.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود وحوش", "hypothesis": "Hakuna tumbili walio wakali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين هم أجهزة.", "hypothesis": "Wanamuziki fulani ni vidude.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "Maharamia fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود أطعمة", "hypothesis": "Vyakula fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين وحوش", "hypothesis": "Hakuna majoka ambao ni madubwana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود رموز", "hypothesis": "Askari - jeshi fulani ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المزارعين هم قوات", "hypothesis": "Hakuna nguvu za wakulima.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع البوقات هي الأطعمة.", "hypothesis": "Hakuna ogre ni vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المشعوذين هي كائنات.", "hypothesis": "Hakuna mazingaombwe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "Hakuna waokaji walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين مخلوقات", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر مخلوقات", "hypothesis": "Baadhi ya karoti ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين محاربون", "hypothesis": "Hakuna waokaji walio mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب محاربون", "hypothesis": "Baadhi ya wanafunzi ni wapiganaji.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي كائنات حية.", "hypothesis": "Hakuna dinosa ambao ni viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات أدوار", "hypothesis": "Hakuna watunza - farasi walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي خضروات", "hypothesis": "Hakuna jike wala mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود هم خضروات.", "hypothesis": "Baadhi ya mboga ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات أدوار", "hypothesis": "Baadhi ya watumishi wa nyumbani hutimiza majukumu yao.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أساطير", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أساطير", "hypothesis": "Baadhi ya ngano ni watunza - farasi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود كائنات حية", "hypothesis": "Hakuna askari - jeshi walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم من الخضروات.", "hypothesis": "Maharamia fulani ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Baadhi ya maharamia ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء مفاهيم.", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أشياء.", "hypothesis": "Wanasayansi fulani ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "Wakulima fulani ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي خضروات.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين بشر", "hypothesis": "Wanadamu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي مفاهيم", "hypothesis": "Hakuna majoka walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحواسيب كائنات", "hypothesis": "Kompyuta fulani zina uhai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أدوات.", "hypothesis": "Baadhi ya wafanyakazi ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي أدوات.", "hypothesis": "Baadhi ya vifaa ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أشياء", "hypothesis": "Baadhi ya mashujaa ni mambo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجوارس حيوانات", "hypothesis": "Wapelelezi fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المشعوذين أدوات.", "hypothesis": "Hakuna wachawi walio na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب هم وحوش.", "hypothesis": "Baadhi ya madubwana ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم إستخبارات.", "hypothesis": "Hakuna walimu walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "Kompyuta fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب أغذية.", "hypothesis": "Baadhi ya wageni ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي أنواع.", "hypothesis": "Spishi fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي أنظمة", "hypothesis": "Baadhi ya watumishi wa nyumbani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي شخصيات.", "hypothesis": "Kompyuta fulani ni herufi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي حيوانات", "hypothesis": "Wanyama fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات محترفة", "hypothesis": "Hakuna watunza - anasa walio stadi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأطباء كيانات.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي هياكل.", "hypothesis": "Baadhi ya vifaa hivyo ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "Roboti fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "Wahusika fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح أدوار", "hypothesis": "Mizuka fulani ni wajibu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين محترفين", "hypothesis": "Wanamuziki fulani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي مخلوقات", "hypothesis": "Viumbe fulani ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي كائنات.", "hypothesis": "Vitu fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أنظمة.", "hypothesis": "Mifumo fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "Hakuna wapishi walio na majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم مفاهيم.", "hypothesis": "Hakuna wapishi walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين مخابرات", "hypothesis": "Hakuna waokaji walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي قوى", "hypothesis": "Nyani fulani huwa na nguvu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هم مهن", "hypothesis": "Baadhi ya kazi hizo ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أنظمة.", "hypothesis": "Mifumo fulani ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أدوات.", "hypothesis": "Hakuna wakulima walio na vifaa vya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العفاريت هي خضروات.", "hypothesis": "Baadhi ya mboga ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم أشياء.", "hypothesis": "Vitu fulani ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "Baadhi ya kazi hizo ni kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء كائنات حية", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "Baadhi ya wataalamu ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين هم تكنولوجيات.", "hypothesis": "Hakuna walimu walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "Baadhi ya vifaa ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء بشر", "hypothesis": "Hakuna wanasayansi ambao ni wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي خضروات.", "hypothesis": "Hakuna dinosa walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "Baadhi ya watu wenye akili ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم أنظمة.", "hypothesis": "Hakuna wapishi walio na mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي خضروات.", "hypothesis": "Baadhi ya mboga ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود ماكينات.", "hypothesis": "Mashine fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي مهن.", "hypothesis": "Kazi fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي كائنات", "hypothesis": "Hakuna drakoni walio vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب رموز", "hypothesis": "Ishara fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أساطير", "hypothesis": "Wapishi fulani ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين رموز", "hypothesis": "Ishara nyingine ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي هياكل.", "hypothesis": "Hakuna dinosa ambao ni majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أدوات", "hypothesis": "Hakuna wawindaji wa mizuka walio ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي هي أشياء.", "hypothesis": "Vitu fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء حيوانات", "hypothesis": "Wanasayansi fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم أنظمة", "hypothesis": "Hakuna wabuni walio na mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي كيانات.", "hypothesis": "Mashirika fulani ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار وحوش", "hypothesis": "Hakuna ng'ombe walio wakali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي كائنات.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين أدوات", "hypothesis": "Hakuna wavumbuzi walio na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم قوات", "hypothesis": "Baadhi ya walimu ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "Baadhi ya watu wenye akili ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان بشر", "hypothesis": "Hakuna mashujaa walio wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء رموز", "hypothesis": "Ishara fulani ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي تكنولوجيات.", "hypothesis": "Nyani fulani ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين هم شخصيات", "hypothesis": "Wahusika fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين حيوانات", "hypothesis": "Wanyama fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي هياكل.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "Hakuna waokaji walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة من الأنواع.", "hypothesis": "Kuna aina fulani za maharamia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء كائنات حية", "hypothesis": "Hakuna wanasayansi ambao ni viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "Baadhi ya vifaa hivyo ni nyani.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أشياء.", "hypothesis": "Mambo fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود محاربون", "hypothesis": "Tumbili fulani ni wapiganaji.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أساطير", "hypothesis": "Hakuna wanasayansi walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل أشباحها حيوانات", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدو الأشباح محاربون", "hypothesis": "Hakuna wawindaji wa mizuka walio mashujaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة محترفون", "hypothesis": "Wataalamu fulani ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "Ng'ombe fulani ni mifano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "Baadhi ya wahusika ni wanasarakasi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هي مفاهيم", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء كائنات حية", "hypothesis": "Madaktari fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب كائنات حية.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات محترفة", "hypothesis": "Baadhi ya watumishi wa nyumbani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "Baadhi ya majengo hayo ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء كائنات", "hypothesis": "Baadhi ya viumbe ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "Hakuna karoti zilizo na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة بشر", "hypothesis": "Maharamia fulani ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشباح", "hypothesis": "Hakuna mazimwi ni wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح هي تكنولوجيات.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "Hakuna wanafunzi walio na vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات هي أشياء.", "hypothesis": "Vitu fulani ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين بشر", "hypothesis": "Hakuna wavumbuzi walio wanadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان خضروات", "hypothesis": "Baadhi ya mashujaa ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي أنظمة.", "hypothesis": "Mifumo fulani ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجوارس حيوانات", "hypothesis": "Wanyama fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح محترفة", "hypothesis": "Wataalamu fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم مخابرات.", "hypothesis": "Hakuna maharamia walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم من الخضروات.", "hypothesis": "Wakulima fulani ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم من المحترفين.", "hypothesis": "Hakuna maharamia wanaofanya kazi hiyo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين وحوش", "hypothesis": "Baadhi ya waokaji ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب كائنات.", "hypothesis": "Hakuna mgeni aliye vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان رموز", "hypothesis": "Hakuna mashujaa walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "Hakuna zombi ni zana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات هي أساطير", "hypothesis": "Baadhi ya dinosa ni hekaya.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي أدوات", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأجانب صكوك.", "hypothesis": "Hakuna mgeni aliye ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي مخلوقات", "hypothesis": "Baadhi ya zombi ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح بشر", "hypothesis": "Baadhi ya wawindaji wa mizuka ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة رموز.", "hypothesis": "Ishara fulani ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات حية.", "hypothesis": "Hakuna wanamuziki walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي إستخبارات.", "hypothesis": "Baadhi ya karoti ni akili.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هي كيانات", "hypothesis": "Hakuna wanasayansi walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس كائنات حية", "hypothesis": "Hakuna wapelelezi walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين كائنات حية", "hypothesis": "Hakuna wachoraji walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي أشياء.", "hypothesis": "Baadhi ya karoti ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود كائنات", "hypothesis": "Baadhi ya viumbe ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخلوقات الفضائية هي ماكينات", "hypothesis": "Mashine nyingine ni za kigeni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المزارعين هم تكنولوجيات.", "hypothesis": "Wakulima fulani ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "Hakuna wapishi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان أدوات", "hypothesis": "Baadhi ya vyombo ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين أدوات", "hypothesis": "Hakuna juhabahari ni vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء هم أنظمة", "hypothesis": "Madaktari fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين ماكينات", "hypothesis": "Mashine fulani ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الأطباء كيانات.", "hypothesis": "Baadhi ya madaktari ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم من المحترفين.", "hypothesis": "Baadhi ya maharamia hufanya kazi mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المزارعين محترفون.", "hypothesis": "Wataalamu fulani ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي أساطير", "hypothesis": "Baadhi ya ng'ombe ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أنواع.", "hypothesis": "Spishi fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين هم أساطير", "hypothesis": "Hakuna wachoraji walio hadithi za kubuniwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين أطعمة.", "hypothesis": "Hakuna wakulima walio vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء كائنات", "hypothesis": "Hakuna madaktari walio vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس كيانات", "hypothesis": "Mashirika fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة كيانات.", "hypothesis": "Mashirika fulani ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين حيوانات", "hypothesis": "Wanyama fulani ni wacheshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "Hakuna mazimwi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء أطعمة", "hypothesis": "Wanasayansi fulani ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أنواع.", "hypothesis": "Kompyuta fulani ni aina.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم أنظمتهم", "hypothesis": "Baadhi ya wawindaji ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين محترفة", "hypothesis": "Wataalamu fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "Baadhi ya ngano ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الغيلان كائنات.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم كيانات", "hypothesis": "Hakuna wawindaji wa mizuka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع العلماء هي تكنولوجيات.", "hypothesis": "Hakuna wanasayansi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم مركبات", "hypothesis": "Baadhi ya wavumbuzi ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي ماكينات", "hypothesis": "Hakuna zombi za mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي أطعمة", "hypothesis": "Vyakula fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء هم أساطير", "hypothesis": "Baadhi ya madaktari ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب أدوار.", "hypothesis": "Baadhi ya madaraka ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين كائنات حية.", "hypothesis": "Hakuna wakulima ambao ni viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار رموز", "hypothesis": "Hakuna ng'ombe walio mifano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي أدوات.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي شخصيات.", "hypothesis": "Hakuna karoti zinazoigiza.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أدوات", "hypothesis": "Wapishi fulani ni vyombo vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هي مفاهيم", "hypothesis": "Mawazo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هم أدوات.", "hypothesis": "Hakuna mgeni anayetumia vifaa hivyo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مركبات.", "hypothesis": "Baadhi ya ng'ombe ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخلوقات الغريبة هي أنواع.", "hypothesis": "Hakuna ndege kutoka nchi nyingine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار هي أساطير", "hypothesis": "Hakuna ng'ombe walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي هياكل.", "hypothesis": "Hakuna wapaka - rangi walio na maumbo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل أشباح الأطعمة", "hypothesis": "Mizuka fulani ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس رموز", "hypothesis": "Wapelelezi fulani ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة بشر", "hypothesis": "Baadhi ya wachawi ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح أدوات.", "hypothesis": "Baadhi ya wawindaji wa mizuka ni vifaa vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين محاربين", "hypothesis": "Wanamuziki fulani ni wapiganaji.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع الحواسيب هي كيانات.", "hypothesis": "Mashirika fulani ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين أدوات.", "hypothesis": "Walimu fulani ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "Hakuna wawindaji wa mizuka walio na maumbo kama hayo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين هم شخصيات.", "hypothesis": "Hakuna wanamuziki walio wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أنظمة", "hypothesis": "Hakuna askari - jeshi walio mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين بشر", "hypothesis": "Wakulima fulani ni wanadamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي كائنات.", "hypothesis": "Hakuna roboti zilizo vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود رموز", "hypothesis": "Ishara fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي مفاهيم.", "hypothesis": "Tumbili fulani ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين محترفين", "hypothesis": "Wataalamu fulani ni wavumbuzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "Majengo fulani ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس عبارة عن هياكل", "hypothesis": "Hakuna wapelelezi walio na majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي مفاهيم.", "hypothesis": "Hakuna waombolezaji walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "فجميع القراصنة أدوار.", "hypothesis": "Baadhi ya majukumu ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود مخلوقات", "hypothesis": "Hakuna tumbili walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم إستخبارات", "hypothesis": "Baadhi ya watu wenye akili ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مخلوقات", "hypothesis": "Hakuna wapelelezi walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين رموز", "hypothesis": "Ishara fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح كائنات", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء وحوش", "hypothesis": "Baadhi ya madubwana ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحوريات هي هياكل.", "hypothesis": "Hakuna watumishi wa nyumbani walio na majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود عبارة عن هياكل", "hypothesis": "Hakuna askari - jeshi walio majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين أدوات.", "hypothesis": "Hakuna wanamuziki walio ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم أنظمة", "hypothesis": "Mifumo fulani ni wabuni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين إستخبارات", "hypothesis": "Hakuna wanamuziki walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم قوات", "hypothesis": "Baadhi yao ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هم مهن.", "hypothesis": "Hakuna zombi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم خضروات", "hypothesis": "Baadhi ya wavumbuzi ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الديناصورات هي احترافية.", "hypothesis": "Hakuna dinosa walio wataalamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي ماكينات", "hypothesis": "Mashine fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم أنظمة", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم إستخبارات", "hypothesis": "Wanasayansi fulani ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين هم أنظمة", "hypothesis": "Hakuna wapaka - rangi walio na mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت كيانات.", "hypothesis": "Hakuna mashirika ya dawa za kulevya.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود أجهزه.", "hypothesis": "Hakuna askari - jeshi walio vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب عبارة عن هياكل.", "hypothesis": "Hakuna wageni walio na majengo mapya.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأطباء أدوارُ.", "hypothesis": "Hakuna madaktari walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أشياءُ.", "hypothesis": "Baadhi ya bumba ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب أدوار", "hypothesis": "Hakuna wanafunzi walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "Wapelelezi fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أساطير", "hypothesis": "Baadhi ya ngano ni mashujaa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود هم خضروات.", "hypothesis": "Askari - jeshi fulani ni mboga.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح محاربون", "hypothesis": "Baadhi ya mashujaa wa vita ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي أدوات", "hypothesis": "Hakuna mazimwi ni vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس أدوار", "hypothesis": "Baadhi ya madaraka ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم مهن.", "hypothesis": "Hakuna wapishi wanaofanya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم خضروات", "hypothesis": "Hakuna wanasayansi ambao ni mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار كائنات حية.", "hypothesis": "Ng'ombe fulani ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي أنواع.", "hypothesis": "Spishi fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أساطير.", "hypothesis": "Baadhi ya ngano ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب محترفة", "hypothesis": "Hakuna kompyuta zilizo na ujuzi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء مفاهيم.", "hypothesis": "Dhana fulani ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أدوات.", "hypothesis": "Vifaa fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس أدوات", "hypothesis": "Wapelelezi fulani ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة ماكينات", "hypothesis": "Mashine nyingine ni wachawi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "Mifumo fulani ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين محاربون", "hypothesis": "Dragoni wengine ni mashujaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هي أنظمة.", "hypothesis": "Mizombi fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الحواسب قوّات.", "hypothesis": "Baadhi ya kani ni kompyuta.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين محترفين", "hypothesis": "Hakuna mpaka - rangi walio stadi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم إستخبارات", "hypothesis": "Hakuna wachawi walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أنظمة", "hypothesis": "Mifumo fulani ni askari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الجنود أدواتُ.", "hypothesis": "Baadhi ya askari - jeshi ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي شخصيات", "hypothesis": "Hakuna tumbili wanaoigiza.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "Hakuna ng'ombe anayefanya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "Hakuna walimu walio na madaraka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي شخصيات", "hypothesis": "Baadhi ya wanasarakasi ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم أدوات.", "hypothesis": "Hakuna mashujaa wa vita walio vifaa vya kijeshi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود وحوش", "hypothesis": "Askari - jeshi fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم أجسام.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر هي أساطير", "hypothesis": "Hakuna karoti zilizo ngano.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين مخابرات", "hypothesis": "Akili fulani ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء هم قوات", "hypothesis": "Baadhi ya madaktari ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أساطير", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم قوى", "hypothesis": "Wanasayansi fulani ni kani.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المشعوذين عبارة عن مفاهيم.", "hypothesis": "Baadhi ya wachawi ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطهاة هم مفاهيم.", "hypothesis": "Wapishi fulani ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي اشياء", "hypothesis": "Mambo fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان من الأنواع", "hypothesis": "Baadhi ya mashujaa ni spishi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم شخصيات", "hypothesis": "Wanasayansi fulani ni wahusika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي كائنات.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة كائنات حية", "hypothesis": "Wingu fulani ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات كائنات حية", "hypothesis": "Hakuna watunza - farasi walio viumbe hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أجهزة.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الوحوش وحوش.", "hypothesis": "Hakuna ndege wanaoitwa ogres.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "Hakuna walimu walio wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس مركبات", "hypothesis": "Baadhi ya wapelelezi ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم خضروات.", "hypothesis": "Hakuna wapaka - rangi walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأشباح هي إستخبارات", "hypothesis": "Mizuka fulani ni watu wenye akili.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان عبارة عن هياكل", "hypothesis": "Baadhi ya mashujaa ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات أدوار", "hypothesis": "Baadhi ya majukumu hayo ni dinosa.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأشباح هي إستخبارات", "hypothesis": "Hakuna mazimwi ni werevu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الطلاب إستخبارات.", "hypothesis": "Wanafunzi fulani ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب رموز", "hypothesis": "Wanafunzi fulani ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم من الأنواع.", "hypothesis": "Hakuna walimu walio wa jamii mbalimbali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم من الخضروات.", "hypothesis": "Hakuna maharamia walio mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "Hakuna majoka walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي أنظمة", "hypothesis": "Hakuna waokaji walio mifumo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة تكنولوجيات.", "hypothesis": "Hakuna maharamia walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Baadhi ya viumbe ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الموسيقيين هم قوى", "hypothesis": "Baadhi ya vikosi hivyo ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح أطعمة", "hypothesis": "Wawindaji fulani wa mizuka ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح هم مفاهيم", "hypothesis": "Baadhi ya wawindaji wa mizuka ni dhana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي نوع من الأنواع.", "hypothesis": "Hakuna mizuka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر بشر", "hypothesis": "Hakuna karoti zilizo binadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود محاربون", "hypothesis": "Baadhi ya mashujaa wa vita ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين أدوات", "hypothesis": "Baadhi ya vifaa ni wavumbuzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي كيانات", "hypothesis": "Hakuna majoka ambao ni mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي هياكل.", "hypothesis": "Hakuna tumbili walio katika makao hayo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات حيوانات", "hypothesis": "Wanyama fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأساطير هي أساطير.", "hypothesis": "Baadhi ya watu wa ukoo ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم وحوش.", "hypothesis": "Baadhi ya madubwana ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجنود محترفون", "hypothesis": "Wataalamu fulani ni wanajeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي أدوات", "hypothesis": "Hakuna majoka walio ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت ماكينات.", "hypothesis": "Baadhi ya mashini hizo ni bumba.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب كائنات حية.", "hypothesis": "Baadhi ya viumbe hao ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي أدوات.", "hypothesis": "Vifaa fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين محترفون", "hypothesis": "Wataalamu fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين أدوار", "hypothesis": "Baadhi ya wachoraji wana madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل صائدي الأشباح أدوار", "hypothesis": "Baadhi ya majukumu hayo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين كائنات", "hypothesis": "Baadhi ya watu ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم أساطير", "hypothesis": "Hakuna askari - jeshi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أجهزة.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أجهزة.", "hypothesis": "Baadhi ya vifaa ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس هي أشياء", "hypothesis": "Hakuna wapelelezi walio hivyo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات محاربون", "hypothesis": "Hakuna roboti zinazopigana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحواسب وحوش", "hypothesis": "Hakuna kompyuta zilizo dubwana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات حيوانات", "hypothesis": "Hakuna roboti ambazo ni wanyama.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدوار.", "hypothesis": "Hakuna yeyote anayetimiza majukumu yake.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي كيانات", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي أنواع.", "hypothesis": "Aina fulani za ng'ombe ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين أدوار", "hypothesis": "Waokaji fulani ni wenye madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم إستخبارات", "hypothesis": "Baadhi ya watu wenye akili ni wapishi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم خضروات", "hypothesis": "Hakuna wavumbuzi walio na mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود محاربون", "hypothesis": "Baadhi ya wapiganaji ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "Kompyuta fulani ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "Baadhi ya maharamia ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة هم أجهزة.", "hypothesis": "Baadhi ya maharamia ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين عبارة عن هياكل.", "hypothesis": "Walimu fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "Maharamia fulani ni wanyama.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود أدوات", "hypothesis": "Baadhi ya askari - jeshi ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "Viumbe fulani ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان كائنات", "hypothesis": "Hakuna mashujaa walio vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب هم محاربون", "hypothesis": "Baadhi ya wapiganaji ni wageni.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي أشياء.", "hypothesis": "Vitu fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "Mashirika fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح عبارة عن هياكل", "hypothesis": "Baadhi ya wawindaji wa mizuka ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الجزر هي الأطعمة.", "hypothesis": "Baadhi ya karoti ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "Hakuna wakulima wanaolima.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي أدوات.", "hypothesis": "Baadhi ya vifaa hivyo ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي أدوات.", "hypothesis": "Dragoni wengine ni vyombo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين خضروات", "hypothesis": "Baadhi ya mboga ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار محترفة", "hypothesis": "Hakuna ng'ombe walio wataalamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم أساطير", "hypothesis": "Wanasayansi fulani ni ngano.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين كائنات", "hypothesis": "Hakuna waokaji waliohai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي كيانات", "hypothesis": "Hakuna mashirika ya zombies.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هم مركبات.", "hypothesis": "Magari mengine ni ya rangi mbalimbali.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأجانب مخلوقات", "hypothesis": "Hakuna viumbe wasiotambuliwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات", "hypothesis": "Baadhi ya watu ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الزومبي هم مهن.", "hypothesis": "Baadhi ya kazi hizo ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب أدوات.", "hypothesis": "Baadhi ya vifaa ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي ماكينات", "hypothesis": "Mashine nyingine ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة كائنات", "hypothesis": "Na wachawi hawatakuwa wenye kughafilika na hayo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر وحوش", "hypothesis": "Hakuna karoti zilizo madubwana.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة حيوانات.", "hypothesis": "Wanyama fulani ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات رموز", "hypothesis": "Baadhi ya wafanyakazi ni ishara.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي أشياء.", "hypothesis": "Baadhi ya ng'ombe ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي بشر", "hypothesis": "Hakuna zombies walio binadamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأبقار هي مهن.", "hypothesis": "Baadhi ya ng'ombe ni wafanyakazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الأساور محترفون.", "hypothesis": "Baadhi ya jamaa ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء وحوش", "hypothesis": "Madaktari fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "Baadhi ya askari - jeshi ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم من الخضروات.", "hypothesis": "Baadhi ya mboga ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أنظمة.", "hypothesis": "Hakuna pepo zinazotoweka.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء مخلوقات", "hypothesis": "Baadhi ya viumbe ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب كائنات حية", "hypothesis": "Baadhi ya viumbe ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة عبارة عن هياكل", "hypothesis": "Wapishi fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين أدوار.", "hypothesis": "Baadhi ya madaraka ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "Baadhi ya wachawi hufanya kazi mbalimbali.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات كائنات", "hypothesis": "Hakuna watunza - farasi walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة أدوات", "hypothesis": "Hakuna wapishi walio vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات هي إستخبارات", "hypothesis": "Baadhi ya dinosa ni watu wenye akili.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين مخلوقات", "hypothesis": "Viumbe fulani ni majoka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء خضروات", "hypothesis": "Baadhi ya mboga ni madaktari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين كائنات حية", "hypothesis": "Waokaji wengine ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "Hakuna wanafunzi walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الخبازين هم أشياء", "hypothesis": "Vitu fulani ni vikao vya kuoka mikate.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي مهن", "hypothesis": "Kazi fulani ni za sulubu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي كيانات.", "hypothesis": "Tumbili fulani ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "Baadhi ya vifaa hivyo ni karoti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان مخابرات", "hypothesis": "Baadhi ya mashujaa ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الموسيقيين كائنات.", "hypothesis": "Vitu fulani ni wanamuziki.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود هم حيوانات", "hypothesis": "Wanyama fulani ni askari - jeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي مفاهيم.", "hypothesis": "Wavumbuzi fulani ni dhana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان ماكينات", "hypothesis": "Hakuna mashujaa wa kazi walio mashine.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ الغيلان شخصياتُ.", "hypothesis": "Baadhi ya wahusika ni ogres.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم وحوش.", "hypothesis": "Hakuna wawindaji wa mizuka walio wakali.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة أطعمة.", "hypothesis": "Baadhi ya maharamia ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء عبارة عن مفاهيم.", "hypothesis": "Madaktari fulani ni mawazo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هي تكنولوجيات.", "hypothesis": "Baadhi ya wageni ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "Baadhi ya viumbe ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي كيانات.", "hypothesis": "Baadhi ya wachoraji ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين مخلوقات", "hypothesis": "Wachekeshaji fulani ni viumbe.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الفرسان هم شخصيات", "hypothesis": "Hakuna mashujaa walio wahusika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب ماكينات", "hypothesis": "Mashine fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم مهن.", "hypothesis": "Kazi fulani ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين من الأنواع.", "hypothesis": "Jamii fulani ni waokaji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الديناصورات مخلوقات", "hypothesis": "Hakuna dinosa walio viumbe.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوغرافات هي كائنات.", "hypothesis": "Hakuna opani ni vitu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أنظمة.", "hypothesis": "Walimu fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب هم أساطير", "hypothesis": "Baadhi ya ngano ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "Vitu fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni wachoraji.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ أوغرافات هي أجهزةُ.", "hypothesis": "Hakuna opani ni vyombo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم مهن", "hypothesis": "Baadhi ya kazi hizo ni wavumbuzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي كائنات.", "hypothesis": "Baadhi ya wavumbuzi ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم أشياء.", "hypothesis": "Hakuna walimu wa kufanya mambo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل أشباحها حيوانات", "hypothesis": "Wanyama fulani ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي كيانات", "hypothesis": "Hakuna wafanyakazi walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات كائنات", "hypothesis": "Hakuna roboti zilizo hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة أطعمة", "hypothesis": "Hakuna wapishi walio vyakula.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع السحرة هي تكنولوجيات.", "hypothesis": "Hakuna wachawi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين إستخبارات", "hypothesis": "Baadhi ya wavumbuzi ni watu wenye akili.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأطباء هم مركبات.", "hypothesis": "Madaktari fulani ni magari.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المزارعين هم أشياء.", "hypothesis": "Baadhi ya vitu ni wakulima.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطلاب أدوار", "hypothesis": "Baadhi ya wanafunzi wana madaraka.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي أدوات.", "hypothesis": "Hakuna tumbili walio ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم قوى", "hypothesis": "Hakuna juhabahari.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي ماكينات.", "hypothesis": "Mashine fulani ni nyani.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجنود مخابرات", "hypothesis": "Baadhi ya watu wenye akili ni wanajeshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القراصنة هم أشياء.", "hypothesis": "Baadhi ya vitu ni maharamia.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي مهن", "hypothesis": "Hakuna wafanyakazi wanaofanya kazi hiyo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس أطعمة", "hypothesis": "Baadhi ya wapelelezi ni vyakula.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هم إستخبارات.", "hypothesis": "Hakuna wakulima walio na akili.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم أنظمة", "hypothesis": "Mifumo fulani ni juhabahari.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين سيارات.", "hypothesis": "Magari mengine ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع صائدي الأشباح من الأنواع.", "hypothesis": "Hakuna mnyama anayewinda.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المعلمين هم حيوانات", "hypothesis": "Wanyama fulani ni walimu.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الروبوتات مخلوقات", "hypothesis": "Viumbe fulani ni roboti.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع المعلمين محترفون.", "hypothesis": "Walimu fulani ni wataalamu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الأجانب هي تكنولوجيات.", "hypothesis": "Hakuna nchi nyingine zinazotumia teknolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود كائنات", "hypothesis": "Hakuna tumbili walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأبقار أطعمة", "hypothesis": "Vyakula fulani ni ng'ombe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح رموز", "hypothesis": "Mifano mingine ni mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "وجميع القراصنة تكنولوجيات.", "hypothesis": "Baadhi ya maharamia ni tekinolojia.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الخبازين هي كيانات.", "hypothesis": "Baadhi ya waokaji ni mashirika.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أدوات.", "hypothesis": "Nyani fulani ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الرسامين هي تكنولوجيات.", "hypothesis": "Hakuna wapaka - rangi walio na tekinolojia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح عبارة عن ادوات", "hypothesis": "Hakuna mazimwi ni vifaa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر كائنات حية", "hypothesis": "Baadhi ya karoti ni viumbe hai.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم مركبات", "hypothesis": "Magari fulani ni mazingaombwe.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس محترفون", "hypothesis": "Hakuna wapelelezi walio wataalamu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحوريات هي أنواع.", "hypothesis": "Baadhi ya ndege hao ni wa jamii fulani.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي أدوات.", "hypothesis": "Hakuna kompyuta zilizo za hali ya juu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العفاريت كائنات حية", "hypothesis": "Baadhi ya viumbe ni wabumba.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح كائنات حية", "hypothesis": "Baadhi ya viumbe ni mazimwi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع أشباح الصيادين هم قوى", "hypothesis": "Baadhi ya nguvu hizo ni wawindaji wa mizuka.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المعلمين وحوش", "hypothesis": "Walimu fulani ni madubwana.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل التنانين هي إستخبارات", "hypothesis": "Dragoni wengine ni werevu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي مهن", "hypothesis": "Hakuna mazimwi ya kazi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الحواسيب هي هياكل.", "hypothesis": "Hakuna kompyuta ambazo zimeundwa kwa njia yoyote ile.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعين هم شخصيات", "hypothesis": "Hakuna wavumbuzi wanaoigiza.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الرسامين كائنات", "hypothesis": "Hakuna mpaka - rangi walio hai.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة محترفون", "hypothesis": "Hakuna waganga walio stadi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المزارعين هي هياكل.", "hypothesis": "Hakuna wakulima walio na majengo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء هم خضروات", "hypothesis": "Baadhi ya mboga ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الروبوتات هي هياكل.", "hypothesis": "Hakutakuwa na roboti za hali ya juu.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع المخترعين هي كيانات.", "hypothesis": "Hakuna wabuni walio mashirika.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القراصنة كائنات بشرية.", "hypothesis": "Hakuna maharamia.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الزومبي أدوات", "hypothesis": "Vyombo vingine ni zombies.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء عبارة عن مفاهيم.", "hypothesis": "Hakuna madaktari walio na mawazo.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل السحرة هم مهن.", "hypothesis": "Hakuna kitu kinachofanywa na wachawi.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس كائنات", "hypothesis": "Vitu fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجواسيس عبارة عن هياكل", "hypothesis": "Majengo fulani ni wapelelezi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب عبارة عن هياكل.", "hypothesis": "Wanafunzi fulani ni majengo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل العلماء آلات", "hypothesis": "Baadhi ya mashine ni wanasayansi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المهرجين هم أشياء.", "hypothesis": "Vitu fulani ni vicheshi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الجزر أدوات.", "hypothesis": "Baadhi ya karoti ni vifaa vya kazi.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع القرود هي أنظمة.", "hypothesis": "Nyani fulani ni mifumo.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل القرود هي أساطير.", "hypothesis": "Baadhi ya ngano ni tumbili.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الحوريات هي كيانات", "hypothesis": "Mashirika fulani ni watumishi wa nyumbani.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كُلّ العفاريت أدواتُ.", "hypothesis": "Hakuna vibumba vilivyo na ala za muziki.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الطهاة هم أشياء", "hypothesis": "Wapishi fulani ni vitu.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الاشباح هي خضروات", "hypothesis": "No mizuka ni mboga.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل المخترعات هي أجهزة.", "hypothesis": "Baadhi ya wavumbuzi ni vifaa.", "label": "entailment", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "كل الأطباء هم أساطير", "hypothesis": "Hakuna madaktari walio hadithi za kutungwa.", "label": "contradiction", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
+{"premise": "جميع الطلاب هم تكنولوجيات.", "hypothesis": "Tekinolojia fulani ni wanafunzi.", "label": "neutral", "lang_premise": "ar", "lang_hypothesis": "sw", "codeswitch_type": "ar_prem_sw_hyp"}
