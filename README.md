@@ -17,7 +17,6 @@ We introduce a controlled framework for evaluating the multilingual reasoning ca
 
 ## 🛠️ How to Run
 
-> 🧪 This section outlines how to reproduce the experiments (to be expanded with commands by you):
 
 1. Clone the repo and install required packages:
 
