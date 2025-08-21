@@ -22,7 +22,7 @@ We introduce a controlled framework for evaluating the multilingual reasoning ca
 1. Clone the repo and install required packages:
 
 ```bash
-git clone [https://github.com/yourname/multilingual-nli-logical-eval.git](https://github.com/KurbanIntelligenceLab/nli-stress-testing.git)
+git clone https://github.com/KurbanIntelligenceLab/nli-stress-testing.git
 cd nli-stress-testing
 ```
 
